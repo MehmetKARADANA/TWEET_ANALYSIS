@@ -1,0 +1,11 @@
+Topic 10 - En Sık 10 Kelime:
+schools: 63
+school: 48
+kids: 18
+open: 16
+teachers: 16
+education: 12
+safe: 11
+students: 11
+reopening: 10
+parents: 9

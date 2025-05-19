@@ -1,0 +1,11 @@
+Topic 85 - En Sık 10 Kelime:
+johnson: 8
+boris: 6
+cummings: 3
+dominic: 2
+amp: 2
+paul: 2
+never: 2
+way: 1
+fail: 1
+us: 1

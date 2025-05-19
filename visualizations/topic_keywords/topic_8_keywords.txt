@@ -1,0 +1,11 @@
+Topic 8 - En Sık 10 Kelime:
+vaccine: 113
+vaccines: 28
+covid: 22
+19: 17
+world: 11
+trials: 10
+first: 10
+amp: 9
+would: 8
+need: 7

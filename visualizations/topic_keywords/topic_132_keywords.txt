@@ -1,0 +1,11 @@
+Topic 132 - En Sık 10 Kelime:
+cases: 12
+million: 5
+surpass: 3
+100: 2
+000: 2
+confirmed: 2
+4: 2
+news: 2
+22: 1
+globally: 1

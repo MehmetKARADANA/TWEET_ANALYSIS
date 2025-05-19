@@ -1,0 +1,11 @@
+Topic 20 - En Sık 10 Kelime:
+virus: 57
+viral: 6
+spread: 5
+also: 5
+know: 5
+viruses: 5
+people: 5
+cases: 5
+lab: 5
+us: 5

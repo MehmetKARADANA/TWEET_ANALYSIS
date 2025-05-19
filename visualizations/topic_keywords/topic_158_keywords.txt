@@ -1,0 +1,11 @@
+Topic 158 - En Sık 10 Kelime:
+record: 10
+4: 10
+20: 10
+898: 10
+tests: 10
+first: 9
+time: 9
+number: 9
+000: 9
+conducted: 9

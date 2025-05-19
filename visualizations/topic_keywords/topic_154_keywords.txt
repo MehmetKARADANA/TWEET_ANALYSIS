@@ -1,0 +1,11 @@
+Topic 154 - En Sık 10 Kelime:
+india: 9
+vaccine: 8
+trials: 6
+first: 6
+covid: 5
+19: 4
+begins: 4
+human: 4
+phase: 3
+race: 2

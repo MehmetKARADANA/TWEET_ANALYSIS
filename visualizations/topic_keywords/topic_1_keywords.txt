@@ -1,0 +1,11 @@
+Topic 1 - En Sık 10 Kelime:
+economy: 29
+business: 24
+food: 24
+market: 23
+new: 22
+crisis: 20
+impact: 19
+economic: 18
+businesses: 17
+us: 15

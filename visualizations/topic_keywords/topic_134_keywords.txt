@@ -1,0 +1,11 @@
+Topic 134 - En Sık 10 Kelime:
+canada: 6
+due: 3
+canadian: 3
+canadians: 3
+week: 3
+response: 2
+change: 2
+us: 2
+check: 2
+look: 2

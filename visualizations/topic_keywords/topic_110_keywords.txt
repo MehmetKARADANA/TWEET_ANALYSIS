@@ -1,0 +1,11 @@
+Topic 110 - En Sık 10 Kelime:
+meals: 7
+served: 2
+pandemic: 2
+thanks: 2
+distributed: 2
+l: 2
+amp: 2
+delivery: 2
+salvation: 1
+army: 1

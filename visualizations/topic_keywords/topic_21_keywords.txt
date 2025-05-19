@@ -1,0 +1,11 @@
+Topic 21 - En Sık 10 Kelime:
+quarantine: 53
+spain: 12
+new: 11
+cases: 10
+amp: 9
+days: 6
+quarantined: 6
+uk: 5
+list: 5
+3: 5

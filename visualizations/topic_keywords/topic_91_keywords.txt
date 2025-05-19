@@ -1,0 +1,11 @@
+Topic 91 - En Sık 10 Kelime:
+leadership: 8
+admin: 3
+political: 3
+lack: 3
+apart: 2
+people: 2
+good: 2
+dictators: 2
+playing: 2
+bc: 1

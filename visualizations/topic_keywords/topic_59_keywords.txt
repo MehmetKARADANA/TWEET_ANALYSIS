@@ -1,0 +1,11 @@
+Topic 59 - En Sık 10 Kelime:
+weekend: 7
+time: 3
+got: 3
+social: 3
+year: 3
+day: 3
+saturday: 2
+today: 2
+like: 2
+start: 2

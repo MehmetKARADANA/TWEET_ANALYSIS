@@ -1,0 +1,11 @@
+Topic 13 - En Sık 10 Kelime:
+safe: 25
+stay: 11
+fear: 11
+people: 9
+protect: 9
+keep: 9
+stress: 8
+friends: 7
+family: 7
+safety: 7

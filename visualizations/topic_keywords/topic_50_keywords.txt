@@ -1,0 +1,11 @@
+Topic 50 - En Sık 10 Kelime:
+prayers: 7
+recovery: 6
+pray: 5
+god: 4
+prayer: 4
+praying: 4
+one: 3
+thoughts: 3
+thing: 3
+end: 3

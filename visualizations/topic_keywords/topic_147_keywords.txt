@@ -1,0 +1,11 @@
+Topic 147 - En Sık 10 Kelime:
+million: 6
+unemployed: 4
+unemployment: 4
+2: 3
+4: 3
+cases: 3
+jobless: 3
+5: 2
+millions: 2
+1: 2

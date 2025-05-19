@@ -1,0 +1,11 @@
+Topic 165 - En Sık 10 Kelime:
+health: 3
+co: 2
+quality: 2
+life: 2
+care: 2
+nurses: 2
+helped: 1
+karen: 1
+seminara: 1
+patton: 1

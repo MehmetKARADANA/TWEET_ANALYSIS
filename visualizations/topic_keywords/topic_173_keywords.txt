@@ -1,0 +1,11 @@
+Topic 173 - En Sık 10 Kelime:
+rent: 3
+experts: 2
+put: 2
+rental: 2
+million: 2
+pay: 2
+people: 2
+20: 2
+home: 1
+walls: 1

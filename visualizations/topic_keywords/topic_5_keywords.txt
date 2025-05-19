@@ -1,0 +1,11 @@
+Topic 5 - En Sık 10 Kelime:
+cases: 185
+new: 100
+total: 41
+reported: 39
+24: 30
+last: 28
+day: 25
+hours: 24
+1: 23
+number: 23

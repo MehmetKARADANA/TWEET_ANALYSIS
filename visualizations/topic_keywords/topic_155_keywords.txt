@@ -1,0 +1,11 @@
+Topic 155 - En Sık 10 Kelime:
+positive: 9
+cases: 9
+deaths: 9
+6: 9
+total: 9
+557: 8
+new: 8
+reported: 8
+rajasthan: 8
+till: 8

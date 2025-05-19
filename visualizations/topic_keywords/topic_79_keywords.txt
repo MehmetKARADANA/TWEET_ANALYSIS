@@ -1,0 +1,11 @@
+Topic 79 - En Sık 10 Kelime:
+fight: 8
+battle: 4
+people: 3
+win: 3
+fighting: 2
+tell: 2
+war: 2
+bring: 2
+salute: 1
+strength: 1

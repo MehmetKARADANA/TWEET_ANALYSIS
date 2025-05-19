@@ -1,0 +1,11 @@
+Topic 76 - En Sık 10 Kelime:
+relief: 11
+package: 7
+next: 6
+americans: 5
+senate: 4
+stimulus: 4
+congress: 4
+get: 3
+help: 3
+include: 3

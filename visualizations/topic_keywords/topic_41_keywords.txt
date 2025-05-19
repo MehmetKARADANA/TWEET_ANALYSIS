@@ -1,0 +1,11 @@
+Topic 41 - En Sık 10 Kelime:
+virtual: 10
+join: 8
+meeting: 5
+today: 5
+new: 4
+6: 3
+thank: 3
+invite: 3
+instagram: 3
+7: 3

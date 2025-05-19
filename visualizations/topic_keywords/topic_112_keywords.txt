@@ -1,0 +1,11 @@
+Topic 112 - En Sık 10 Kelime:
+travel: 6
+go: 4
+period: 2
+want: 2
+lockdown: 2
+domestic: 2
+restrictions: 2
+need: 2
+key: 2
+police: 1

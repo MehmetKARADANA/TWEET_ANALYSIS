@@ -1,0 +1,11 @@
+Topic 30 - En Sık 10 Kelime:
+vaccine: 32
+russia: 28
+first: 21
+putin: 17
+president: 15
+russian: 15
+developed: 8
+says: 8
+vladimir: 7
+country: 7

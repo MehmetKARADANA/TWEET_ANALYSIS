@@ -1,0 +1,11 @@
+Topic 44 - En Sık 10 Kelime:
+lie: 9
+believe: 6
+truth: 5
+people: 4
+us: 4
+lying: 3
+know: 3
+take: 3
+mocking: 2
+liar: 2

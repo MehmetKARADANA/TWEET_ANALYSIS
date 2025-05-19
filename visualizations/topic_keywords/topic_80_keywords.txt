@@ -1,0 +1,11 @@
+Topic 80 - En Sık 10 Kelime:
+reopen: 9
+help: 4
+reopening: 4
+support: 2
+open: 2
+weeks: 2
+back: 2
+reopens: 2
+due: 2
+officials: 2

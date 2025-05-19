@@ -1,0 +1,11 @@
+Topic 97 - En Sık 10 Kelime:
+continue: 2
+times: 2
+much: 2
+choices: 2
+c: 2
+one: 2
+helping: 2
+give: 2
+go: 2
+life: 2

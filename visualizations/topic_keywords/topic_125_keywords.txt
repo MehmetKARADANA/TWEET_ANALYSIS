@@ -1,0 +1,11 @@
+Topic 125 - En Sık 10 Kelime:
+government: 5
+uk: 3
+gov: 2
+consistently: 2
+despite: 2
+going: 2
+tories: 2
+right: 2
+already: 1
+blamed: 1

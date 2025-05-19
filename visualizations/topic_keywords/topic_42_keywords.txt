@@ -1,0 +1,11 @@
+Topic 42 - En Sık 10 Kelime:
+symptoms: 9
+icu: 8
+2: 4
+ventilator: 4
+cough: 4
+patients: 4
+condition: 4
+ventilators: 4
+months: 3
+get: 3

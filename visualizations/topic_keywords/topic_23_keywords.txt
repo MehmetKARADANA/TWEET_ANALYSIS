@@ -1,0 +1,11 @@
+Topic 23 - En Sık 10 Kelime:
+covid: 54
+19: 47
+cases: 38
+new: 18
+2020: 7
+update: 6
+2: 6
+positive: 6
+confirmed: 6
+total: 6

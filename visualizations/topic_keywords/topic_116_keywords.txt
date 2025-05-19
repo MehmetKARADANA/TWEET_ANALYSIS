@@ -1,0 +1,11 @@
+Topic 116 - En Sık 10 Kelime:
+migration: 5
+crisis: 3
+new: 2
+large: 2
+students: 2
+refugees: 2
+laying: 1
+bare: 1
+gaps: 1
+protection: 1

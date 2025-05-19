@@ -1,0 +1,11 @@
+Topic 46 - En Sık 10 Kelime:
+sign: 32
+deliver: 28
+copy: 28
+covid: 27
+officials: 26
+19: 24
+testing: 18
+authorize: 17
+rapid: 17
+protect: 3

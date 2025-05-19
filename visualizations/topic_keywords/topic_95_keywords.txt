@@ -1,0 +1,11 @@
+Topic 95 - En Sık 10 Kelime:
+coronavirus: 15
+kids: 4
+children: 4
+keep: 3
+news: 3
+year: 3
+pandemic: 2
+cases: 2
+hillsborough: 2
+adults: 2

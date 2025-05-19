@@ -1,0 +1,11 @@
+Topic 51 - En Sık 10 Kelime:
+news: 6
+journalists: 4
+media: 3
+like: 3
+fake: 3
+amp: 3
+say: 3
+propaganda: 3
+truth: 2
+politicians: 2

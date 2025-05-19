@@ -1,0 +1,11 @@
+Topic 68 - En Sık 10 Kelime:
+distancing: 16
+social: 14
+getting: 2
+friends: 2
+one: 2
+rules: 2
+right: 2
+masks: 2
+neighbors: 2
+app: 2

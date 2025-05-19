@@ -1,0 +1,11 @@
+Topic 56 - En Sık 10 Kelime:
+evictions: 8
+people: 5
+rent: 5
+home: 3
+amp: 3
+house: 3
+pandemic: 3
+renters: 3
+landlord: 2
+28: 2

@@ -1,0 +1,11 @@
+Topic 136 - En Sık 10 Kelime:
+brother: 8
+trump: 7
+died: 7
+robert: 5
+dies: 2
+donald: 2
+death: 2
+president: 2
+golfs: 1
+nobody: 1

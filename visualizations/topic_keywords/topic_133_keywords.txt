@@ -1,0 +1,11 @@
+Topic 133 - En Sık 10 Kelime:
+china: 9
+chinese: 3
+party: 3
+like: 3
+pandemic: 2
+communist: 2
+world: 2
+great: 1
+example: 1
+usa: 1

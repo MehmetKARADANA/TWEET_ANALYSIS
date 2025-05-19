@@ -1,0 +1,11 @@
+Topic 146 - En Sık 10 Kelime:
+cases: 7
+day: 5
+single: 4
+spike: 4
+records: 3
+4: 3
+like: 2
+highest: 2
+rossendale: 1
+low: 1

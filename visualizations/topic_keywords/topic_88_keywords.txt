@@ -1,0 +1,11 @@
+Topic 88 - En Sık 10 Kelime:
+prison: 7
+prisons: 4
+people: 3
+population: 2
+time: 2
+new: 2
+years: 2
+go: 2
+jail: 2
+enough: 1

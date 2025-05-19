@@ -1,0 +1,11 @@
+Topic 129 - En Sık 10 Kelime:
+people: 6
+black: 5
+killing: 4
+lives: 2
+one: 2
+much: 2
+country: 1
+mean: 1
+personally: 1
+right: 1

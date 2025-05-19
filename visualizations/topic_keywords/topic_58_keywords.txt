@@ -1,0 +1,11 @@
+Topic 58 - En Sık 10 Kelime:
+outbreak: 15
+outbreaks: 7
+reports: 3
+due: 2
+data: 2
+epidemic: 2
+yes: 2
+around: 2
+see: 2
+political: 2

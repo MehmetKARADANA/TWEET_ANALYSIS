@@ -1,0 +1,11 @@
+Topic 34 - En Sık 10 Kelime:
+covid: 38
+india: 29
+cases: 26
+19: 25
+new: 15
+deaths: 12
+tally: 11
+mark: 9
+day: 9
+lakh: 8

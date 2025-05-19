@@ -1,0 +1,11 @@
+Topic 99 - En Sık 10 Kelime:
+cases: 14
+india: 13
+2020: 12
+august: 10
+active: 7
+08: 6
+tracker: 5
+4: 5
+confirmed: 5
+00: 5

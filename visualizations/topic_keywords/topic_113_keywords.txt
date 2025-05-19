@@ -1,0 +1,11 @@
+Topic 113 - En Sık 10 Kelime:
+canada: 5
+due: 3
+canadian: 3
+canadians: 3
+response: 2
+change: 2
+check: 2
+look: 2
+week: 2
+social: 1

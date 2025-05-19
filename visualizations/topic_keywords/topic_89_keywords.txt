@@ -1,0 +1,11 @@
+Topic 89 - En Sık 10 Kelime:
+trials: 10
+clinical: 6
+phase: 5
+pfizer: 2
+trial: 2
+development: 2
+3: 2
+pharmaceutical: 2
+company: 2
+announced: 2

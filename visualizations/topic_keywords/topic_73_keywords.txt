@@ -1,0 +1,11 @@
+Topic 73 - En Sık 10 Kelime:
+online: 15
+fee: 6
+classes: 5
+fees: 4
+demands: 4
+hefty: 4
+internet: 4
+expenses: 4
+request: 4
+nits: 4

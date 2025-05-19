@@ -1,0 +1,11 @@
+Topic 131 - En Sık 10 Kelime:
+test: 8
+saliva: 8
+swab: 3
+rapid: 3
+covid: 3
+19: 3
+testing: 3
+get: 2
+tested: 2
+clears: 2

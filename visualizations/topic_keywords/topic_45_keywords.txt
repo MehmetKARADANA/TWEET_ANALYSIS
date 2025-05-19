@@ -1,0 +1,11 @@
+Topic 45 - En Sık 10 Kelime:
+update: 15
+latest: 8
+daily: 5
+10: 5
+updates: 3
+thanks: 3
+page: 2
+news: 2
+august: 2
+done: 2

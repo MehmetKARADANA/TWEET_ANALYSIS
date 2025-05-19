@@ -1,0 +1,11 @@
+Topic 66 - En Sık 10 Kelime:
+church: 10
+churches: 6
+amp: 5
+patron: 3
+saint: 3
+people: 3
+worship: 3
+see: 3
+jesus: 2
+places: 2

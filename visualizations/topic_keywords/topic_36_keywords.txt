@@ -1,0 +1,11 @@
+Topic 36 - En Sık 10 Kelime:
+trump: 18
+president: 6
+america: 5
+people: 5
+world: 4
+think: 4
+white: 4
+worst: 3
+usa: 3
+ever: 3

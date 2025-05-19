@@ -1,0 +1,11 @@
+Topic 35 - En Sık 10 Kelime:
+emergency: 7
+law: 5
+federal: 3
+state: 3
+th: 3
+new: 3
+restrictions: 3
+issued: 2
+us: 2
+appeals: 2

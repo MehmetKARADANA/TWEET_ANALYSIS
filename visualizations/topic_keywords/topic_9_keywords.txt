@@ -1,0 +1,11 @@
+Topic 9 - En Sık 10 Kelime:
+know: 7
+think: 6
+like: 5
+need: 5
+hope: 5
+better: 4
+important: 4
+please: 4
+got: 4
+thought: 4

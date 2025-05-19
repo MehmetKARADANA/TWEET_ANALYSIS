@@ -1,0 +1,11 @@
+Topic 82 - En Sık 10 Kelime:
+fire: 9
+killed: 6
+hotel: 6
+used: 5
+people: 4
+broke: 3
+seven: 3
+hospital: 3
+patients: 2
+centre: 2

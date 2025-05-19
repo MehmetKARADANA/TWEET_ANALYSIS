@@ -1,0 +1,11 @@
+Topic 48 - En Sık 10 Kelime:
+read: 5
+world: 4
+times: 3
+time: 3
+story: 3
+change: 2
+longer: 2
+reality: 2
+book: 2
+great: 2

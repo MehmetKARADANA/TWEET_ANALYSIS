@@ -1,0 +1,11 @@
+Topic 102 - En Sık 10 Kelime:
+sars: 13
+cov: 10
+2: 10
+pcr: 3
+amp: 2
+testing: 2
+virus: 2
+study: 2
+functional: 1
+specific: 1

@@ -1,0 +1,11 @@
+Topic 166 - En Sık 10 Kelime:
+work: 8
+everyone: 3
+job: 2
+get: 2
+hard: 2
+mean: 1
+actually: 1
+almost: 1
+4: 1
+years: 1

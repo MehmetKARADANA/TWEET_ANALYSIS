@@ -1,0 +1,11 @@
+Topic 169 - En Sık 10 Kelime:
+father: 3
+going: 2
+parents: 2
+mother: 2
+dad: 2
+terry: 2
+sons: 2
+amp: 2
+showing: 2
+houston: 1

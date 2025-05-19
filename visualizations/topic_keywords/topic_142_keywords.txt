@@ -1,0 +1,11 @@
+Topic 142 - En Sık 10 Kelime:
+many: 2
+businesses: 2
+firms: 2
+confidence: 2
+organizations: 2
+impacted: 2
+incompetent: 1
+handling: 1
+cost: 1
+uk: 1

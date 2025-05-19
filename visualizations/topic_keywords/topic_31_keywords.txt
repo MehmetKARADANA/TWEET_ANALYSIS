@@ -1,0 +1,11 @@
+Topic 31 - En Sık 10 Kelime:
+lockdown: 38
+right: 4
+one: 4
+victoria: 3
+despite: 3
+weekend: 3
+lockdowns: 3
+cases: 3
+still: 3
+complete: 3

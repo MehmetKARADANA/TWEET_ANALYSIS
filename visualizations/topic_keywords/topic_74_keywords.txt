@@ -1,0 +1,11 @@
+Topic 74 - En Sık 10 Kelime:
+need: 20
+type: 20
+blood: 20
+component: 20
+plasma: 19
+positive: 18
+hospital: 12
+b: 5
+ab: 4
+recovere: 3

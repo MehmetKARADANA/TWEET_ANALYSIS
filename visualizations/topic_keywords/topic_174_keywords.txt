@@ -1,0 +1,11 @@
+Topic 174 - En Sık 10 Kelime:
+distance: 7
+keep: 3
+spread: 2
+see: 1
+coming: 1
+cult: 1
+personality: 1
+attractive: 1
+metres: 1
+media: 1

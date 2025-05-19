@@ -1,0 +1,11 @@
+Topic 61 - En Sık 10 Kelime:
+china: 21
+virus: 11
+world: 7
+chinese: 7
+party: 4
+like: 4
+first: 3
+pandemic: 3
+19: 3
+responsible: 2

@@ -1,0 +1,11 @@
+Topic 168 - En Sık 10 Kelime:
+work: 6
+job: 2
+get: 2
+mean: 1
+actually: 1
+almost: 1
+4: 1
+years: 1
+dodging: 1
+thanked: 1

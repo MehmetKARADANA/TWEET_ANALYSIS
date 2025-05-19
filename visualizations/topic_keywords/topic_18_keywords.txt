@@ -1,0 +1,11 @@
+Topic 18 - En Sık 10 Kelime:
+amp: 13
+song: 10
+music: 9
+tune: 8
+new: 7
+video: 6
+love: 6
+time: 5
+listen: 5
+man: 4

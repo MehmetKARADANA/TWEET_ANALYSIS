@@ -1,0 +1,11 @@
+Topic 156 - En Sık 10 Kelime:
+distance: 6
+keep: 4
+spread: 2
+contact: 2
+1: 2
+least: 2
+metres: 1
+media: 1
+conversations: 1
+distances: 1

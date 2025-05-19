@@ -1,0 +1,11 @@
+Topic 117 - En Sık 10 Kelime:
+border: 7
+borders: 3
+cases: 2
+closure: 2
+country: 1
+needs: 1
+control: 1
+amp: 1
+allow: 1
+correct: 1

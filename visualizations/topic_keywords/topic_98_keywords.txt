@@ -1,0 +1,11 @@
+Topic 98 - En Sık 10 Kelime:
+mental: 7
+health: 5
+isolation: 3
+many: 3
+people: 3
+post: 2
+amp: 2
+self: 2
+patients: 2
+psychiatric: 2

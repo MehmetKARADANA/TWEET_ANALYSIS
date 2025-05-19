@@ -1,0 +1,11 @@
+Topic 167 - En Sık 10 Kelime:
+korea: 9
+south: 8
+cases: 6
+case: 5
+113: 5
+new: 4
+reports: 4
+record: 3
+states: 2
+day: 2

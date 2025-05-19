@@ -1,0 +1,11 @@
+Topic 144 - En Sık 10 Kelime:
+wearing: 6
+hands: 5
+mask: 5
+social: 5
+distancing: 5
+masks: 5
+washing: 4
+wash: 3
+hand: 3
+three: 2

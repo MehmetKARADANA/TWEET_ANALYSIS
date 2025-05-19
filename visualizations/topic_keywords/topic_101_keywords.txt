@@ -1,0 +1,11 @@
+Topic 101 - En Sık 10 Kelime:
+new: 14
+cases: 13
+gmt: 12
+6: 4
+9: 3
+17: 2
+14: 2
+1: 2
+case: 2
+8: 2

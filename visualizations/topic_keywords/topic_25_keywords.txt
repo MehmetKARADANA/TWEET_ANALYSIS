@@ -1,0 +1,11 @@
+Topic 25 - En Sık 10 Kelime:
+cure: 10
+treatment: 6
+fda: 5
+new: 4
+one: 3
+drug: 3
+c: 3
+pharma: 3
+products: 3
+health: 3

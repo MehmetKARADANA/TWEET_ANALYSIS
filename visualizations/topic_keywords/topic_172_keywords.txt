@@ -1,0 +1,11 @@
+Topic 172 - En Sık 10 Kelime:
+countries: 4
+money: 4
+mayors: 2
+us: 2
+eu: 2
+one: 2
+people: 2
+suspicious: 1
+leftist: 1
+govs: 1

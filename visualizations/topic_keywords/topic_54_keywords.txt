@@ -1,0 +1,11 @@
+Topic 54 - En Sık 10 Kelime:
+symptoms: 28
+help: 27
+spread: 27
+slow: 26
+identify: 26
+risk: 26
+cases: 26
+sooner: 26
+reporting: 26
+self: 25

@@ -1,0 +1,11 @@
+Topic 33 - En Sık 10 Kelime:
+covid: 40
+19: 32
+deaths: 25
+cases: 19
+death: 11
+2020: 11
+coronavirus: 9
+last: 9
+updated: 8
+new: 7

@@ -1,0 +1,11 @@
+Topic 15 - En Sık 10 Kelime:
+died: 11
+people: 11
+family: 10
+lost: 9
+die: 8
+sad: 7
+death: 7
+many: 7
+due: 6
+news: 5

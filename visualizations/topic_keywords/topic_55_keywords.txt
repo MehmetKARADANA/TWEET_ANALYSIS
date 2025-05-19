@@ -1,0 +1,11 @@
+Topic 55 - En Sık 10 Kelime:
+gyms: 4
+training: 4
+yoga: 4
+fitness: 3
+chair: 3
+body: 3
+open: 3
+reopening: 2
+could: 2
+become: 2

@@ -1,0 +1,11 @@
+Topic 28 - En Sık 10 Kelime:
+election: 14
+vote: 12
+mail: 10
+trump: 9
+voting: 7
+biden: 5
+amp: 5
+voters: 4
+elections: 3
+person: 3

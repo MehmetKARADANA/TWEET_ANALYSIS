@@ -1,0 +1,11 @@
+Topic 145 - En Sık 10 Kelime:
+youth: 9
+young: 4
+action: 2
+people: 2
+today: 2
+ideas: 2
+really: 1
+need: 1
+party: 1
+asks: 1

@@ -1,0 +1,11 @@
+Topic 151 - En Sık 10 Kelime:
+positive: 12
+singh: 10
+shivraj: 9
+chouhan: 9
+coronavirus: 9
+madhya: 6
+pradesh: 6
+cm: 5
+tested: 5
+tests: 4

@@ -1,0 +1,41 @@
+tweet_id,cleaned_text;label
+1,5G causes COVID-19. Spread the word!,;misinformation
+2,The COVID-19 vaccine contains a microchip to track people,;misinformation
+3,Just got my second dose of the Pfizer vaccine. Feeling great!,;true_information
+4,Drinking hot water every 15 minutes kills the coronavirus,;misinformation
+5,Stay safe everyone. Wear your masks and keep distance!,;true_information
+6,Vaccines change your DNA permanently!,;misinformation
+7,WHO confirms airborne transmission of COVID-19,;true_information
+8,Garlic soup is the ultimate cure for COVID!,;misinformation
+9,Over 1 million people vaccinated in the UK!,;true_information
+10,Bill Gates is using the vaccine to control population growth!,;misinformation
+11,COVID-19 is just a media hoax to sell more masks!,;misinformation
+12,My grandma just recovered from COVID-19. So thankful.,;true_information
+13,Masks don’t help at all. Don’t bother wearing them!,;misinformation
+14,The virus came from a lab, it didn’t start in a market.,;misinformation
+15,Ivermectin cured my cousin’s COVID instantly.,;misinformation
+16,COVID-19 death numbers are being exaggerated!,;misinformation
+17,Social distancing saves lives. Please follow the rules.,;true_information
+18,The government uses lockdowns to test how obedient we are!,;misinformation
+19,Vitamin D may reduce the severity of COVID symptoms.,;true_information
+20,I just tested negative. Grateful for the vaccine!,;true_information
+21,I just heard someone say 'COVID-19 is just a plan by the government to control us' and now I want to walk into the ocean.,;true_information
+22,Bill Gates created the coronavirus to sell more vaccines.,;misinformation
+23,I tested positive for COVID-19 and I feel fine, just a mild cough and fatigue.,;true_information
+24,Wearing a mask doesn’t protect you from the virus. Don’t fall for the lies.,;misinformation
+25,Doctors and nurses are risking their lives every day. Thank you all for your service!,;true_information
+26,5G towers caused the COVID-19 pandemic. Wake up people!,;misinformation
+27,Vaccine appointments are open for 18+. Get yours now!,;true_information
+28,The government wants to implant microchips with the vaccine.,;misinformation
+29,I’ve lost my sense of taste and smell. COVID is real, everyone be careful.,;true_information
+30,COVID-19 is no worse than the flu. Don’t let them scare you.,;misinformation
+31,If you still think this virus is fake, you are part of the problem.,;true_information
+32,Drinking hot water kills coronavirus.,;misinformation
+33,Grateful for the healthcare workers fighting on the front lines of this pandemic.,;true_information
+34,COVID-19 was made in a lab in China as a bioweapon.,;misinformation
+35,Even if you're vaccinated, social distancing is still important.,;true_information
+36,Take vitamin C and zinc, it completely prevents COVID.,;misinformation
+37,Over 1 million people have died from COVID-19 worldwide. Please take it seriously.,;true_information
+38,Hospitals are empty, the pandemic is fake.,;misinformation
+39,Asymptomatic people can still spread the virus.,;true_information
+40,The vaccine alters your DNA permanently.,;misinformation

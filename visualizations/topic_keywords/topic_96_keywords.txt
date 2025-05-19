@@ -1,0 +1,11 @@
+Topic 96 - En Sık 10 Kelime:
+donation: 4
+please: 4
+need: 3
+support: 3
+supplies: 3
+donate: 3
+make: 3
+help: 2
+received: 2
+thanks: 2

@@ -1,0 +1,11 @@
+Topic 4 - En Sık 10 Kelime:
+pandemic: 222
+health: 16
+us: 15
+new: 13
+world: 12
+people: 12
+one: 10
+crisis: 10
+trump: 9
+global: 8

@@ -1,0 +1,11 @@
+Topic 93 - En Sık 10 Kelime:
+grant: 7
+small: 2
+emergency: 2
+department: 2
+funding: 2
+work: 2
+program: 2
+loans: 2
+please: 2
+000: 2

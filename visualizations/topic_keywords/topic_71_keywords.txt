@@ -1,0 +1,11 @@
+Topic 71 - En Sık 10 Kelime:
+spread: 13
+super: 4
+help: 3
+slow: 3
+part: 3
+spreads: 3
+avoid: 3
+spreader: 3
+stop: 3
+let: 2

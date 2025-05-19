@@ -1,0 +1,11 @@
+Topic 38 - En Sık 10 Kelime:
+new: 26
+zealand: 26
+days: 11
+cases: 10
+100: 9
+without: 8
+covid: 8
+go: 6
+auckland: 5
+lockdown: 5

@@ -1,0 +1,11 @@
+Topic 121 - En Sık 10 Kelime:
+unemployment: 8
+benefits: 5
+600: 4
+millions: 3
+workers: 3
+get: 2
+ending: 2
+federal: 2
+th: 2
+california: 2

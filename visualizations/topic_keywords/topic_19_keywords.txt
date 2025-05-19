@@ -1,0 +1,11 @@
+Topic 19 - En Sık 10 Kelime:
+dr: 16
+doctor: 12
+doctors: 11
+health: 10
+patients: 10
+medical: 9
+care: 8
+healthcare: 6
+time: 5
+aged: 4

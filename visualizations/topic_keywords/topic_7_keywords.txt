@@ -1,0 +1,11 @@
+Topic 7 - En Sık 10 Kelime:
+testing: 56
+test: 45
+tests: 40
+tested: 34
+samples: 25
+1: 18
+results: 17
+india: 15
+number: 14
+july: 13

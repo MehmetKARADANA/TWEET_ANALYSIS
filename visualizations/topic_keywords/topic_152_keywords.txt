@@ -1,0 +1,11 @@
+Topic 152 - En Sık 10 Kelime:
+podcast: 8
+episode: 7
+new: 4
+week: 3
+latest: 3
+technology: 2
+listen: 2
+gsmc: 2
+released: 1
+two: 1

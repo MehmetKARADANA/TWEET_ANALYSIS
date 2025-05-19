@@ -1,0 +1,11 @@
+Topic 78 - En Sık 10 Kelime:
+hospital: 12
+patients: 8
+beds: 5
+county: 5
+2: 3
+hospitals: 3
+bed: 3
+pandemic: 2
+hospitalized: 2
+50: 2

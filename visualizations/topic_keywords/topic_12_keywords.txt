@@ -1,0 +1,11 @@
+Topic 12 - En Sık 10 Kelime:
+positive: 84
+tested: 46
+tests: 31
+minister: 17
+test: 16
+negative: 9
+testing: 7
+says: 7
+people: 6
+union: 6

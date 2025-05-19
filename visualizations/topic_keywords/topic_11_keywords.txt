@@ -1,0 +1,11 @@
+Topic 11 - En Sık 10 Kelime:
+2020: 49
+season: 11
+year: 11
+july: 11
+august: 8
+due: 7
+cancelled: 7
+like: 6
+1: 5
+fans: 5

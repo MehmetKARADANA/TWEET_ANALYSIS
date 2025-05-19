@@ -1,0 +1,11 @@
+Topic 164 - En Sık 10 Kelime:
+ventilator: 7
+patients: 4
+icu: 3
+11: 3
+admitted: 2
+four: 2
+support: 2
+get: 2
+team: 2
+ventilators: 2

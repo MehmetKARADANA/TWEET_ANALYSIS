@@ -1,0 +1,11 @@
+Topic 67 - En Sık 10 Kelime:
+telangana: 15
+2020: 12
+status: 11
+positive: 10
+cases: 10
+media: 9
+bulletin: 9
+dated: 8
+08: 7
+news: 5

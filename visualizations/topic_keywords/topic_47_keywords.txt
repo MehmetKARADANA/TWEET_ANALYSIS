@@ -1,0 +1,11 @@
+Topic 47 - En Sık 10 Kelime:
+data: 16
+evidence: 9
+government: 4
+understand: 3
+interesting: 3
+tech: 2
+info: 2
+clear: 2
+media: 2
+spread: 2

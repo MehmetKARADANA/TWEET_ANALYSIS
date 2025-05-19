@@ -1,0 +1,11 @@
+Topic 105 - En Sık 10 Kelime:
+us: 5
+contact: 5
+help: 3
+call: 3
+91: 3
+phone: 3
+email: 3
+valuable: 2
+anyone: 2
+please: 2

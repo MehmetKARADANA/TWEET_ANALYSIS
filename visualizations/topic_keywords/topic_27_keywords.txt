@@ -1,0 +1,11 @@
+Topic 27 - En Sık 10 Kelime:
+twitter: 19
+tweet: 9
+trump: 6
+tweets: 6
+people: 6
+media: 5
+facebook: 5
+tweeted: 5
+social: 4
+amp: 4

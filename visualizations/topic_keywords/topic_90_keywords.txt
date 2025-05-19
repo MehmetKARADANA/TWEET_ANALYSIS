@@ -1,0 +1,11 @@
+Topic 90 - En Sık 10 Kelime:
+movie: 4
+industry: 3
+would: 3
+go: 3
+drive: 3
+film: 3
+video: 2
+take: 2
+theater: 2
+going: 2

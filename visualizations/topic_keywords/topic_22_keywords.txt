@@ -1,0 +1,11 @@
+Topic 22 - En Sık 10 Kelime:
+women: 30
+pandemic: 11
+health: 7
+gender: 7
+girls: 7
+female: 6
+impacts: 5
+pregnant: 5
+reproductive: 4
+sexual: 4

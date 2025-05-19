@@ -1,0 +1,11 @@
+Topic 163 - En Sık 10 Kelime:
+students: 8
+examination: 7
+around: 6
+390: 6
+expected: 6
+center: 6
+hotspot: 6
+exams: 3
+situation: 3
+safe: 2

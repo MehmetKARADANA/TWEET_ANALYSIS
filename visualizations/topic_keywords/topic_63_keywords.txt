@@ -1,0 +1,11 @@
+Topic 63 - En Sık 10 Kelime:
+contact: 15
+tracing: 15
+app: 7
+new: 4
+test: 3
+testing: 3
+england: 2
+trace: 2
+comprehensive: 2
+tracker: 2

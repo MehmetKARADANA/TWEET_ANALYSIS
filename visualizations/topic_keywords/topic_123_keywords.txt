@@ -1,0 +1,11 @@
+Topic 123 - En Sık 10 Kelime:
+time: 3
+looking: 2
+much: 1
+shade: 1
+love: 1
+happy: 1
+boy: 1
+12: 1
+pictures: 1
+illuminating: 1

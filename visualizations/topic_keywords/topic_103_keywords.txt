@@ -1,0 +1,11 @@
+Topic 103 - En Sık 10 Kelime:
+infected: 6
+infection: 4
+people: 3
+cases: 2
+getting: 2
+lies: 1
+contagious: 1
+disease: 1
+amongst: 1
+ranks: 1

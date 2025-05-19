@@ -1,0 +1,1001 @@
+tweet_id,cleaned_text,label
+1,Social distancing helps prevent the spread of viruses.,true information
+2,Vaccination programs are supervised by health authorities.,true information
+3,COVID-19 was created in a lab as a bioweapon.,misinformation
+4,Studies show masks reduce virus transmission.,true information
+5,It is believed by some that herbal tea can cure COVID.,unverified claim
+6,Masks are completely useless.,misinformation
+7,Claims suggest the virus mutates based on location.,unverified claim
+8,Many online sources hint at government manipulation.,unverified claim
+9,5G towers are causing the pandemic.,misinformation
+10,Studies show masks reduce virus transmission.,true information
+11,Social distancing helps prevent the spread of viruses.,true information
+12,COVID-19 vaccines are effective at preventing severe illness.,true information
+13,Vaccination programs are supervised by health authorities.,true information
+14,The virus is a hoax created to control people.,misinformation
+15,There are rumors that sunlight can kill the virus.,unverified claim
+16,Studies show masks reduce virus transmission.,true information
+17,The vaccine has microchips.,misinformation
+18,Many online sources hint at government manipulation.,unverified claim
+19,Claims suggest the virus mutates based on location.,unverified claim
+20,Many online sources hint at government manipulation.,unverified claim
+21,Social distancing helps prevent the spread of viruses.,true information
+22,Vaccination programs are supervised by health authorities.,true information
+23,The virus is a hoax created to control people.,misinformation
+24,Claims suggest the virus mutates based on location.,unverified claim
+25,COVID-19 vaccines are effective at preventing severe illness.,true information
+26,Many online sources hint at government manipulation.,unverified claim
+27,5G towers are causing the pandemic.,misinformation
+28,It is believed by some that herbal tea can cure COVID.,unverified claim
+29,There are rumors that sunlight can kill the virus.,unverified claim
+30,There are rumors that sunlight can kill the virus.,unverified claim
+31,The virus is a hoax created to control people.,misinformation
+32,Vaccination programs are supervised by health authorities.,true information
+33,Social distancing helps prevent the spread of viruses.,true information
+34,5G towers are causing the pandemic.,misinformation
+35,COVID-19 was created in a lab as a bioweapon.,misinformation
+36,Studies show masks reduce virus transmission.,true information
+37,Some people say the virus came from a secret experiment.,unverified claim
+38,Many online sources hint at government manipulation.,unverified claim
+39,Some people say the virus came from a secret experiment.,unverified claim
+40,5G towers are causing the pandemic.,misinformation
+41,The virus is a hoax created to control people.,misinformation
+42,Studies show masks reduce virus transmission.,true information
+43,Vaccination programs are supervised by health authorities.,true information
+44,WHO approved the Pfizer vaccine.,true information
+45,Vaccination programs are supervised by health authorities.,true information
+46,Many online sources hint at government manipulation.,unverified claim
+47,Many online sources hint at government manipulation.,unverified claim
+48,Many online sources hint at government manipulation.,unverified claim
+49,COVID-19 was created in a lab as a bioweapon.,misinformation
+50,It is believed by some that herbal tea can cure COVID.,unverified claim
+51,It is believed by some that herbal tea can cure COVID.,unverified claim
+52,COVID-19 vaccines are effective at preventing severe illness.,true information
+53,COVID-19 was created in a lab as a bioweapon.,misinformation
+54,COVID-19 vaccines are effective at preventing severe illness.,true information
+55,There are rumors that sunlight can kill the virus.,unverified claim
+56,It is believed by some that herbal tea can cure COVID.,unverified claim
+57,It is believed by some that herbal tea can cure COVID.,unverified claim
+58,There are rumors that sunlight can kill the virus.,unverified claim
+59,It is believed by some that herbal tea can cure COVID.,unverified claim
+60,The vaccine has microchips.,misinformation
+61,Masks are completely useless.,misinformation
+62,Social distancing helps prevent the spread of viruses.,true information
+63,Vaccination programs are supervised by health authorities.,true information
+64,The virus is a hoax created to control people.,misinformation
+65,Studies show masks reduce virus transmission.,true information
+66,Vaccination programs are supervised by health authorities.,true information
+67,5G towers are causing the pandemic.,misinformation
+68,Some people say the virus came from a secret experiment.,unverified claim
+69,COVID-19 vaccines are effective at preventing severe illness.,true information
+70,Many online sources hint at government manipulation.,unverified claim
+71,The vaccine has microchips.,misinformation
+72,COVID-19 was created in a lab as a bioweapon.,misinformation
+73,There are rumors that sunlight can kill the virus.,unverified claim
+74,Studies show masks reduce virus transmission.,true information
+75,Many online sources hint at government manipulation.,unverified claim
+76,Claims suggest the virus mutates based on location.,unverified claim
+77,Claims suggest the virus mutates based on location.,unverified claim
+78,5G towers are causing the pandemic.,misinformation
+79,Many online sources hint at government manipulation.,unverified claim
+80,It is believed by some that herbal tea can cure COVID.,unverified claim
+81,Claims suggest the virus mutates based on location.,unverified claim
+82,COVID-19 vaccines are effective at preventing severe illness.,true information
+83,There are rumors that sunlight can kill the virus.,unverified claim
+84,Many online sources hint at government manipulation.,unverified claim
+85,COVID-19 vaccines are effective at preventing severe illness.,true information
+86,COVID-19 was created in a lab as a bioweapon.,misinformation
+87,Many online sources hint at government manipulation.,unverified claim
+88,There are rumors that sunlight can kill the virus.,unverified claim
+89,Many online sources hint at government manipulation.,unverified claim
+90,Studies show masks reduce virus transmission.,true information
+91,There are rumors that sunlight can kill the virus.,unverified claim
+92,WHO approved the Pfizer vaccine.,true information
+93,Some people say the virus came from a secret experiment.,unverified claim
+94,COVID-19 vaccines are effective at preventing severe illness.,true information
+95,There are rumors that sunlight can kill the virus.,unverified claim
+96,Masks are completely useless.,misinformation
+97,Vaccination programs are supervised by health authorities.,true information
+98,WHO approved the Pfizer vaccine.,true information
+99,Studies show masks reduce virus transmission.,true information
+100,The vaccine has microchips.,misinformation
+101,5G towers are causing the pandemic.,misinformation
+102,The vaccine has microchips.,misinformation
+103,Many online sources hint at government manipulation.,unverified claim
+104,5G towers are causing the pandemic.,misinformation
+105,There are rumors that sunlight can kill the virus.,unverified claim
+106,WHO approved the Pfizer vaccine.,true information
+107,There are rumors that sunlight can kill the virus.,unverified claim
+108,WHO approved the Pfizer vaccine.,true information
+109,COVID-19 vaccines are effective at preventing severe illness.,true information
+110,Social distancing helps prevent the spread of viruses.,true information
+111,5G towers are causing the pandemic.,misinformation
+112,The vaccine has microchips.,misinformation
+113,Some people say the virus came from a secret experiment.,unverified claim
+114,Studies show masks reduce virus transmission.,true information
+115,Vaccination programs are supervised by health authorities.,true information
+116,WHO approved the Pfizer vaccine.,true information
+117,Claims suggest the virus mutates based on location.,unverified claim
+118,Masks are completely useless.,misinformation
+119,WHO approved the Pfizer vaccine.,true information
+120,COVID-19 vaccines are effective at preventing severe illness.,true information
+121,The vaccine has microchips.,misinformation
+122,Vaccination programs are supervised by health authorities.,true information
+123,Vaccination programs are supervised by health authorities.,true information
+124,COVID-19 vaccines are effective at preventing severe illness.,true information
+125,Masks are completely useless.,misinformation
+126,Studies show masks reduce virus transmission.,true information
+127,It is believed by some that herbal tea can cure COVID.,unverified claim
+128,Social distancing helps prevent the spread of viruses.,true information
+129,Some people say the virus came from a secret experiment.,unverified claim
+130,Social distancing helps prevent the spread of viruses.,true information
+131,COVID-19 was created in a lab as a bioweapon.,misinformation
+132,5G towers are causing the pandemic.,misinformation
+133,Social distancing helps prevent the spread of viruses.,true information
+134,Masks are completely useless.,misinformation
+135,Social distancing helps prevent the spread of viruses.,true information
+136,Many online sources hint at government manipulation.,unverified claim
+137,The virus is a hoax created to control people.,misinformation
+138,Masks are completely useless.,misinformation
+139,It is believed by some that herbal tea can cure COVID.,unverified claim
+140,The virus is a hoax created to control people.,misinformation
+141,There are rumors that sunlight can kill the virus.,unverified claim
+142,COVID-19 vaccines are effective at preventing severe illness.,true information
+143,Many online sources hint at government manipulation.,unverified claim
+144,Claims suggest the virus mutates based on location.,unverified claim
+145,COVID-19 was created in a lab as a bioweapon.,misinformation
+146,The virus is a hoax created to control people.,misinformation
+147,There are rumors that sunlight can kill the virus.,unverified claim
+148,Vaccination programs are supervised by health authorities.,true information
+149,Claims suggest the virus mutates based on location.,unverified claim
+150,The vaccine has microchips.,misinformation
+151,There are rumors that sunlight can kill the virus.,unverified claim
+152,COVID-19 was created in a lab as a bioweapon.,misinformation
+153,Studies show masks reduce virus transmission.,true information
+154,The vaccine has microchips.,misinformation
+155,Many online sources hint at government manipulation.,unverified claim
+156,Masks are completely useless.,misinformation
+157,COVID-19 vaccines are effective at preventing severe illness.,true information
+158,5G towers are causing the pandemic.,misinformation
+159,Vaccination programs are supervised by health authorities.,true information
+160,Social distancing helps prevent the spread of viruses.,true information
+161,WHO approved the Pfizer vaccine.,true information
+162,Some people say the virus came from a secret experiment.,unverified claim
+163,There are rumors that sunlight can kill the virus.,unverified claim
+164,Vaccination programs are supervised by health authorities.,true information
+165,5G towers are causing the pandemic.,misinformation
+166,Many online sources hint at government manipulation.,unverified claim
+167,Studies show masks reduce virus transmission.,true information
+168,COVID-19 vaccines are effective at preventing severe illness.,true information
+169,COVID-19 was created in a lab as a bioweapon.,misinformation
+170,The vaccine has microchips.,misinformation
+171,Social distancing helps prevent the spread of viruses.,true information
+172,Studies show masks reduce virus transmission.,true information
+173,Many online sources hint at government manipulation.,unverified claim
+174,Studies show masks reduce virus transmission.,true information
+175,WHO approved the Pfizer vaccine.,true information
+176,The virus is a hoax created to control people.,misinformation
+177,Masks are completely useless.,misinformation
+178,Studies show masks reduce virus transmission.,true information
+179,Vaccination programs are supervised by health authorities.,true information
+180,COVID-19 vaccines are effective at preventing severe illness.,true information
+181,Claims suggest the virus mutates based on location.,unverified claim
+182,5G towers are causing the pandemic.,misinformation
+183,Masks are completely useless.,misinformation
+184,5G towers are causing the pandemic.,misinformation
+185,Vaccination programs are supervised by health authorities.,true information
+186,Vaccination programs are supervised by health authorities.,true information
+187,Claims suggest the virus mutates based on location.,unverified claim
+188,It is believed by some that herbal tea can cure COVID.,unverified claim
+189,The virus is a hoax created to control people.,misinformation
+190,COVID-19 vaccines are effective at preventing severe illness.,true information
+191,Claims suggest the virus mutates based on location.,unverified claim
+192,Masks are completely useless.,misinformation
+193,Social distancing helps prevent the spread of viruses.,true information
+194,The virus is a hoax created to control people.,misinformation
+195,Some people say the virus came from a secret experiment.,unverified claim
+196,COVID-19 was created in a lab as a bioweapon.,misinformation
+197,COVID-19 was created in a lab as a bioweapon.,misinformation
+198,Vaccination programs are supervised by health authorities.,true information
+199,COVID-19 vaccines are effective at preventing severe illness.,true information
+200,Claims suggest the virus mutates based on location.,unverified claim
+201,WHO approved the Pfizer vaccine.,true information
+202,Many online sources hint at government manipulation.,unverified claim
+203,The virus is a hoax created to control people.,misinformation
+204,Some people say the virus came from a secret experiment.,unverified claim
+205,Studies show masks reduce virus transmission.,true information
+206,Some people say the virus came from a secret experiment.,unverified claim
+207,Some people say the virus came from a secret experiment.,unverified claim
+208,The vaccine has microchips.,misinformation
+209,Masks are completely useless.,misinformation
+210,Many online sources hint at government manipulation.,unverified claim
+211,Masks are completely useless.,misinformation
+212,Some people say the virus came from a secret experiment.,unverified claim
+213,Vaccination programs are supervised by health authorities.,true information
+214,The vaccine has microchips.,misinformation
+215,It is believed by some that herbal tea can cure COVID.,unverified claim
+216,Social distancing helps prevent the spread of viruses.,true information
+217,It is believed by some that herbal tea can cure COVID.,unverified claim
+218,The virus is a hoax created to control people.,misinformation
+219,There are rumors that sunlight can kill the virus.,unverified claim
+220,Claims suggest the virus mutates based on location.,unverified claim
+221,COVID-19 vaccines are effective at preventing severe illness.,true information
+222,Studies show masks reduce virus transmission.,true information
+223,COVID-19 vaccines are effective at preventing severe illness.,true information
+224,The virus is a hoax created to control people.,misinformation
+225,5G towers are causing the pandemic.,misinformation
+226,5G towers are causing the pandemic.,misinformation
+227,Some people say the virus came from a secret experiment.,unverified claim
+228,The vaccine has microchips.,misinformation
+229,The virus is a hoax created to control people.,misinformation
+230,The vaccine has microchips.,misinformation
+231,The vaccine has microchips.,misinformation
+232,WHO approved the Pfizer vaccine.,true information
+233,Some people say the virus came from a secret experiment.,unverified claim
+234,COVID-19 was created in a lab as a bioweapon.,misinformation
+235,Claims suggest the virus mutates based on location.,unverified claim
+236,There are rumors that sunlight can kill the virus.,unverified claim
+237,COVID-19 was created in a lab as a bioweapon.,misinformation
+238,Vaccination programs are supervised by health authorities.,true information
+239,It is believed by some that herbal tea can cure COVID.,unverified claim
+240,Vaccination programs are supervised by health authorities.,true information
+241,Studies show masks reduce virus transmission.,true information
+242,Studies show masks reduce virus transmission.,true information
+243,Studies show masks reduce virus transmission.,true information
+244,Some people say the virus came from a secret experiment.,unverified claim
+245,Social distancing helps prevent the spread of viruses.,true information
+246,There are rumors that sunlight can kill the virus.,unverified claim
+247,The virus is a hoax created to control people.,misinformation
+248,Masks are completely useless.,misinformation
+249,COVID-19 was created in a lab as a bioweapon.,misinformation
+250,Masks are completely useless.,misinformation
+251,Social distancing helps prevent the spread of viruses.,true information
+252,5G towers are causing the pandemic.,misinformation
+253,Social distancing helps prevent the spread of viruses.,true information
+254,Masks are completely useless.,misinformation
+255,WHO approved the Pfizer vaccine.,true information
+256,Studies show masks reduce virus transmission.,true information
+257,Masks are completely useless.,misinformation
+258,Social distancing helps prevent the spread of viruses.,true information
+259,5G towers are causing the pandemic.,misinformation
+260,Social distancing helps prevent the spread of viruses.,true information
+261,WHO approved the Pfizer vaccine.,true information
+262,Claims suggest the virus mutates based on location.,unverified claim
+263,Studies show masks reduce virus transmission.,true information
+264,Vaccination programs are supervised by health authorities.,true information
+265,COVID-19 was created in a lab as a bioweapon.,misinformation
+266,Studies show masks reduce virus transmission.,true information
+267,The vaccine has microchips.,misinformation
+268,It is believed by some that herbal tea can cure COVID.,unverified claim
+269,COVID-19 was created in a lab as a bioweapon.,misinformation
+270,5G towers are causing the pandemic.,misinformation
+271,It is believed by some that herbal tea can cure COVID.,unverified claim
+272,5G towers are causing the pandemic.,misinformation
+273,Vaccination programs are supervised by health authorities.,true information
+274,The vaccine has microchips.,misinformation
+275,WHO approved the Pfizer vaccine.,true information
+276,Social distancing helps prevent the spread of viruses.,true information
+277,Vaccination programs are supervised by health authorities.,true information
+278,The vaccine has microchips.,misinformation
+279,There are rumors that sunlight can kill the virus.,unverified claim
+280,COVID-19 was created in a lab as a bioweapon.,misinformation
+281,Some people say the virus came from a secret experiment.,unverified claim
+282,Vaccination programs are supervised by health authorities.,true information
+283,Claims suggest the virus mutates based on location.,unverified claim
+284,WHO approved the Pfizer vaccine.,true information
+285,The vaccine has microchips.,misinformation
+286,Claims suggest the virus mutates based on location.,unverified claim
+287,COVID-19 was created in a lab as a bioweapon.,misinformation
+288,COVID-19 was created in a lab as a bioweapon.,misinformation
+289,COVID-19 vaccines are effective at preventing severe illness.,true information
+290,COVID-19 vaccines are effective at preventing severe illness.,true information
+291,Vaccination programs are supervised by health authorities.,true information
+292,COVID-19 vaccines are effective at preventing severe illness.,true information
+293,Masks are completely useless.,misinformation
+294,COVID-19 was created in a lab as a bioweapon.,misinformation
+295,COVID-19 was created in a lab as a bioweapon.,misinformation
+296,COVID-19 was created in a lab as a bioweapon.,misinformation
+297,Many online sources hint at government manipulation.,unverified claim
+298,It is believed by some that herbal tea can cure COVID.,unverified claim
+299,It is believed by some that herbal tea can cure COVID.,unverified claim
+300,WHO approved the Pfizer vaccine.,true information
+301,COVID-19 vaccines are effective at preventing severe illness.,true information
+302,COVID-19 vaccines are effective at preventing severe illness.,true information
+303,Many online sources hint at government manipulation.,unverified claim
+304,Masks are completely useless.,misinformation
+305,There are rumors that sunlight can kill the virus.,unverified claim
+306,Claims suggest the virus mutates based on location.,unverified claim
+307,Claims suggest the virus mutates based on location.,unverified claim
+308,Claims suggest the virus mutates based on location.,unverified claim
+309,The vaccine has microchips.,misinformation
+310,The vaccine has microchips.,misinformation
+311,COVID-19 was created in a lab as a bioweapon.,misinformation
+312,COVID-19 was created in a lab as a bioweapon.,misinformation
+313,Social distancing helps prevent the spread of viruses.,true information
+314,Some people say the virus came from a secret experiment.,unverified claim
+315,The virus is a hoax created to control people.,misinformation
+316,Many online sources hint at government manipulation.,unverified claim
+317,The virus is a hoax created to control people.,misinformation
+318,Claims suggest the virus mutates based on location.,unverified claim
+319,Masks are completely useless.,misinformation
+320,5G towers are causing the pandemic.,misinformation
+321,WHO approved the Pfizer vaccine.,true information
+322,There are rumors that sunlight can kill the virus.,unverified claim
+323,5G towers are causing the pandemic.,misinformation
+324,It is believed by some that herbal tea can cure COVID.,unverified claim
+325,Many online sources hint at government manipulation.,unverified claim
+326,Social distancing helps prevent the spread of viruses.,true information
+327,Many online sources hint at government manipulation.,unverified claim
+328,There are rumors that sunlight can kill the virus.,unverified claim
+329,Studies show masks reduce virus transmission.,true information
+330,Studies show masks reduce virus transmission.,true information
+331,Claims suggest the virus mutates based on location.,unverified claim
+332,The virus is a hoax created to control people.,misinformation
+333,Some people say the virus came from a secret experiment.,unverified claim
+334,It is believed by some that herbal tea can cure COVID.,unverified claim
+335,Claims suggest the virus mutates based on location.,unverified claim
+336,The virus is a hoax created to control people.,misinformation
+337,Some people say the virus came from a secret experiment.,unverified claim
+338,Claims suggest the virus mutates based on location.,unverified claim
+339,Some people say the virus came from a secret experiment.,unverified claim
+340,The virus is a hoax created to control people.,misinformation
+341,5G towers are causing the pandemic.,misinformation
+342,WHO approved the Pfizer vaccine.,true information
+343,The vaccine has microchips.,misinformation
+344,Studies show masks reduce virus transmission.,true information
+345,COVID-19 vaccines are effective at preventing severe illness.,true information
+346,COVID-19 was created in a lab as a bioweapon.,misinformation
+347,Some people say the virus came from a secret experiment.,unverified claim
+348,The vaccine has microchips.,misinformation
+349,Masks are completely useless.,misinformation
+350,COVID-19 was created in a lab as a bioweapon.,misinformation
+351,COVID-19 vaccines are effective at preventing severe illness.,true information
+352,Masks are completely useless.,misinformation
+353,5G towers are causing the pandemic.,misinformation
+354,5G towers are causing the pandemic.,misinformation
+355,Claims suggest the virus mutates based on location.,unverified claim
+356,WHO approved the Pfizer vaccine.,true information
+357,Vaccination programs are supervised by health authorities.,true information
+358,The virus is a hoax created to control people.,misinformation
+359,It is believed by some that herbal tea can cure COVID.,unverified claim
+360,There are rumors that sunlight can kill the virus.,unverified claim
+361,It is believed by some that herbal tea can cure COVID.,unverified claim
+362,Claims suggest the virus mutates based on location.,unverified claim
+363,The vaccine has microchips.,misinformation
+364,The vaccine has microchips.,misinformation
+365,Claims suggest the virus mutates based on location.,unverified claim
+366,Vaccination programs are supervised by health authorities.,true information
+367,It is believed by some that herbal tea can cure COVID.,unverified claim
+368,Claims suggest the virus mutates based on location.,unverified claim
+369,It is believed by some that herbal tea can cure COVID.,unverified claim
+370,There are rumors that sunlight can kill the virus.,unverified claim
+371,5G towers are causing the pandemic.,misinformation
+372,Some people say the virus came from a secret experiment.,unverified claim
+373,Studies show masks reduce virus transmission.,true information
+374,Vaccination programs are supervised by health authorities.,true information
+375,Claims suggest the virus mutates based on location.,unverified claim
+376,Vaccination programs are supervised by health authorities.,true information
+377,There are rumors that sunlight can kill the virus.,unverified claim
+378,COVID-19 vaccines are effective at preventing severe illness.,true information
+379,Many online sources hint at government manipulation.,unverified claim
+380,There are rumors that sunlight can kill the virus.,unverified claim
+381,Some people say the virus came from a secret experiment.,unverified claim
+382,5G towers are causing the pandemic.,misinformation
+383,Social distancing helps prevent the spread of viruses.,true information
+384,Some people say the virus came from a secret experiment.,unverified claim
+385,Masks are completely useless.,misinformation
+386,WHO approved the Pfizer vaccine.,true information
+387,Vaccination programs are supervised by health authorities.,true information
+388,Social distancing helps prevent the spread of viruses.,true information
+389,It is believed by some that herbal tea can cure COVID.,unverified claim
+390,5G towers are causing the pandemic.,misinformation
+391,Some people say the virus came from a secret experiment.,unverified claim
+392,Vaccination programs are supervised by health authorities.,true information
+393,Masks are completely useless.,misinformation
+394,The vaccine has microchips.,misinformation
+395,The vaccine has microchips.,misinformation
+396,Some people say the virus came from a secret experiment.,unverified claim
+397,WHO approved the Pfizer vaccine.,true information
+398,5G towers are causing the pandemic.,misinformation
+399,Some people say the virus came from a secret experiment.,unverified claim
+400,There are rumors that sunlight can kill the virus.,unverified claim
+401,The virus is a hoax created to control people.,misinformation
+402,Studies show masks reduce virus transmission.,true information
+403,There are rumors that sunlight can kill the virus.,unverified claim
+404,Social distancing helps prevent the spread of viruses.,true information
+405,The virus is a hoax created to control people.,misinformation
+406,5G towers are causing the pandemic.,misinformation
+407,Many online sources hint at government manipulation.,unverified claim
+408,Claims suggest the virus mutates based on location.,unverified claim
+409,Many online sources hint at government manipulation.,unverified claim
+410,WHO approved the Pfizer vaccine.,true information
+411,COVID-19 vaccines are effective at preventing severe illness.,true information
+412,COVID-19 was created in a lab as a bioweapon.,misinformation
+413,Many online sources hint at government manipulation.,unverified claim
+414,The vaccine has microchips.,misinformation
+415,The vaccine has microchips.,misinformation
+416,WHO approved the Pfizer vaccine.,true information
+417,Studies show masks reduce virus transmission.,true information
+418,Claims suggest the virus mutates based on location.,unverified claim
+419,Studies show masks reduce virus transmission.,true information
+420,There are rumors that sunlight can kill the virus.,unverified claim
+421,Social distancing helps prevent the spread of viruses.,true information
+422,COVID-19 was created in a lab as a bioweapon.,misinformation
+423,The virus is a hoax created to control people.,misinformation
+424,There are rumors that sunlight can kill the virus.,unverified claim
+425,There are rumors that sunlight can kill the virus.,unverified claim
+426,Many online sources hint at government manipulation.,unverified claim
+427,The virus is a hoax created to control people.,misinformation
+428,Social distancing helps prevent the spread of viruses.,true information
+429,Vaccination programs are supervised by health authorities.,true information
+430,Social distancing helps prevent the spread of viruses.,true information
+431,Claims suggest the virus mutates based on location.,unverified claim
+432,COVID-19 was created in a lab as a bioweapon.,misinformation
+433,WHO approved the Pfizer vaccine.,true information
+434,The vaccine has microchips.,misinformation
+435,There are rumors that sunlight can kill the virus.,unverified claim
+436,Claims suggest the virus mutates based on location.,unverified claim
+437,Many online sources hint at government manipulation.,unverified claim
+438,Vaccination programs are supervised by health authorities.,true information
+439,Masks are completely useless.,misinformation
+440,WHO approved the Pfizer vaccine.,true information
+441,COVID-19 was created in a lab as a bioweapon.,misinformation
+442,The virus is a hoax created to control people.,misinformation
+443,The vaccine has microchips.,misinformation
+444,Vaccination programs are supervised by health authorities.,true information
+445,The virus is a hoax created to control people.,misinformation
+446,COVID-19 was created in a lab as a bioweapon.,misinformation
+447,Claims suggest the virus mutates based on location.,unverified claim
+448,COVID-19 was created in a lab as a bioweapon.,misinformation
+449,The vaccine has microchips.,misinformation
+450,There are rumors that sunlight can kill the virus.,unverified claim
+451,Studies show masks reduce virus transmission.,true information
+452,COVID-19 vaccines are effective at preventing severe illness.,true information
+453,WHO approved the Pfizer vaccine.,true information
+454,COVID-19 was created in a lab as a bioweapon.,misinformation
+455,WHO approved the Pfizer vaccine.,true information
+456,Social distancing helps prevent the spread of viruses.,true information
+457,Many online sources hint at government manipulation.,unverified claim
+458,Social distancing helps prevent the spread of viruses.,true information
+459,WHO approved the Pfizer vaccine.,true information
+460,Masks are completely useless.,misinformation
+461,The virus is a hoax created to control people.,misinformation
+462,Claims suggest the virus mutates based on location.,unverified claim
+463,Claims suggest the virus mutates based on location.,unverified claim
+464,It is believed by some that herbal tea can cure COVID.,unverified claim
+465,Studies show masks reduce virus transmission.,true information
+466,Masks are completely useless.,misinformation
+467,Some people say the virus came from a secret experiment.,unverified claim
+468,Masks are completely useless.,misinformation
+469,It is believed by some that herbal tea can cure COVID.,unverified claim
+470,COVID-19 vaccines are effective at preventing severe illness.,true information
+471,Vaccination programs are supervised by health authorities.,true information
+472,Studies show masks reduce virus transmission.,true information
+473,The vaccine has microchips.,misinformation
+474,Studies show masks reduce virus transmission.,true information
+475,Masks are completely useless.,misinformation
+476,Social distancing helps prevent the spread of viruses.,true information
+477,The virus is a hoax created to control people.,misinformation
+478,Some people say the virus came from a secret experiment.,unverified claim
+479,COVID-19 vaccines are effective at preventing severe illness.,true information
+480,The vaccine has microchips.,misinformation
+481,The virus is a hoax created to control people.,misinformation
+482,Studies show masks reduce virus transmission.,true information
+483,Many online sources hint at government manipulation.,unverified claim
+484,The virus is a hoax created to control people.,misinformation
+485,5G towers are causing the pandemic.,misinformation
+486,The vaccine has microchips.,misinformation
+487,COVID-19 vaccines are effective at preventing severe illness.,true information
+488,The virus is a hoax created to control people.,misinformation
+489,Social distancing helps prevent the spread of viruses.,true information
+490,Claims suggest the virus mutates based on location.,unverified claim
+491,Masks are completely useless.,misinformation
+492,Some people say the virus came from a secret experiment.,unverified claim
+493,COVID-19 vaccines are effective at preventing severe illness.,true information
+494,Studies show masks reduce virus transmission.,true information
+495,Studies show masks reduce virus transmission.,true information
+496,Many online sources hint at government manipulation.,unverified claim
+497,Many online sources hint at government manipulation.,unverified claim
+498,5G towers are causing the pandemic.,misinformation
+499,5G towers are causing the pandemic.,misinformation
+500,Vaccination programs are supervised by health authorities.,true information
+501,COVID-19 vaccines are effective at preventing severe illness.,true information
+502,The vaccine has microchips.,misinformation
+503,WHO approved the Pfizer vaccine.,true information
+504,COVID-19 was created in a lab as a bioweapon.,misinformation
+505,Claims suggest the virus mutates based on location.,unverified claim
+506,5G towers are causing the pandemic.,misinformation
+507,There are rumors that sunlight can kill the virus.,unverified claim
+508,There are rumors that sunlight can kill the virus.,unverified claim
+509,Social distancing helps prevent the spread of viruses.,true information
+510,It is believed by some that herbal tea can cure COVID.,unverified claim
+511,5G towers are causing the pandemic.,misinformation
+512,Social distancing helps prevent the spread of viruses.,true information
+513,Social distancing helps prevent the spread of viruses.,true information
+514,Vaccination programs are supervised by health authorities.,true information
+515,The vaccine has microchips.,misinformation
+516,The virus is a hoax created to control people.,misinformation
+517,Claims suggest the virus mutates based on location.,unverified claim
+518,It is believed by some that herbal tea can cure COVID.,unverified claim
+519,WHO approved the Pfizer vaccine.,true information
+520,It is believed by some that herbal tea can cure COVID.,unverified claim
+521,There are rumors that sunlight can kill the virus.,unverified claim
+522,Masks are completely useless.,misinformation
+523,It is believed by some that herbal tea can cure COVID.,unverified claim
+524,The virus is a hoax created to control people.,misinformation
+525,Claims suggest the virus mutates based on location.,unverified claim
+526,Social distancing helps prevent the spread of viruses.,true information
+527,Social distancing helps prevent the spread of viruses.,true information
+528,Vaccination programs are supervised by health authorities.,true information
+529,COVID-19 was created in a lab as a bioweapon.,misinformation
+530,The vaccine has microchips.,misinformation
+531,Studies show masks reduce virus transmission.,true information
+532,It is believed by some that herbal tea can cure COVID.,unverified claim
+533,Many online sources hint at government manipulation.,unverified claim
+534,WHO approved the Pfizer vaccine.,true information
+535,The vaccine has microchips.,misinformation
+536,5G towers are causing the pandemic.,misinformation
+537,Many online sources hint at government manipulation.,unverified claim
+538,WHO approved the Pfizer vaccine.,true information
+539,WHO approved the Pfizer vaccine.,true information
+540,There are rumors that sunlight can kill the virus.,unverified claim
+541,Many online sources hint at government manipulation.,unverified claim
+542,5G towers are causing the pandemic.,misinformation
+543,COVID-19 vaccines are effective at preventing severe illness.,true information
+544,It is believed by some that herbal tea can cure COVID.,unverified claim
+545,The virus is a hoax created to control people.,misinformation
+546,COVID-19 was created in a lab as a bioweapon.,misinformation
+547,WHO approved the Pfizer vaccine.,true information
+548,Studies show masks reduce virus transmission.,true information
+549,Claims suggest the virus mutates based on location.,unverified claim
+550,There are rumors that sunlight can kill the virus.,unverified claim
+551,The vaccine has microchips.,misinformation
+552,It is believed by some that herbal tea can cure COVID.,unverified claim
+553,5G towers are causing the pandemic.,misinformation
+554,Many online sources hint at government manipulation.,unverified claim
+555,The virus is a hoax created to control people.,misinformation
+556,Some people say the virus came from a secret experiment.,unverified claim
+557,WHO approved the Pfizer vaccine.,true information
+558,It is believed by some that herbal tea can cure COVID.,unverified claim
+559,COVID-19 vaccines are effective at preventing severe illness.,true information
+560,The vaccine has microchips.,misinformation
+561,5G towers are causing the pandemic.,misinformation
+562,Many online sources hint at government manipulation.,unverified claim
+563,Vaccination programs are supervised by health authorities.,true information
+564,5G towers are causing the pandemic.,misinformation
+565,Masks are completely useless.,misinformation
+566,Many online sources hint at government manipulation.,unverified claim
+567,Masks are completely useless.,misinformation
+568,The vaccine has microchips.,misinformation
+569,Many online sources hint at government manipulation.,unverified claim
+570,COVID-19 vaccines are effective at preventing severe illness.,true information
+571,There are rumors that sunlight can kill the virus.,unverified claim
+572,Some people say the virus came from a secret experiment.,unverified claim
+573,Claims suggest the virus mutates based on location.,unverified claim
+574,The virus is a hoax created to control people.,misinformation
+575,Some people say the virus came from a secret experiment.,unverified claim
+576,Studies show masks reduce virus transmission.,true information
+577,5G towers are causing the pandemic.,misinformation
+578,Some people say the virus came from a secret experiment.,unverified claim
+579,Masks are completely useless.,misinformation
+580,Some people say the virus came from a secret experiment.,unverified claim
+581,There are rumors that sunlight can kill the virus.,unverified claim
+582,Studies show masks reduce virus transmission.,true information
+583,Claims suggest the virus mutates based on location.,unverified claim
+584,Claims suggest the virus mutates based on location.,unverified claim
+585,Vaccination programs are supervised by health authorities.,true information
+586,Vaccination programs are supervised by health authorities.,true information
+587,Many online sources hint at government manipulation.,unverified claim
+588,The vaccine has microchips.,misinformation
+589,Some people say the virus came from a secret experiment.,unverified claim
+590,COVID-19 was created in a lab as a bioweapon.,misinformation
+591,The virus is a hoax created to control people.,misinformation
+592,It is believed by some that herbal tea can cure COVID.,unverified claim
+593,Social distancing helps prevent the spread of viruses.,true information
+594,There are rumors that sunlight can kill the virus.,unverified claim
+595,It is believed by some that herbal tea can cure COVID.,unverified claim
+596,There are rumors that sunlight can kill the virus.,unverified claim
+597,5G towers are causing the pandemic.,misinformation
+598,COVID-19 was created in a lab as a bioweapon.,misinformation
+599,It is believed by some that herbal tea can cure COVID.,unverified claim
+600,There are rumors that sunlight can kill the virus.,unverified claim
+601,Claims suggest the virus mutates based on location.,unverified claim
+602,WHO approved the Pfizer vaccine.,true information
+603,The virus is a hoax created to control people.,misinformation
+604,Masks are completely useless.,misinformation
+605,Many online sources hint at government manipulation.,unverified claim
+606,Masks are completely useless.,misinformation
+607,Social distancing helps prevent the spread of viruses.,true information
+608,Masks are completely useless.,misinformation
+609,Some people say the virus came from a secret experiment.,unverified claim
+610,5G towers are causing the pandemic.,misinformation
+611,The virus is a hoax created to control people.,misinformation
+612,COVID-19 vaccines are effective at preventing severe illness.,true information
+613,There are rumors that sunlight can kill the virus.,unverified claim
+614,Claims suggest the virus mutates based on location.,unverified claim
+615,Some people say the virus came from a secret experiment.,unverified claim
+616,There are rumors that sunlight can kill the virus.,unverified claim
+617,Some people say the virus came from a secret experiment.,unverified claim
+618,The virus is a hoax created to control people.,misinformation
+619,Many online sources hint at government manipulation.,unverified claim
+620,The vaccine has microchips.,misinformation
+621,COVID-19 was created in a lab as a bioweapon.,misinformation
+622,The virus is a hoax created to control people.,misinformation
+623,There are rumors that sunlight can kill the virus.,unverified claim
+624,COVID-19 vaccines are effective at preventing severe illness.,true information
+625,Many online sources hint at government manipulation.,unverified claim
+626,Claims suggest the virus mutates based on location.,unverified claim
+627,Social distancing helps prevent the spread of viruses.,true information
+628,There are rumors that sunlight can kill the virus.,unverified claim
+629,It is believed by some that herbal tea can cure COVID.,unverified claim
+630,It is believed by some that herbal tea can cure COVID.,unverified claim
+631,COVID-19 was created in a lab as a bioweapon.,misinformation
+632,Many online sources hint at government manipulation.,unverified claim
+633,The vaccine has microchips.,misinformation
+634,WHO approved the Pfizer vaccine.,true information
+635,5G towers are causing the pandemic.,misinformation
+636,Social distancing helps prevent the spread of viruses.,true information
+637,Studies show masks reduce virus transmission.,true information
+638,Vaccination programs are supervised by health authorities.,true information
+639,Many online sources hint at government manipulation.,unverified claim
+640,COVID-19 vaccines are effective at preventing severe illness.,true information
+641,The vaccine has microchips.,misinformation
+642,Some people say the virus came from a secret experiment.,unverified claim
+643,5G towers are causing the pandemic.,misinformation
+644,There are rumors that sunlight can kill the virus.,unverified claim
+645,COVID-19 was created in a lab as a bioweapon.,misinformation
+646,It is believed by some that herbal tea can cure COVID.,unverified claim
+647,COVID-19 was created in a lab as a bioweapon.,misinformation
+648,Vaccination programs are supervised by health authorities.,true information
+649,It is believed by some that herbal tea can cure COVID.,unverified claim
+650,WHO approved the Pfizer vaccine.,true information
+651,COVID-19 vaccines are effective at preventing severe illness.,true information
+652,It is believed by some that herbal tea can cure COVID.,unverified claim
+653,It is believed by some that herbal tea can cure COVID.,unverified claim
+654,5G towers are causing the pandemic.,misinformation
+655,Vaccination programs are supervised by health authorities.,true information
+656,WHO approved the Pfizer vaccine.,true information
+657,There are rumors that sunlight can kill the virus.,unverified claim
+658,Masks are completely useless.,misinformation
+659,Masks are completely useless.,misinformation
+660,Vaccination programs are supervised by health authorities.,true information
+661,The vaccine has microchips.,misinformation
+662,COVID-19 was created in a lab as a bioweapon.,misinformation
+663,Masks are completely useless.,misinformation
+664,The vaccine has microchips.,misinformation
+665,COVID-19 was created in a lab as a bioweapon.,misinformation
+666,There are rumors that sunlight can kill the virus.,unverified claim
+667,The vaccine has microchips.,misinformation
+668,Some people say the virus came from a secret experiment.,unverified claim
+669,The virus is a hoax created to control people.,misinformation
+670,5G towers are causing the pandemic.,misinformation
+671,Social distancing helps prevent the spread of viruses.,true information
+672,It is believed by some that herbal tea can cure COVID.,unverified claim
+673,Masks are completely useless.,misinformation
+674,The vaccine has microchips.,misinformation
+675,Masks are completely useless.,misinformation
+676,It is believed by some that herbal tea can cure COVID.,unverified claim
+677,The vaccine has microchips.,misinformation
+678,Many online sources hint at government manipulation.,unverified claim
+679,The virus is a hoax created to control people.,misinformation
+680,5G towers are causing the pandemic.,misinformation
+681,There are rumors that sunlight can kill the virus.,unverified claim
+682,Some people say the virus came from a secret experiment.,unverified claim
+683,COVID-19 vaccines are effective at preventing severe illness.,true information
+684,COVID-19 vaccines are effective at preventing severe illness.,true information
+685,Claims suggest the virus mutates based on location.,unverified claim
+686,Social distancing helps prevent the spread of viruses.,true information
+687,The vaccine has microchips.,misinformation
+688,It is believed by some that herbal tea can cure COVID.,unverified claim
+689,The vaccine has microchips.,misinformation
+690,Vaccination programs are supervised by health authorities.,true information
+691,Vaccination programs are supervised by health authorities.,true information
+692,COVID-19 vaccines are effective at preventing severe illness.,true information
+693,Claims suggest the virus mutates based on location.,unverified claim
+694,Claims suggest the virus mutates based on location.,unverified claim
+695,COVID-19 was created in a lab as a bioweapon.,misinformation
+696,Many online sources hint at government manipulation.,unverified claim
+697,Claims suggest the virus mutates based on location.,unverified claim
+698,COVID-19 vaccines are effective at preventing severe illness.,true information
+699,It is believed by some that herbal tea can cure COVID.,unverified claim
+700,WHO approved the Pfizer vaccine.,true information
+701,5G towers are causing the pandemic.,misinformation
+702,5G towers are causing the pandemic.,misinformation
+703,5G towers are causing the pandemic.,misinformation
+704,COVID-19 vaccines are effective at preventing severe illness.,true information
+705,There are rumors that sunlight can kill the virus.,unverified claim
+706,Vaccination programs are supervised by health authorities.,true information
+707,The virus is a hoax created to control people.,misinformation
+708,Some people say the virus came from a secret experiment.,unverified claim
+709,Vaccination programs are supervised by health authorities.,true information
+710,Some people say the virus came from a secret experiment.,unverified claim
+711,Vaccination programs are supervised by health authorities.,true information
+712,The virus is a hoax created to control people.,misinformation
+713,Social distancing helps prevent the spread of viruses.,true information
+714,5G towers are causing the pandemic.,misinformation
+715,The virus is a hoax created to control people.,misinformation
+716,Studies show masks reduce virus transmission.,true information
+717,Some people say the virus came from a secret experiment.,unverified claim
+718,Vaccination programs are supervised by health authorities.,true information
+719,Studies show masks reduce virus transmission.,true information
+720,5G towers are causing the pandemic.,misinformation
+721,Claims suggest the virus mutates based on location.,unverified claim
+722,Some people say the virus came from a secret experiment.,unverified claim
+723,It is believed by some that herbal tea can cure COVID.,unverified claim
+724,WHO approved the Pfizer vaccine.,true information
+725,The vaccine has microchips.,misinformation
+726,Studies show masks reduce virus transmission.,true information
+727,Masks are completely useless.,misinformation
+728,Many online sources hint at government manipulation.,unverified claim
+729,Vaccination programs are supervised by health authorities.,true information
+730,COVID-19 was created in a lab as a bioweapon.,misinformation
+731,Many online sources hint at government manipulation.,unverified claim
+732,Many online sources hint at government manipulation.,unverified claim
+733,Social distancing helps prevent the spread of viruses.,true information
+734,Masks are completely useless.,misinformation
+735,Many online sources hint at government manipulation.,unverified claim
+736,There are rumors that sunlight can kill the virus.,unverified claim
+737,Claims suggest the virus mutates based on location.,unverified claim
+738,Vaccination programs are supervised by health authorities.,true information
+739,Many online sources hint at government manipulation.,unverified claim
+740,Social distancing helps prevent the spread of viruses.,true information
+741,Some people say the virus came from a secret experiment.,unverified claim
+742,COVID-19 was created in a lab as a bioweapon.,misinformation
+743,It is believed by some that herbal tea can cure COVID.,unverified claim
+744,It is believed by some that herbal tea can cure COVID.,unverified claim
+745,Some people say the virus came from a secret experiment.,unverified claim
+746,The virus is a hoax created to control people.,misinformation
+747,The vaccine has microchips.,misinformation
+748,Masks are completely useless.,misinformation
+749,It is believed by some that herbal tea can cure COVID.,unverified claim
+750,WHO approved the Pfizer vaccine.,true information
+751,Masks are completely useless.,misinformation
+752,5G towers are causing the pandemic.,misinformation
+753,Social distancing helps prevent the spread of viruses.,true information
+754,COVID-19 was created in a lab as a bioweapon.,misinformation
+755,Studies show masks reduce virus transmission.,true information
+756,Masks are completely useless.,misinformation
+757,Many online sources hint at government manipulation.,unverified claim
+758,Social distancing helps prevent the spread of viruses.,true information
+759,The vaccine has microchips.,misinformation
+760,It is believed by some that herbal tea can cure COVID.,unverified claim
+761,Claims suggest the virus mutates based on location.,unverified claim
+762,Some people say the virus came from a secret experiment.,unverified claim
+763,The vaccine has microchips.,misinformation
+764,The virus is a hoax created to control people.,misinformation
+765,Studies show masks reduce virus transmission.,true information
+766,Many online sources hint at government manipulation.,unverified claim
+767,Vaccination programs are supervised by health authorities.,true information
+768,Some people say the virus came from a secret experiment.,unverified claim
+769,COVID-19 vaccines are effective at preventing severe illness.,true information
+770,COVID-19 was created in a lab as a bioweapon.,misinformation
+771,Many online sources hint at government manipulation.,unverified claim
+772,Masks are completely useless.,misinformation
+773,Social distancing helps prevent the spread of viruses.,true information
+774,Social distancing helps prevent the spread of viruses.,true information
+775,The virus is a hoax created to control people.,misinformation
+776,Social distancing helps prevent the spread of viruses.,true information
+777,5G towers are causing the pandemic.,misinformation
+778,Studies show masks reduce virus transmission.,true information
+779,Many online sources hint at government manipulation.,unverified claim
+780,Some people say the virus came from a secret experiment.,unverified claim
+781,Studies show masks reduce virus transmission.,true information
+782,WHO approved the Pfizer vaccine.,true information
+783,The vaccine has microchips.,misinformation
+784,COVID-19 vaccines are effective at preventing severe illness.,true information
+785,WHO approved the Pfizer vaccine.,true information
+786,Masks are completely useless.,misinformation
+787,The virus is a hoax created to control people.,misinformation
+788,The vaccine has microchips.,misinformation
+789,5G towers are causing the pandemic.,misinformation
+790,5G towers are causing the pandemic.,misinformation
+791,Some people say the virus came from a secret experiment.,unverified claim
+792,The virus is a hoax created to control people.,misinformation
+793,5G towers are causing the pandemic.,misinformation
+794,Some people say the virus came from a secret experiment.,unverified claim
+795,Masks are completely useless.,misinformation
+796,The vaccine has microchips.,misinformation
+797,Social distancing helps prevent the spread of viruses.,true information
+798,WHO approved the Pfizer vaccine.,true information
+799,It is believed by some that herbal tea can cure COVID.,unverified claim
+800,Masks are completely useless.,misinformation
+801,Some people say the virus came from a secret experiment.,unverified claim
+802,Masks are completely useless.,misinformation
+803,Vaccination programs are supervised by health authorities.,true information
+804,COVID-19 was created in a lab as a bioweapon.,misinformation
+805,The virus is a hoax created to control people.,misinformation
+806,Studies show masks reduce virus transmission.,true information
+807,The vaccine has microchips.,misinformation
+808,Claims suggest the virus mutates based on location.,unverified claim
+809,WHO approved the Pfizer vaccine.,true information
+810,Studies show masks reduce virus transmission.,true information
+811,There are rumors that sunlight can kill the virus.,unverified claim
+812,WHO approved the Pfizer vaccine.,true information
+813,There are rumors that sunlight can kill the virus.,unverified claim
+814,Many online sources hint at government manipulation.,unverified claim
+815,Social distancing helps prevent the spread of viruses.,true information
+816,WHO approved the Pfizer vaccine.,true information
+817,COVID-19 vaccines are effective at preventing severe illness.,true information
+818,The virus is a hoax created to control people.,misinformation
+819,There are rumors that sunlight can kill the virus.,unverified claim
+820,COVID-19 was created in a lab as a bioweapon.,misinformation
+821,There are rumors that sunlight can kill the virus.,unverified claim
+822,Masks are completely useless.,misinformation
+823,Claims suggest the virus mutates based on location.,unverified claim
+824,WHO approved the Pfizer vaccine.,true information
+825,COVID-19 vaccines are effective at preventing severe illness.,true information
+826,5G towers are causing the pandemic.,misinformation
+827,Many online sources hint at government manipulation.,unverified claim
+828,5G towers are causing the pandemic.,misinformation
+829,Social distancing helps prevent the spread of viruses.,true information
+830,COVID-19 vaccines are effective at preventing severe illness.,true information
+831,Many online sources hint at government manipulation.,unverified claim
+832,COVID-19 was created in a lab as a bioweapon.,misinformation
+833,The vaccine has microchips.,misinformation
+834,The virus is a hoax created to control people.,misinformation
+835,Claims suggest the virus mutates based on location.,unverified claim
+836,5G towers are causing the pandemic.,misinformation
+837,Social distancing helps prevent the spread of viruses.,true information
+838,Studies show masks reduce virus transmission.,true information
+839,Many online sources hint at government manipulation.,unverified claim
+840,COVID-19 vaccines are effective at preventing severe illness.,true information
+841,WHO approved the Pfizer vaccine.,true information
+842,Masks are completely useless.,misinformation
+843,Some people say the virus came from a secret experiment.,unverified claim
+844,Masks are completely useless.,misinformation
+845,Studies show masks reduce virus transmission.,true information
+846,There are rumors that sunlight can kill the virus.,unverified claim
+847,Social distancing helps prevent the spread of viruses.,true information
+848,WHO approved the Pfizer vaccine.,true information
+849,Masks are completely useless.,misinformation
+850,The vaccine has microchips.,misinformation
+851,Masks are completely useless.,misinformation
+852,The virus is a hoax created to control people.,misinformation
+853,Vaccination programs are supervised by health authorities.,true information
+854,There are rumors that sunlight can kill the virus.,unverified claim
+855,COVID-19 vaccines are effective at preventing severe illness.,true information
+856,Studies show masks reduce virus transmission.,true information
+857,5G towers are causing the pandemic.,misinformation
+858,COVID-19 vaccines are effective at preventing severe illness.,true information
+859,WHO approved the Pfizer vaccine.,true information
+860,Masks are completely useless.,misinformation
+861,There are rumors that sunlight can kill the virus.,unverified claim
+862,There are rumors that sunlight can kill the virus.,unverified claim
+863,Masks are completely useless.,misinformation
+864,Social distancing helps prevent the spread of viruses.,true information
+865,The virus is a hoax created to control people.,misinformation
+866,There are rumors that sunlight can kill the virus.,unverified claim
+867,The vaccine has microchips.,misinformation
+868,Claims suggest the virus mutates based on location.,unverified claim
+869,COVID-19 was created in a lab as a bioweapon.,misinformation
+870,Masks are completely useless.,misinformation
+871,There are rumors that sunlight can kill the virus.,unverified claim
+872,Claims suggest the virus mutates based on location.,unverified claim
+873,Claims suggest the virus mutates based on location.,unverified claim
+874,Claims suggest the virus mutates based on location.,unverified claim
+875,The vaccine has microchips.,misinformation
+876,Social distancing helps prevent the spread of viruses.,true information
+877,The virus is a hoax created to control people.,misinformation
+878,The virus is a hoax created to control people.,misinformation
+879,The virus is a hoax created to control people.,misinformation
+880,WHO approved the Pfizer vaccine.,true information
+881,Social distancing helps prevent the spread of viruses.,true information
+882,Studies show masks reduce virus transmission.,true information
+883,Studies show masks reduce virus transmission.,true information
+884,Claims suggest the virus mutates based on location.,unverified claim
+885,COVID-19 was created in a lab as a bioweapon.,misinformation
+886,Social distancing helps prevent the spread of viruses.,true information
+887,Claims suggest the virus mutates based on location.,unverified claim
+888,COVID-19 vaccines are effective at preventing severe illness.,true information
+889,Some people say the virus came from a secret experiment.,unverified claim
+890,Some people say the virus came from a secret experiment.,unverified claim
+891,The virus is a hoax created to control people.,misinformation
+892,Many online sources hint at government manipulation.,unverified claim
+893,Some people say the virus came from a secret experiment.,unverified claim
+894,The vaccine has microchips.,misinformation
+895,Studies show masks reduce virus transmission.,true information
+896,It is believed by some that herbal tea can cure COVID.,unverified claim
+897,Studies show masks reduce virus transmission.,true information
+898,Many online sources hint at government manipulation.,unverified claim
+899,The virus is a hoax created to control people.,misinformation
+900,The virus is a hoax created to control people.,misinformation
+901,The virus is a hoax created to control people.,misinformation
+902,WHO approved the Pfizer vaccine.,true information
+903,Claims suggest the virus mutates based on location.,unverified claim
+904,Many online sources hint at government manipulation.,unverified claim
+905,COVID-19 vaccines are effective at preventing severe illness.,true information
+906,Claims suggest the virus mutates based on location.,unverified claim
+907,Claims suggest the virus mutates based on location.,unverified claim
+908,Claims suggest the virus mutates based on location.,unverified claim
+909,COVID-19 vaccines are effective at preventing severe illness.,true information
+910,Social distancing helps prevent the spread of viruses.,true information
+911,5G towers are causing the pandemic.,misinformation
+912,The virus is a hoax created to control people.,misinformation
+913,5G towers are causing the pandemic.,misinformation
+914,Studies show masks reduce virus transmission.,true information
+915,The vaccine has microchips.,misinformation
+916,COVID-19 vaccines are effective at preventing severe illness.,true information
+917,The virus is a hoax created to control people.,misinformation
+918,COVID-19 vaccines are effective at preventing severe illness.,true information
+919,Some people say the virus came from a secret experiment.,unverified claim
+920,5G towers are causing the pandemic.,misinformation
+921,5G towers are causing the pandemic.,misinformation
+922,Studies show masks reduce virus transmission.,true information
+923,It is believed by some that herbal tea can cure COVID.,unverified claim
+924,WHO approved the Pfizer vaccine.,true information
+925,Some people say the virus came from a secret experiment.,unverified claim
+926,Studies show masks reduce virus transmission.,true information
+927,WHO approved the Pfizer vaccine.,true information
+928,Some people say the virus came from a secret experiment.,unverified claim
+929,Claims suggest the virus mutates based on location.,unverified claim
+930,Masks are completely useless.,misinformation
+931,Claims suggest the virus mutates based on location.,unverified claim
+932,Vaccination programs are supervised by health authorities.,true information
+933,Some people say the virus came from a secret experiment.,unverified claim
+934,5G towers are causing the pandemic.,misinformation
+935,COVID-19 was created in a lab as a bioweapon.,misinformation
+936,The virus is a hoax created to control people.,misinformation
+937,Claims suggest the virus mutates based on location.,unverified claim
+938,WHO approved the Pfizer vaccine.,true information
+939,The vaccine has microchips.,misinformation
+940,COVID-19 was created in a lab as a bioweapon.,misinformation
+941,5G towers are causing the pandemic.,misinformation
+942,COVID-19 vaccines are effective at preventing severe illness.,true information
+943,Some people say the virus came from a secret experiment.,unverified claim
+944,5G towers are causing the pandemic.,misinformation
+945,Masks are completely useless.,misinformation
+946,Studies show masks reduce virus transmission.,true information
+947,COVID-19 vaccines are effective at preventing severe illness.,true information
+948,The virus is a hoax created to control people.,misinformation
+949,There are rumors that sunlight can kill the virus.,unverified claim
+950,Masks are completely useless.,misinformation
+951,Masks are completely useless.,misinformation
+952,It is believed by some that herbal tea can cure COVID.,unverified claim
+953,The virus is a hoax created to control people.,misinformation
+954,Many online sources hint at government manipulation.,unverified claim
+955,It is believed by some that herbal tea can cure COVID.,unverified claim
+956,WHO approved the Pfizer vaccine.,true information
+957,Some people say the virus came from a secret experiment.,unverified claim
+958,WHO approved the Pfizer vaccine.,true information
+959,It is believed by some that herbal tea can cure COVID.,unverified claim
+960,Studies show masks reduce virus transmission.,true information
+961,Claims suggest the virus mutates based on location.,unverified claim
+962,Social distancing helps prevent the spread of viruses.,true information
+963,Some people say the virus came from a secret experiment.,unverified claim
+964,Many online sources hint at government manipulation.,unverified claim
+965,Social distancing helps prevent the spread of viruses.,true information
+966,The virus is a hoax created to control people.,misinformation
+967,WHO approved the Pfizer vaccine.,true information
+968,Studies show masks reduce virus transmission.,true information
+969,The virus is a hoax created to control people.,misinformation
+970,5G towers are causing the pandemic.,misinformation
+971,WHO approved the Pfizer vaccine.,true information
+972,There are rumors that sunlight can kill the virus.,unverified claim
+973,Masks are completely useless.,misinformation
+974,Vaccination programs are supervised by health authorities.,true information
+975,5G towers are causing the pandemic.,misinformation
+976,COVID-19 vaccines are effective at preventing severe illness.,true information
+977,It is believed by some that herbal tea can cure COVID.,unverified claim
+978,Studies show masks reduce virus transmission.,true information
+979,Claims suggest the virus mutates based on location.,unverified claim
+980,It is believed by some that herbal tea can cure COVID.,unverified claim
+981,The virus is a hoax created to control people.,misinformation
+982,Some people say the virus came from a secret experiment.,unverified claim
+983,Some people say the virus came from a secret experiment.,unverified claim
+984,COVID-19 was created in a lab as a bioweapon.,misinformation
+985,Some people say the virus came from a secret experiment.,unverified claim
+986,COVID-19 vaccines are effective at preventing severe illness.,true information
+987,COVID-19 was created in a lab as a bioweapon.,misinformation
+988,WHO approved the Pfizer vaccine.,true information
+989,COVID-19 was created in a lab as a bioweapon.,misinformation
+990,The virus is a hoax created to control people.,misinformation
+991,COVID-19 was created in a lab as a bioweapon.,misinformation
+992,WHO approved the Pfizer vaccine.,true information
+993,Some people say the virus came from a secret experiment.,unverified claim
+994,It is believed by some that herbal tea can cure COVID.,unverified claim
+995,There are rumors that sunlight can kill the virus.,unverified claim
+996,The virus is a hoax created to control people.,misinformation
+997,COVID-19 vaccines are effective at preventing severe illness.,true information
+998,Studies show masks reduce virus transmission.,true information
+999,The virus is a hoax created to control people.,misinformation
+1000,Social distancing helps prevent the spread of viruses.,true information

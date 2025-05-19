@@ -1,0 +1,11 @@
+Topic 119 - En Sık 10 Kelime:
+podcast: 10
+new: 4
+check: 2
+episode: 2
+amp: 2
+virus: 2
+listen: 2
+start: 1
+talkshoe: 1
+platform: 1

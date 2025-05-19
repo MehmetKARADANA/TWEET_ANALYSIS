@@ -1,0 +1,11 @@
+Topic 109 - En Sık 10 Kelime:
+wedding: 5
+weddings: 3
+30: 2
+pandemic: 2
+tickets: 2
+two: 2
+events: 2
+people: 2
+quarantine: 1
+way: 1

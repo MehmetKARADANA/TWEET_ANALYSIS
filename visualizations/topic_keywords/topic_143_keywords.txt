@@ -1,0 +1,11 @@
+Topic 143 - En Sık 10 Kelime:
+covid: 5
+19: 5
+coronavirus: 4
+college: 3
+students: 3
+pandemic: 3
+colleges: 2
+new: 2
+corona: 2
+virus: 2

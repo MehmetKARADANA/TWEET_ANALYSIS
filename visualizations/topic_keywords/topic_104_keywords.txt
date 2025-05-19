@@ -1,0 +1,11 @@
+Topic 104 - En Sık 10 Kelime:
+humanitarian: 4
+place: 2
+vulnerable: 2
+grounded: 1
+gameplay: 1
+new: 1
+base: 1
+location: 1
+bombardier: 1
+beetle: 1

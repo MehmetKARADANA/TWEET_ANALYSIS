@@ -1,0 +1,11 @@
+Topic 64 - En Sık 10 Kelime:
+flights: 5
+international: 4
+flight: 4
+korea: 4
+one: 3
+south: 3
+asia: 3
+greece: 3
+countries: 3
+airport: 3
