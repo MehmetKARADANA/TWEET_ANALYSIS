@@ -1,11 +1,11 @@
 Topic 14 - En Sık 10 Kelime:
-covid: 82
-19: 64
-covid19: 11
-us: 6
-safety: 5
-trump: 5
-fight: 4
-people: 4
-things: 4
-via: 4
+science: 3
+research: 3
+scientists: 3
+amp: 2
+knowledge: 2
+scientific: 2
+new: 2
+know: 1
+whether: 1
+feel: 1

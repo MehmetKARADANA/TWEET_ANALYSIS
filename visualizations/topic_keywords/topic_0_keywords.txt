@@ -1,11 +1,11 @@
 Topic 0 - En Sık 10 Kelime:
-mask: 183
-masks: 130
-wear: 82
-face: 76
-wearing: 73
-people: 38
-spread: 30
-amp: 29
-hands: 26
-hand: 26
+cases: 70
+new: 37
+deaths: 23
+total: 22
+1: 18
+india: 17
+reported: 15
+positive: 14
+24: 12
+active: 11

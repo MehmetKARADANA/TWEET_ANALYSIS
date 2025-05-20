@@ -1,11 +1,11 @@
 Topic 5 - En Sık 10 Kelime:
-cases: 185
-new: 100
-total: 41
-reported: 39
-24: 30
-last: 28
-day: 25
-hours: 24
-1: 23
-number: 23
+pandemic: 31
+time: 3
+many: 3
+team: 2
+may: 2
+crisis: 2
+read: 2
+successful: 2
+world: 2
+future: 2

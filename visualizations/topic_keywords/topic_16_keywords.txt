@@ -1,10 +1,11 @@
 Topic 16 - En Sık 10 Kelime:
-like: 2
-hey: 2
-look: 1
-dear: 1
-lol: 1
-involved: 1
-oh: 1
-sighhhhhhhhh: 1
-looks: 1
+science: 4
+knowledge: 3
+research: 3
+scientists: 3
+scientific: 2
+amp: 2
+family: 2
+new: 2
+might: 1
+right: 1

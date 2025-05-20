@@ -1,11 +1,11 @@
 Topic 2 - En Sık 10 Kelime:
-deaths: 168
-cases: 133
-new: 74
-total: 52
-death: 46
-1: 43
-confirmed: 24
-reported: 24
-4: 23
-2: 22
+tests: 10
+positive: 10
+health: 8
+testing: 7
+tested: 6
+test: 6
+people: 5
+patients: 5
+get: 4
+hospital: 4

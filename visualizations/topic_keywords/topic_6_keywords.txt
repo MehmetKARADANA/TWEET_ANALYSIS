@@ -1,11 +1,11 @@
 Topic 6 - En Sık 10 Kelime:
-coronavirus: 158
-cases: 48
-new: 33
-news: 29
-corona: 20
-deaths: 18
-virus: 16
-pandemic: 15
-update: 14
-global: 13
+crisis: 4
+business: 4
+economic: 3
+economy: 3
+poor: 3
+market: 2
+handling: 2
+work: 2
+next: 2
+government: 2

@@ -1,11 +1,16 @@
 from scripts import misinformation_dedection, read_data, clean_data, save_clean_data, sentiment_analysis, plot_sentiment_distribution,  topic_modeling, time_series_analysis,  network_analysis, topic_keywords_analysis, misinformation_analysis
 
 
-df = read_data.load_data("data/covid19_tweets.csv")
+df = read_data.load_data("data/test_data.csv")
 
+"""
+df = read_data.load_data("data/covid19_tweets.csv")
+df = read_data.load_data("analyzed_data/misinformation_tweets.csv")
+"""
 df = clean_data.clean_tweets(df)
 
-df = df.sample(n=10000, random_state=42).reset_index(drop=True)
+df = df.sample(n=min(10000, len(df)), random_state=42).reset_index(drop=True)
+
 
 save_clean_data.save_clean_data(df, "cleaned_data/cleaned_tweets.csv")
 
@@ -27,3 +32,5 @@ network_analysis.build_user_mention_network(df)
 df = misinformation_dedection.detect_misinformation(df)
 
 misinformation_analysis.analyze_misinformation(df)
+
+misinformation_dedection.evaluate_misinformation_detection(df)

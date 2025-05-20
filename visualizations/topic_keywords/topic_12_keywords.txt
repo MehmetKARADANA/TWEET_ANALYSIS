@@ -1,11 +1,11 @@
 Topic 12 - En Sık 10 Kelime:
-positive: 84
-tested: 46
-tests: 31
-minister: 17
-test: 16
-negative: 9
-testing: 7
-says: 7
-people: 6
-union: 6
+americans: 8
+000: 4
+us: 4
+trump: 4
+hoax: 4
+said: 3
+died: 2
+daddy: 2
+would: 2
+like: 2

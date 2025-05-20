@@ -1,11 +1,11 @@
 Topic 13 - En Sık 10 Kelime:
-safe: 25
-stay: 11
-fear: 11
-people: 9
-protect: 9
-keep: 9
-stress: 8
-friends: 7
-family: 7
-safety: 7
+money: 2
+fee: 2
+enough: 2
+pay: 2
+received: 2
+wages: 1
+employees: 1
+reduced: 1
+fees: 1
+universities: 1
