@@ -1,11 +1,11 @@
 Topic 2 - En Sık 10 Kelime:
-tests: 10
-positive: 10
-health: 8
-testing: 7
-tested: 6
-test: 6
-people: 5
-patients: 5
-get: 4
-hospital: 4
+cases: 10
+1: 6
+new: 5
+death: 3
+deaths: 3
+mark: 3
+32: 2
+tally: 2
+active: 2
+health: 2

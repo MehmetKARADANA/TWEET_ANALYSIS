@@ -1,11 +1,11 @@
 Topic 14 - En Sık 10 Kelime:
-science: 3
+science: 4
 research: 3
 scientists: 3
-amp: 2
-knowledge: 2
 scientific: 2
+read: 2
 new: 2
 know: 1
 whether: 1
 feel: 1
+scared: 1

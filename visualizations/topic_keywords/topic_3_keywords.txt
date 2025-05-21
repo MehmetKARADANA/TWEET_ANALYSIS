@@ -1,11 +1,11 @@
 Topic 3 - En Sık 10 Kelime:
-mask: 18
-masks: 15
-wearing: 8
-people: 7
-distancing: 6
-wear: 5
-face: 4
-social: 4
-protect: 4
-best: 3
+live: 6
+new: 5
+important: 4
+dr: 4
+people: 4
+watch: 4
+fight: 4
+must: 3
+thank: 3
+day: 3

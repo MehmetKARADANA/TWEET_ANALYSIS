@@ -1,11 +1,11 @@
 Topic 4 - En Sık 10 Kelime:
-amp: 24
-gets: 3
-3: 3
-idea: 2
-still: 2
-b: 2
-good: 2
-let: 2
-man: 2
-past: 2
+mask: 18
+masks: 15
+wearing: 8
+people: 7
+distancing: 6
+wear: 5
+face: 4
+social: 4
+protect: 4
+best: 3

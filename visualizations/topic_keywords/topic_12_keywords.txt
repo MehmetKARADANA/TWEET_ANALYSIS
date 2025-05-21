@@ -1,9 +1,9 @@
 Topic 12 - En Sık 10 Kelime:
 americans: 8
 000: 4
-us: 4
 trump: 4
 hoax: 4
+us: 3
 said: 3
 died: 2
 daddy: 2

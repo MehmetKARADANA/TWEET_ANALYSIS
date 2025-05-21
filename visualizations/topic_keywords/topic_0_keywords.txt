@@ -1,11 +1,11 @@
 Topic 0 - En Sık 10 Kelime:
-cases: 70
-new: 37
-deaths: 23
-total: 22
-1: 18
-india: 17
-reported: 15
-positive: 14
-24: 12
-active: 11
+amp: 7
+new: 4
+way: 3
+good: 3
+social: 3
+distancing: 3
+know: 3
+time: 2
+due: 2
+canada: 2

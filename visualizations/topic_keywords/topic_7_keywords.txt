@@ -1,11 +1,11 @@
 Topic 7 - En Sık 10 Kelime:
-live: 6
-new: 5
-people: 4
-watch: 4
-important: 3
-day: 3
-get: 3
-time: 3
-drive: 2
-want: 2
+tough: 2
+simple: 2
+today: 2
+still: 2
+5: 1
+easy: 1
+way: 1
+show: 1
+wtf: 1
+done: 1

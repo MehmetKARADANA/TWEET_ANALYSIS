@@ -8,7 +8,8 @@ def load_data(filepath):
         "user_name", "user_location", "user_description",
         "user_created", "user_followers", "user_friends",
         "user_favourites", "user_verified", "date",
-        "text", "hashtags", "source", "is_retweet"
+        "text", "hashtags", "source", "is_retweet",
+        "cleaned_text", "sentiment", "topic", "label"
     ]
     
     if all(col in df.columns for col in selected_columns):

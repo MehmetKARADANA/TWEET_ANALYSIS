@@ -1,11 +1,11 @@
 Topic 6 - En Sık 10 Kelime:
-crisis: 4
-business: 4
-economic: 3
-economy: 3
-poor: 3
-market: 2
-handling: 2
-work: 2
-next: 2
-government: 2
+pandemic: 31
+time: 3
+many: 3
+team: 2
+flu: 2
+may: 2
+crisis: 2
+read: 2
+successful: 2
+world: 2

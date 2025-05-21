@@ -1,11 +1,11 @@
 Topic 8 - En Sık 10 Kelime:
-tough: 2
-simple: 2
-today: 2
-still: 2
-5: 1
-easy: 1
-way: 1
-show: 1
-wtf: 1
-done: 1
+positive: 10
+tests: 8
+tested: 6
+test: 6
+testing: 6
+people: 5
+health: 3
+get: 2
+family: 2
+minister: 2

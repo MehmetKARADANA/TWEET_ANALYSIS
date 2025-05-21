@@ -1,11 +1,11 @@
 Topic 1 - En Sık 10 Kelime:
-covid: 32
-19: 26
-coronavirus: 18
-virus: 15
-deaths: 9
-update: 6
-people: 6
-cases: 6
-outbreak: 6
-new: 6
+cases: 12
+pandemic: 6
+1: 6
+new: 5
+death: 5
+coronavirus: 5
+covid: 5
+health: 4
+positive: 4
+19: 4

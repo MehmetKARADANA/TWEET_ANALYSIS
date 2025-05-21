@@ -50,9 +50,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 def evaluate_misinformation_detection(df):
-    """
-    Doğru ve tahmin edilen etiketlere göre sınıflandırma performansını değerlendirir.
-    """
+
     if "label" not in df.columns or "misinformation_label" not in df.columns:
         print("⚠️ 'label' ve 'misinformation_label' sütunları bulunamadı.")
         return
@@ -66,14 +64,12 @@ def evaluate_misinformation_detection(df):
     acc = accuracy_score(y_true, y_pred)
     print(f"\n🎯 Doğruluk (Accuracy): {acc:.2%}")
 
-    # Confusion matrix görselleştirme
     cm = confusion_matrix(y_true, y_pred, labels=["misinformation", "true information", "unverified claim"])
     sns.heatmap(cm, annot=True, fmt='d', cmap='Blues',
                 xticklabels=["misinformation", "true information", "unverified claim"],
                 yticklabels=["misinformation", "true information", "unverified claim"])
     plt.title("Confusion Matrix")
-    plt.xlabel("Tahmin")
-    plt.ylabel("Gerçek")
+    plt.xlabel("Modelin Tahmini")
+    plt.ylabel("Gerçek Etiket")
     plt.tight_layout()
     plt.show()
-

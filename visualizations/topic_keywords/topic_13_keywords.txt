@@ -1,11 +1,11 @@
 Topic 13 - En Sık 10 Kelime:
-money: 2
-fee: 2
-enough: 2
-pay: 2
-received: 2
-wages: 1
-employees: 1
-reduced: 1
-fees: 1
-universities: 1
+hospital: 4
+patients: 4
+health: 3
+medical: 2
+workers: 2
+get: 2
+amp: 2
+doctors: 2
+support: 2
+social: 2
