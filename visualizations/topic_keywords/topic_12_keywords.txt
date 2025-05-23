@@ -1,11 +1,11 @@
 Topic 12 - En Sık 10 Kelime:
-americans: 8
-000: 4
-trump: 4
-hoax: 4
-us: 3
-said: 3
-died: 2
-daddy: 2
-would: 2
-like: 2
+sign: 12
+give: 5
+american: 5
+petition: 5
+2000: 4
+month: 4
+every: 4
+via: 4
+deliver: 3
+copy: 3

@@ -1,0 +1,11 @@
+Topic 249 - En Sık 10 Kelime:
+rules: 4
+everyone: 4
+obey: 3
+mandatory: 3
+rule: 3
+restrictions: 2
+placed: 2
+due: 2
+muslims: 2
+want: 2

@@ -1,0 +1,11 @@
+Topic 270 - En Sık 10 Kelime:
+going: 4
+theaters: 4
+movie: 3
+theater: 3
+industry: 3
+would: 3
+go: 3
+movies: 3
+like: 3
+film: 3

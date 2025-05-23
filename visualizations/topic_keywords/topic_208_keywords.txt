@@ -1,0 +1,11 @@
+Topic 208 - En Sık 10 Kelime:
+people: 8
+insanity: 3
+actually: 3
+know: 2
+well: 2
+many: 2
+level: 2
+self: 2
+shameful: 2
+ignorance: 2

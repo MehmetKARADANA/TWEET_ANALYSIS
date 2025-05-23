@@ -1,11 +1,11 @@
 Topic 127 - En Sık 10 Kelime:
-call: 3
-calling: 2
-called: 1
-whate: 1
-talking: 1
-next: 1
-minutes: 1
-w: 1
-h: 1
-e: 1
+grant: 15
+grants: 11
+applications: 6
+available: 5
+self: 5
+awarded: 5
+fund: 5
+program: 5
+income: 5
+funding: 4

@@ -1,11 +1,11 @@
 Topic 144 - En Sık 10 Kelime:
-wearing: 6
-hands: 5
-mask: 5
-social: 5
-distancing: 5
-masks: 5
-washing: 4
-wash: 3
-hand: 3
-three: 2
+deaths: 22
+new: 7
+death: 7
+total: 6
+reported: 5
+reports: 4
+312: 3
+bring: 3
+6: 3
+655: 3

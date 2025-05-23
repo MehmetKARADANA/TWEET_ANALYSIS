@@ -1,0 +1,11 @@
+Topic 257 - En Sık 10 Kelime:
+air: 13
+ventilation: 8
+spread: 2
+essential: 2
+purifier: 2
+system: 2
+fresh: 2
+amp: 2
+need: 2
+poor: 2

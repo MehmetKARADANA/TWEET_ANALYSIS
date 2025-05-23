@@ -1,11 +1,11 @@
 Topic 135 - En Sık 10 Kelime:
-recovery: 10
-india: 9
-rate: 9
-improves: 4
-2020: 4
-recoveries: 3
-63: 3
-deaths: 2
-3: 2
-says: 2
+covid: 20
+19: 14
+pandemic: 8
+scams: 5
+scam: 5
+corruption: 4
+coronavirus: 4
+fear: 3
+phishing: 3
+read: 3

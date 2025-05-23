@@ -1,0 +1,11 @@
+Topic 201 - En Sık 10 Kelime:
+day: 13
+photo: 4
+bag: 3
+one: 3
+pic: 3
+days: 3
+last: 2
+today: 2
+time: 2
+home: 2

@@ -1,0 +1,11 @@
+Topic 359 - En Sık 10 Kelime:
+global: 5
+critical: 3
+partnership: 2
+geared: 2
+common: 2
+good: 2
+region: 2
+community: 2
+world: 2
+gathering: 1

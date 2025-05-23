@@ -1,0 +1,11 @@
+Topic 205 - En Sık 10 Kelime:
+fire: 20
+hotel: 11
+killed: 10
+people: 8
+used: 7
+vijayawada: 7
+broke: 5
+andhra: 5
+least: 4
+7: 4

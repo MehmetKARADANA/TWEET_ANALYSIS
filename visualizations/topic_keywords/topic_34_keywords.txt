@@ -1,11 +1,11 @@
 Topic 34 - En Sık 10 Kelime:
-covid: 38
-india: 29
-cases: 26
-19: 25
-new: 15
-deaths: 12
-tally: 11
-mark: 9
-day: 9
-lakh: 8
+know: 4
+try: 2
+funny: 2
+well: 2
+damn: 2
+facts: 2
+still: 1
+bored: 1
+lol: 1
+knew: 1

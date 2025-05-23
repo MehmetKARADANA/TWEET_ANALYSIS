@@ -1,0 +1,11 @@
+Topic 312 - En Sık 10 Kelime:
+cancer: 8
+people: 3
+breast: 3
+patients: 3
+doctor: 2
+know: 2
+thoracic: 2
+4: 2
+months: 2
+could: 1

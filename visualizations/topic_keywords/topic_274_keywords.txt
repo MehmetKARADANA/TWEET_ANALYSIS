@@ -1,0 +1,11 @@
+Topic 274 - En Sık 10 Kelime:
+negative: 16
+tested: 6
+test: 5
+tests: 4
+good: 2
+news: 2
+players: 2
+people: 2
+president: 2
+announced: 2

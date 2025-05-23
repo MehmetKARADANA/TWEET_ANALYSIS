@@ -1,11 +1,11 @@
 Topic 97 - En Sık 10 Kelime:
-continue: 2
-times: 2
-much: 2
-choices: 2
-c: 2
-one: 2
-helping: 2
-give: 2
-go: 2
-life: 2
+call: 11
+contact: 11
+us: 7
+help: 5
+please: 5
+email: 5
+need: 5
+info: 5
+number: 4
+helpline: 4

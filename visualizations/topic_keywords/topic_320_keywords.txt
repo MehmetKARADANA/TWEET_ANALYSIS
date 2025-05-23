@@ -1,0 +1,11 @@
+Topic 320 - En Sık 10 Kelime:
+indonesia: 10
+deaths: 9
+new: 5
+cases: 5
+total: 5
+1: 4
+4: 4
+recovered: 3
+active: 3
+bali: 3

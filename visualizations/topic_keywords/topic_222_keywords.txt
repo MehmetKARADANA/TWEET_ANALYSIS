@@ -1,0 +1,11 @@
+Topic 222 - En Sık 10 Kelime:
+boris: 17
+johnson: 16
+dominic: 4
+cummings: 4
+take: 3
+tory: 2
+people: 2
+failed: 2
+lost: 1
+control: 1

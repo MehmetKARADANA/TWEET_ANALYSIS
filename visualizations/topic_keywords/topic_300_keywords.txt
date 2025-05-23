@@ -1,0 +1,11 @@
+Topic 300 - En Sık 10 Kelime:
+brazil: 12
+deaths: 11
+000: 7
+india: 6
+cases: 6
+usa: 4
+new: 4
+death: 3
+toll: 3
+surpassed: 3

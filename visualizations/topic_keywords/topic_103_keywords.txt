@@ -1,11 +1,11 @@
 Topic 103 - En Sık 10 Kelime:
-infected: 6
-infection: 4
-people: 3
-cases: 2
-getting: 2
-lies: 1
-contagious: 1
-disease: 1
-amongst: 1
-ranks: 1
+summer: 12
+day: 7
+park: 4
+garden: 4
+place: 4
+trip: 4
+nice: 3
+backyard: 3
+days: 3
+go: 3

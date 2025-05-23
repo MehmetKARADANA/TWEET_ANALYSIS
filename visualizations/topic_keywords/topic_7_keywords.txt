@@ -1,11 +1,11 @@
 Topic 7 - En Sık 10 Kelime:
-tough: 2
-simple: 2
-today: 2
-still: 2
-5: 1
-easy: 1
-way: 1
-show: 1
-wtf: 1
-done: 1
+coronavirus: 31
+cases: 11
+new: 8
+news: 7
+update: 6
+corona: 4
+spread: 4
+total: 3
+measures: 3
+taken: 3

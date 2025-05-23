@@ -1,0 +1,11 @@
+Topic 329 - En Sık 10 Kelime:
+biden: 12
+trump: 8
+neither: 2
+fact: 2
+objected: 2
+closure: 2
+boarders: 2
+china: 2
+feb: 2
+europe: 2

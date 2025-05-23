@@ -1,0 +1,11 @@
+Topic 262 - En Sık 10 Kelime:
+insurance: 12
+health: 8
+u: 3
+coverage: 3
+read: 2
+hospitalized: 2
+bills: 2
+last: 2
+thing: 2
+mind: 2

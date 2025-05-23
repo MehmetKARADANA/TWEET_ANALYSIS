@@ -1,11 +1,11 @@
 Topic 79 - En Sık 10 Kelime:
-fight: 8
-battle: 4
-people: 3
-win: 3
-fighting: 2
-tell: 2
-war: 2
-bring: 2
-salute: 1
-strength: 1
+immune: 6
+system: 4
+immunity: 3
+cytokine: 2
+strong: 2
+found: 2
+patients: 2
+long: 2
+use: 2
+ayi3120: 2

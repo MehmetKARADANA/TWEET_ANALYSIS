@@ -1,0 +1,11 @@
+Topic 244 - En Sık 10 Kelime:
+philippines: 10
+cases: 9
+filipinos: 4
+august: 4
+new: 3
+confirmed: 3
+manila: 3
+2020: 3
+total: 3
+reports: 2

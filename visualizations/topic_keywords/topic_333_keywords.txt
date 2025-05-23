@@ -1,0 +1,11 @@
+Topic 333 - En Sık 10 Kelime:
+nurses: 12
+pass: 10
+tell: 9
+u: 9
+senate: 9
+critical: 9
+protections: 9
+sign: 9
+educators: 1
+amp: 1

@@ -1,0 +1,11 @@
+Topic 339 - En Sık 10 Kelime:
+covid: 11
+19: 11
+testing: 6
+update: 6
+details: 3
+visit: 3
+retromullet: 1
+post: 1
+03: 1
+2: 1

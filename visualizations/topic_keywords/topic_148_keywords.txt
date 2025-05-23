@@ -1,11 +1,11 @@
 Topic 148 - En Sık 10 Kelime:
-job: 9
-thinking: 7
-changing: 7
-want: 7
-something: 7
-fit: 7
-around: 7
-commitments: 7
-find: 7
-role: 7
+debt: 9
+loans: 7
+rbi: 4
+banks: 4
+loan: 4
+lending: 3
+could: 3
+placed: 3
+economic: 3
+000: 3

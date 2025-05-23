@@ -1,0 +1,11 @@
+Topic 335 - En Sık 10 Kelime:
+money: 2
+work: 2
+jobs: 2
+awesomeness: 1
+joblessness: 1
+making: 1
+taskforce: 1
+opportunity: 1
+release: 1
+birds: 1

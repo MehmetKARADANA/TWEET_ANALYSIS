@@ -1,0 +1,11 @@
+Topic 250 - En Sık 10 Kelime:
+covid: 18
+19: 15
+post: 4
+pandemic: 3
+impact: 2
+adopt: 2
+market: 2
+career: 2
+future: 2
+industry: 2

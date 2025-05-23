@@ -1,0 +1,11 @@
+Topic 235 - En Sık 10 Kelime:
+pandemic: 15
+children: 6
+youth: 5
+young: 3
+covid: 3
+19: 3
+amp: 3
+kids: 3
+global: 2
+happy: 2

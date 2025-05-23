@@ -1,0 +1,11 @@
+Topic 203 - En Sık 10 Kelime:
+2020: 20
+cases: 20
+india: 19
+tracker: 19
+08: 19
+confirmed: 19
+00: 18
+august: 17
+2: 14
+1: 7

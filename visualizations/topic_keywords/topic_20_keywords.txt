@@ -1,11 +1,11 @@
 Topic 20 - En Sık 10 Kelime:
-virus: 57
-viral: 6
-spread: 5
-also: 5
-know: 5
-viruses: 5
-people: 5
-cases: 5
-lab: 5
-us: 5
+song: 5
+love: 2
+musicians: 2
+official: 2
+music: 2
+video: 2
+hahaha: 1
+especially: 1
+2020: 1
+afrobeats: 1

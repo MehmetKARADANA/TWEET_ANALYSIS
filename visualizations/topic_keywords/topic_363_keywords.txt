@@ -1,0 +1,11 @@
+Topic 363 - En Sık 10 Kelime:
+check: 5
+business: 3
+provide: 2
+fo: 2
+gt: 2
+importance: 2
+data: 2
+cyber: 2
+security: 2
+transfor: 2

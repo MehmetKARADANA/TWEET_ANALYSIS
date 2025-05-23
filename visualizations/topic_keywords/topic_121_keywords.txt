@@ -1,11 +1,11 @@
 Topic 121 - En Sık 10 Kelime:
-unemployment: 8
-benefits: 5
-600: 4
-millions: 3
-workers: 3
-get: 2
-ending: 2
-federal: 2
-th: 2
-california: 2
+wear: 14
+wearing: 8
+fashion: 7
+industry: 4
+one: 4
+way: 3
+people: 3
+textile: 2
+nothing: 2
+time: 2

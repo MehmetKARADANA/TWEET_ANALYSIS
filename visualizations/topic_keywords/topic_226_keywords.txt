@@ -1,0 +1,11 @@
+Topic 226 - En Sık 10 Kelime:
+year: 13
+months: 5
+like: 4
+know: 3
+forever: 2
+even: 2
+last: 2
+saying: 2
+since: 2
+years: 2

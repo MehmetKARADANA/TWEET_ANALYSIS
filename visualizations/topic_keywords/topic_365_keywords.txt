@@ -1,0 +1,11 @@
+Topic 365 - En Sık 10 Kelime:
+new: 3
+jersey: 3
+york: 2
+washington: 2
+stop: 1
+bullshit: 1
+dead: 1
+mas: 1
+heights: 1
+folks: 1

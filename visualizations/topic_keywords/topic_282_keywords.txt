@@ -1,0 +1,11 @@
+Topic 282 - En Sık 10 Kelime:
+check: 7
+try: 4
+tried: 2
+cough: 1
+good: 1
+ok: 1
+stuff: 1
+go: 1
+click: 1
+contents: 1

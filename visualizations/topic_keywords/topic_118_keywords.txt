@@ -1,11 +1,11 @@
 Topic 118 - En Sık 10 Kelime:
-care: 3
-keep: 2
-smiling: 2
-good: 2
-everyone: 2
-different: 2
-proof: 1
-hug: 1
-exist: 1
-cutest: 1
+cruise: 12
+ship: 10
+ships: 5
+passengers: 5
+boat: 4
+covid: 4
+crew: 3
+positive: 3
+19: 3
+members: 2

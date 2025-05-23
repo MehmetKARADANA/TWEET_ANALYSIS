@@ -1,0 +1,11 @@
+Topic 303 - En Sık 10 Kelime:
+vitamin: 8
+vitamins: 4
+respiratory: 3
+know: 2
+study: 2
+health: 2
+experts: 2
+call: 2
+minerals: 2
+rich: 2

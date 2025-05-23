@@ -1,11 +1,11 @@
 Topic 2 - En Sık 10 Kelime:
-cases: 10
-1: 6
-new: 5
-death: 3
-deaths: 3
-mark: 3
-32: 2
-tally: 2
-active: 2
-health: 2
+positive: 12
+tests: 9
+hospital: 8
+test: 8
+tested: 8
+plasma: 7
+need: 7
+recovered: 6
+covid: 5
+via: 5

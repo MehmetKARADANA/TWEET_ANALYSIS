@@ -1,0 +1,11 @@
+Topic 343 - En Sık 10 Kelime:
+facts: 7
+fact: 4
+change: 2
+important: 1
+via: 1
+media: 1
+twitter: 1
+sheep: 1
+never: 1
+tell: 1

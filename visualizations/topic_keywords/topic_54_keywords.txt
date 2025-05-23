@@ -1,11 +1,11 @@
 Topic 54 - En Sık 10 Kelime:
-symptoms: 28
-help: 27
-spread: 27
-slow: 26
-identify: 26
-risk: 26
-cases: 26
-sooner: 26
-reporting: 26
-self: 25
+attacks: 4
+home: 3
+seeking: 3
+working: 2
+million: 2
+environment: 2
+know: 2
+pandemic: 2
+19: 2
+ddos: 2

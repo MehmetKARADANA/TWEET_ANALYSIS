@@ -1,11 +1,11 @@
 Topic 49 - En Sık 10 Kelime:
-cases: 26
-deaths: 24
-new: 21
-reported: 14
-total: 13
-india: 11
-amp: 10
-number: 6
-6: 5
-24: 5
+died: 5
+end: 3
+loved: 3
+ones: 3
+many: 3
+lost: 3
+amp: 2
+families: 2
+agree: 2
+news: 2

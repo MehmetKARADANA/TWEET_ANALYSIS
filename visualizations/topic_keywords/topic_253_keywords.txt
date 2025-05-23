@@ -1,0 +1,11 @@
+Topic 253 - En Sık 10 Kelime:
+hotel: 11
+hotels: 5
+guests: 5
+take: 4
+association: 3
+safe: 3
+stay: 3
+corps: 3
+care: 3
+free: 3

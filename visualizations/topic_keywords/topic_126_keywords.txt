@@ -1,11 +1,11 @@
 Topic 126 - En Sık 10 Kelime:
-cases: 9
-india: 8
-new: 7
-crosses: 7
-tally: 7
-lakh: 7
-mark: 6
-35: 5
-78: 5
-761: 5
+covid: 31
+19: 27
+symptoms: 6
+treatment: 4
+patients: 4
+people: 4
+disease: 3
+therapy: 3
+study: 3
+could: 3

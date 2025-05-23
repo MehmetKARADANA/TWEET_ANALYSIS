@@ -1,0 +1,11 @@
+Topic 357 - En Sık 10 Kelime:
+fake: 4
+news: 4
+amp: 3
+like: 2
+rumour: 2
+know: 2
+us: 2
+say: 2
+truth: 2
+big: 1

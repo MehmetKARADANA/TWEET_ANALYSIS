@@ -1,0 +1,11 @@
+Topic 254 - En Sık 10 Kelime:
+update: 15
+new: 15
+cases: 15
+tot: 15
+us: 5
+uzbekistan: 3
+casos: 2
+importados: 2
+de: 2
+ukraine: 2

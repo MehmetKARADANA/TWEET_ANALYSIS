@@ -1,0 +1,11 @@
+Topic 200 - En Sık 10 Kelime:
+toll: 22
+death: 15
+rises: 10
+last: 6
+24: 6
+hours: 6
+deaths: 6
+die: 5
+10: 5
+today: 4

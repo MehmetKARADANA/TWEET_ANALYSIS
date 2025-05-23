@@ -1,11 +1,11 @@
 Topic 75 - En Sık 10 Kelime:
-whatsapp: 10
-nigeria: 8
-us: 3
-profit: 2
-nigerian: 2
-30: 2
-call: 2
-come: 2
-east: 2
-youths: 2
+spread: 5
+spreads: 3
+lead: 2
+air: 2
+spreading: 2
+avoid: 2
+reduce: 2
+please: 2
+super: 2
+spreader: 2

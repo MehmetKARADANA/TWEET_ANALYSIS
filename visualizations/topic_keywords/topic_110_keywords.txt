@@ -1,11 +1,11 @@
 Topic 110 - En Sık 10 Kelime:
-meals: 7
-served: 2
-pandemic: 2
-thanks: 2
-distributed: 2
-l: 2
-amp: 2
-delivery: 2
-salvation: 1
-army: 1
+plasma: 25
+blood: 20
+donation: 9
+recovered: 9
+patients: 8
+donor: 6
+donate: 5
+save: 5
+need: 5
+donating: 4

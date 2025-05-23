@@ -1,0 +1,11 @@
+Topic 291 - En Sık 10 Kelime:
+infection: 7
+infected: 6
+people: 3
+control: 3
+getting: 2
+prevention: 2
+risk: 2
+hospital: 2
+need: 2
+measures: 2

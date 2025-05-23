@@ -1,0 +1,11 @@
+Topic 295 - En Sık 10 Kelime:
+csmt: 11
+train: 11
+extended: 11
+upto: 11
+31: 11
+12: 11
+2020: 11
+00113: 7
+00114: 7
+shm: 7

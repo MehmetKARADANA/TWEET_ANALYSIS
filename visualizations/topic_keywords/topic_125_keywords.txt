@@ -1,11 +1,11 @@
 Topic 125 - En Sık 10 Kelime:
-government: 5
-uk: 3
-gov: 2
-consistently: 2
-despite: 2
-going: 2
-tories: 2
-right: 2
-already: 1
-blamed: 1
+mail: 21
+election: 12
+voting: 10
+vote: 9
+amp: 8
+day: 6
+ballots: 5
+voters: 4
+voter: 4
+trump: 3

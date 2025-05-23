@@ -1,0 +1,11 @@
+Topic 318 - En Sık 10 Kelime:
+water: 13
+safe: 3
+get: 2
+pandemic: 2
+well: 2
+opening: 2
+months: 2
+people: 2
+without: 2
+300: 1

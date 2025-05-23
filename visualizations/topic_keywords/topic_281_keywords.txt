@@ -1,0 +1,11 @@
+Topic 281 - En Sık 10 Kelime:
+salon: 7
+hair: 5
+haircut: 3
+due: 2
+u: 2
+business: 2
+offering: 2
+6: 2
+feet: 2
+beauty: 2

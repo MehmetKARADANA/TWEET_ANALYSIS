@@ -1,0 +1,11 @@
+Topic 186 - En Sık 10 Kelime:
+pandemic: 15
+women: 15
+girls: 8
+gender: 6
+led: 3
+countries: 3
+impacts: 3
+covid: 3
+19: 3
+coronavirus: 3

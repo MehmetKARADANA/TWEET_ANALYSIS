@@ -1,11 +1,11 @@
 Topic 88 - En Sık 10 Kelime:
-prison: 7
-prisons: 4
-people: 3
-population: 2
-time: 2
-new: 2
-years: 2
-go: 2
-jail: 2
-enough: 1
+lost: 12
+sorry: 7
+loved: 7
+ones: 7
+died: 6
+loss: 6
+family: 5
+grandmother: 4
+death: 4
+thank: 4

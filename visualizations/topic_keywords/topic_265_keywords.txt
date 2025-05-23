@@ -1,0 +1,11 @@
+Topic 265 - En Sık 10 Kelime:
+call: 10
+three: 3
+numbers: 2
+still: 2
+calling: 2
+think: 2
+day: 2
+hold: 2
+time: 2
+answer: 2

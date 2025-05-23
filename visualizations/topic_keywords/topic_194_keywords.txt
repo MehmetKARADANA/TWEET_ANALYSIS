@@ -1,0 +1,11 @@
+Topic 194 - En Sık 10 Kelime:
+political: 6
+country: 3
+actually: 3
+kamala: 3
+republicans: 3
+know: 2
+right: 2
+issue: 2
+deserves: 2
+president: 2

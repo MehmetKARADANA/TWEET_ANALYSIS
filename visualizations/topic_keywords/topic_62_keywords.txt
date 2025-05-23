@@ -1,11 +1,11 @@
 Topic 62 - En Sık 10 Kelime:
-learn: 8
-learning: 6
-teaching: 4
-new: 3
-future: 3
-students: 3
-teacher: 3
-questions: 2
-since: 2
-school: 2
+telangana: 11
+status: 8
+positive: 7
+cases: 7
+2020: 7
+media: 6
+bulletin: 6
+dated: 5
+govt: 3
+08: 3

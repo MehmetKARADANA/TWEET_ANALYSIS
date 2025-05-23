@@ -1,11 +1,11 @@
 Topic 15 - En Sık 10 Kelime:
-sign: 8
-give: 4
-american: 4
-need: 3
-senate: 3
-pass: 3
-2000: 3
-month: 3
-every: 3
-petition: 3
+church: 4
+amp: 3
+god: 3
+people: 2
+jesus: 2
+since: 2
+year: 2
+patron: 2
+saint: 2
+prayers: 2

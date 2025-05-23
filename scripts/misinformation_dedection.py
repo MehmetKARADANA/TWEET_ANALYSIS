@@ -1,7 +1,7 @@
 from transformers import pipeline
 import pandas as pd
 
-# Modelleri önceden yükle
+
 print("Modeller yükleniyor...")
 model1 = pipeline("zero-shot-classification", model="facebook/bart-large-mnli", device=0)
 model2 = pipeline("zero-shot-classification", model="roberta-large-mnli", device=0)
@@ -37,14 +37,43 @@ def ensemble_prediction(text):
         return "true information"
     else:
         return "unverified claim"
+    
+from tqdm import tqdm
+import os
 
-def detect_misinformation(df):
-    print("\n🔍 Ensemble modellerle yanlış bilgi tespiti yapılıyor...")
-    df["misinformation_label"] = df["cleaned_text"].apply(ensemble_prediction)
-    print("\n✅ Yanlış bilgi tespiti tamamlandı. İlk 5 sonuç:")
+def detect_misinformation(df, checkpoint_dir="analyzed_data", checkpoint_every=1000):
+    print("\n🔍 Ensemble modellerle yanlış bilgi tespiti başlatıldı...")
+    tqdm.pandas(desc="İşleniyor")
+
+    if not os.path.exists(checkpoint_dir):
+        os.makedirs(checkpoint_dir)
+
+    predictions = []
+    for i, text in enumerate(tqdm(df["cleaned_text"], desc="Tweetler işleniyor")):
+        if not isinstance(text, str) or not text.strip():
+            predictions.append("LABEL_UNKNOWN")
+        else:
+            predictions.append(ensemble_prediction(text))
+
+        if (i + 1) % checkpoint_every == 0 or (i + 1) == len(df):
+            temp_df = df.iloc[:i+1].copy()
+            temp_df["misinformation_label"] = predictions
+            temp_df.to_csv(f"{checkpoint_dir}/checkpoint_{i+1}.csv", index=False)
+            print(f" Ara kayıt yapıldı: {checkpoint_dir}/checkpoint_{i+1}.csv")
+
+    df["misinformation_label"] = predictions
+    print("\n Yanlış bilgi tespiti tamamlandı. İlk 5 sonuç:")
     print(df[["cleaned_text", "misinformation_label"]].head())
     return df
 
+"""
+def detect_misinformation(df):
+    print("\n🔍 Ensemble modellerle yanlış bilgi tespiti yapılıyor...")
+    df["misinformation_label"] = df["cleaned_text"].apply(ensemble_prediction)
+    print("\n Yanlış bilgi tespiti tamamlandı. İlk 5 sonuç:")
+    print(df[["cleaned_text", "misinformation_label"]].head())
+    return df
+"""
 from sklearn.metrics import classification_report, accuracy_score, confusion_matrix
 import seaborn as sns
 import matplotlib.pyplot as plt
@@ -52,7 +81,7 @@ import matplotlib.pyplot as plt
 def evaluate_misinformation_detection(df):
 
     if "label" not in df.columns or "misinformation_label" not in df.columns:
-        print("⚠️ 'label' ve 'misinformation_label' sütunları bulunamadı.")
+        print("'label' ve 'misinformation_label' sütunları bulunamadı.")
         return
 
     y_true = df["label"]

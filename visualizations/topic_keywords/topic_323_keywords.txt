@@ -1,0 +1,11 @@
+Topic 323 - En Sık 10 Kelime:
+science: 10
+read: 2
+letter: 2
+editor: 2
+watching: 1
+amazing: 1
+entry: 1
+wondering: 1
+many: 1
+ppl: 1

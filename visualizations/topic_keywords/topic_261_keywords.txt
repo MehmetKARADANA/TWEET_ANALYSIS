@@ -1,0 +1,11 @@
+Topic 261 - En Sık 10 Kelime:
+cash: 6
+pay: 4
+banks: 4
+bank: 2
+time: 2
+public: 2
+getting: 1
+quarters: 1
+right: 1
+coin: 1

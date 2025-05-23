@@ -1,11 +1,11 @@
 Topic 137 - En Sık 10 Kelime:
-covid: 11
-19: 8
-prediction: 2
-fight: 2
-people: 2
-symptoms: 2
-today: 2
-models: 1
-diagnosis: 1
-prognosis: 1
+19: 28
+covid: 27
+data: 25
+new: 23
+2020: 22
+edt: 20
+08: 14
+00: 14
+01: 10
+30: 10

@@ -1,0 +1,11 @@
+Topic 195 - En Sık 10 Kelime:
+daughter: 23
+putin: 19
+vaccine: 18
+first: 13
+russia: 12
+says: 9
+president: 9
+world: 7
+vaccinated: 6
+inoculated: 5

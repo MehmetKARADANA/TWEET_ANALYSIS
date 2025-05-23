@@ -1,0 +1,11 @@
+Topic 231 - En Sık 10 Kelime:
+covid: 18
+cases: 18
+spike: 17
+day: 15
+india: 14
+deaths: 14
+tally: 13
+mark: 13
+single: 13
+14: 12

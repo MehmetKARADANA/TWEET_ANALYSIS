@@ -1,0 +1,11 @@
+Topic 325 - En Sık 10 Kelime:
+friends: 5
+friend: 4
+best: 4
+alone: 2
+friendship: 2
+many: 2
+possible: 2
+new: 2
+hate: 1
+democrats: 1

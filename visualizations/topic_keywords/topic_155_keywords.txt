@@ -1,11 +1,11 @@
 Topic 155 - En Sık 10 Kelime:
-positive: 9
-cases: 9
-deaths: 9
-6: 9
-total: 9
-557: 8
-new: 8
-reported: 8
-rajasthan: 8
-till: 8
+hand: 23
+sanitizer: 18
+sanitizers: 7
+across: 3
+people: 3
+find: 3
+drink: 3
+soap: 3
+recalled: 2
+use: 2

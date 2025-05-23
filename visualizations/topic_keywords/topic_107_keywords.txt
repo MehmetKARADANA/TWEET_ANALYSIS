@@ -1,11 +1,11 @@
 Topic 107 - En Sık 10 Kelime:
-closed: 8
-covid: 6
-temporarily: 4
-due: 4
-19: 4
-police: 3
-station: 3
-operate: 3
-service: 2
-centre: 2
+prison: 9
+prisons: 7
+prisoners: 5
+people: 5
+pandemic: 3
+spread: 3
+amp: 3
+concentration: 3
+camps: 3
+home: 3

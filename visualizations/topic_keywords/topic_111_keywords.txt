@@ -1,11 +1,11 @@
 Topic 111 - En Sık 10 Kelime:
-read: 5
-blog: 5
-article: 3
-community: 3
-latest: 3
-featured: 2
-page: 2
-news: 2
-new: 2
-website: 2
+masks: 24
+mask: 15
+wear: 11
+people: 6
+stop: 5
+cases: 5
+wearing: 4
+work: 4
+mandatory: 4
+mandates: 4

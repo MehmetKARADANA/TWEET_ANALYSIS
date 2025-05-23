@@ -1,0 +1,11 @@
+Topic 220 - En Sık 10 Kelime:
+cancelled: 11
+2020: 8
+due: 6
+year: 5
+postponed: 4
+race: 3
+edition: 2
+rescheduled: 2
+series: 2
+first: 2

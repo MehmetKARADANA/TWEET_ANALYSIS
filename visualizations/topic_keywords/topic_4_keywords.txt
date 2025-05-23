@@ -1,11 +1,11 @@
 Topic 4 - En Sık 10 Kelime:
-mask: 18
-masks: 15
-wearing: 8
-people: 7
-distancing: 6
-wear: 5
-face: 4
-social: 4
-protect: 4
-best: 3
+amp: 36
+gets: 4
+dear: 3
+person: 3
+able: 3
+willing: 3
+counted: 3
+nov: 3
+3: 3
+eod: 3

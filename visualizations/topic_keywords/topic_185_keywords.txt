@@ -1,0 +1,11 @@
+Topic 185 - En Sık 10 Kelime:
+black: 15
+people: 9
+lives: 6
+matter: 4
+racist: 3
+racism: 3
+always: 3
+white: 3
+say: 2
+us: 2

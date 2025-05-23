@@ -1,11 +1,11 @@
 Topic 17 - En Sık 10 Kelime:
-dr: 8
-minister: 7
-pm: 6
-modi: 6
-india: 6
-pradesh: 5
-amp: 5
-cm: 5
-government: 5
-session: 4
+cases: 14
+deaths: 11
+new: 5
+1: 5
+total: 4
+today: 3
+7: 3
+reports: 3
+52: 2
+89: 2

@@ -1,11 +1,11 @@
 Topic 164 - En Sık 10 Kelime:
-ventilator: 7
-patients: 4
-icu: 3
-11: 3
-admitted: 2
-four: 2
-support: 2
-get: 2
-team: 2
-ventilators: 2
+communities: 7
+color: 7
+health: 7
+ethnic: 5
+amp: 5
+racial: 5
+people: 5
+risk: 3
+groups: 3
+disproportionate: 3

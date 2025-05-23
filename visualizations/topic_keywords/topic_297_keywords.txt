@@ -1,0 +1,11 @@
+Topic 297 - En Sık 10 Kelime:
+journalists: 8
+political: 3
+news: 3
+job: 2
+media: 2
+feel: 2
+information: 2
+journalist: 2
+truth: 1
+disgraceful: 1

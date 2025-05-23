@@ -1,0 +1,11 @@
+Topic 177 - En Sık 10 Kelime:
+season: 17
+football: 4
+college: 3
+going: 3
+week: 3
+sports: 3
+opener: 2
+play: 2
+th: 2
+seasons: 2

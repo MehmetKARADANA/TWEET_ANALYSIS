@@ -1,0 +1,11 @@
+Topic 298 - En Sık 10 Kelime:
+symptoms: 13
+get: 9
+tested: 9
+testing: 3
+test: 3
+show: 3
+anyone: 2
+expect: 2
+think: 2
+open: 2

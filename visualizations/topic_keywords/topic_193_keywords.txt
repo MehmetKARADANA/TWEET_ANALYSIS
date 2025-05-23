@@ -1,0 +1,11 @@
+Topic 193 - En Sık 10 Kelime:
+believe: 15
+lie: 4
+said: 3
+please: 3
+truth: 3
+lied: 3
+dear: 2
+someone: 2
+know: 2
+try: 2

@@ -1,0 +1,11 @@
+Topic 284 - En Sık 10 Kelime:
+cases: 14
+discharged: 12
+india: 11
+cured: 11
+total: 10
+2020: 8
+migrated: 7
+1: 5
+july: 4
+active: 4

@@ -1,0 +1,11 @@
+Topic 223 - En Sık 10 Kelime:
+life: 9
+daily: 3
+times: 2
+happiness: 2
+one: 2
+days: 2
+love: 2
+instead: 2
+difficult: 1
+tell: 1

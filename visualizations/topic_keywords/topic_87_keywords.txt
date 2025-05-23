@@ -1,11 +1,11 @@
 Topic 87 - En Sık 10 Kelime:
-hoax: 16
-trump: 4
-called: 3
-think: 2
-believe: 2
-calling: 2
-know: 2
-many: 2
-people: 2
-amp: 2
+stress: 22
+anxiety: 11
+cope: 7
+depression: 6
+help: 5
+fear: 5
+massage: 4
+times: 4
+like: 4
+exercise: 3

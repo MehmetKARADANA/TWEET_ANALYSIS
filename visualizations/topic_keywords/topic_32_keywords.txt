@@ -1,11 +1,11 @@
 Topic 32 - En Sık 10 Kelime:
-protest: 14
-protests: 8
-alert: 6
-video: 6
-portland: 5
-riots: 4
-thousands: 4
-protesters: 4
-stop: 4
-global: 4
+home: 12
+working: 8
+job: 7
+work: 5
+new: 4
+due: 4
+workers: 4
+return: 3
+remote: 3
+able: 2

@@ -1,0 +1,11 @@
+Topic 206 - En Sık 10 Kelime:
+cases: 22
+24: 21
+hours: 21
+spike: 21
+last: 20
+deaths: 19
+india: 17
+positive: 16
+single: 16
+day: 16

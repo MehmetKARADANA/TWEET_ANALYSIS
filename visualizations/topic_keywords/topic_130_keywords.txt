@@ -1,11 +1,11 @@
 Topic 130 - En Sık 10 Kelime:
-journalists: 5
-news: 3
-reporter: 2
-fact: 2
-report: 2
-fake: 2
-say: 2
-amp: 2
-truth: 1
-disgraceful: 1
+covid: 30
+coronavirus: 28
+19: 28
+deaths: 27
+2020: 26
+cases: 26
+last: 23
+updated: 23
+05: 22
+00: 22

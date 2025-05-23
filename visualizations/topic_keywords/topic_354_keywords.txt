@@ -1,0 +1,11 @@
+Topic 354 - En Sık 10 Kelime:
+pollution: 8
+air: 6
+mortality: 3
+read: 2
+no2: 2
+10: 2
+study: 2
+quick: 1
+details: 1
+one: 1

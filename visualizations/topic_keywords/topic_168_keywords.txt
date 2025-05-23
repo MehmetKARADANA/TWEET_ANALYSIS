@@ -1,11 +1,11 @@
 Topic 168 - En Sık 10 Kelime:
-work: 6
-job: 2
-get: 2
-mean: 1
-actually: 1
-almost: 1
-4: 1
-years: 1
-dodging: 1
-thanked: 1
+new: 23
+zealand: 23
+nz: 5
+way: 3
+us: 3
+things: 2
+good: 2
+done: 2
+well: 2
+case: 2

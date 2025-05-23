@@ -1,11 +1,11 @@
 Topic 70 - En Sık 10 Kelime:
-immune: 8
-children: 6
-inflammatory: 5
-kids: 4
-system: 3
-patients: 3
-use: 2
-ayi3120: 2
-reward: 2
-code: 2
+cruise: 3
+sea: 3
+ship: 2
+nothing: 1
+done: 1
+toll: 1
+going: 1
+keep: 1
+climbing: 1
+period: 1

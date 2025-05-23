@@ -1,11 +1,11 @@
 Topic 43 - En Sık 10 Kelime:
-recovery: 21
-patients: 17
-rate: 16
-india: 9
-recovered: 6
-recoveries: 5
-improves: 5
-4: 4
-total: 4
-2020: 4
+app: 10
+canada: 6
+us: 4
+covid: 4
+canadians: 4
+due: 3
+download: 3
+get: 2
+response: 2
+new: 2

@@ -1,11 +1,11 @@
 Topic 136 - En Sık 10 Kelime:
-brother: 8
-trump: 7
-died: 7
-robert: 5
-dies: 2
-donald: 2
-death: 2
-president: 2
-golfs: 1
-nobody: 1
+wake: 13
+dark: 5
+nap: 4
+darkness: 3
+kids: 2
+remember: 2
+light: 2
+call: 2
+america: 2
+n: 2

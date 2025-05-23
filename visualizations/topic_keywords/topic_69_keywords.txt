@@ -1,11 +1,11 @@
 Topic 69 - En Sık 10 Kelime:
-plasma: 15
-recovered: 10
-blood: 9
-hospital: 7
-need: 6
-call: 5
-via: 5
-donation: 4
-patient: 4
-convalescent: 3
+covid: 12
+19: 8
+business: 5
+many: 2
+green: 2
+impact: 2
+adopt: 2
+post: 2
+via: 2
+weekend: 1

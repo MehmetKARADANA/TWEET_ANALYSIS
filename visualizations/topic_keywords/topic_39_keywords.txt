@@ -1,11 +1,11 @@
 Topic 39 - En Sık 10 Kelime:
-cases: 37
-spike: 34
-deaths: 31
-last: 30
-24: 30
-hours: 30
-india: 26
-day: 22
-single: 20
-reported: 19
+women: 15
+pandemic: 9
+female: 5
+impacts: 4
+girls: 4
+gender: 4
+leadership: 3
+far: 3
+led: 3
+countries: 3

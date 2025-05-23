@@ -1,11 +1,11 @@
 Topic 1 - En Sık 10 Kelime:
-cases: 12
-pandemic: 6
-1: 6
-new: 5
-death: 5
-coronavirus: 5
-covid: 5
-health: 4
-positive: 4
-19: 4
+pandemic: 42
+world: 5
+crisis: 5
+continues: 4
+people: 4
+need: 4
+one: 4
+health: 3
+effects: 3
+read: 3

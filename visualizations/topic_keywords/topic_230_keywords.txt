@@ -1,0 +1,11 @@
+Topic 230 - En Sık 10 Kelime:
+future: 17
+become: 17
+victims: 17
+virus: 17
+students: 16
+country: 16
+state: 15
+deadly: 15
+lost: 4
+develop: 2

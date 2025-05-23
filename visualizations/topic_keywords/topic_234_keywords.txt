@@ -1,0 +1,11 @@
+Topic 234 - En Sık 10 Kelime:
+cases: 20
+new: 18
+gmt: 18
+deaths: 14
+1: 7
+8: 7
+6: 6
+death: 5
+9: 4
+uzbekistan: 4

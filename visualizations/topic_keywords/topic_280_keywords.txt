@@ -1,0 +1,11 @@
+Topic 280 - En Sık 10 Kelime:
+remember: 11
+forget: 3
+like: 3
+going: 2
+come: 2
+world: 2
+memory: 2
+times: 2
+need: 2
+say: 1

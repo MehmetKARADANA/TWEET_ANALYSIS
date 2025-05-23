@@ -1,0 +1,11 @@
+Topic 346 - En Sık 10 Kelime:
+door: 8
+doors: 4
+use: 3
+opening: 2
+survey: 2
+open: 2
+new: 1
+normal: 1
+head: 1
+never: 1

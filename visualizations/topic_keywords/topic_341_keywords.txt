@@ -1,0 +1,11 @@
+Topic 341 - En Sık 10 Kelime:
+article: 10
+read: 3
+excellent: 3
+one: 3
+great: 2
+everyone: 2
+summarizing: 1
+known: 1
+right: 1
+feel: 1

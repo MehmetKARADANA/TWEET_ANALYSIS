@@ -1,11 +1,11 @@
 Topic 67 - En Sık 10 Kelime:
-telangana: 15
-2020: 12
-status: 11
-positive: 10
-cases: 10
-media: 9
-bulletin: 9
-dated: 8
-08: 7
-news: 5
+science: 4
+research: 3
+scientific: 3
+want: 3
+new: 3
+read: 2
+top: 2
+scientists: 2
+political: 2
+see: 2

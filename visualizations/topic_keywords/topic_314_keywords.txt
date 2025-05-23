@@ -1,0 +1,11 @@
+Topic 314 - En Sık 10 Kelime:
+masks: 10
+face: 7
+kids: 6
+children: 6
+mask: 4
+school: 4
+wearing: 3
+latest: 2
+watch: 2
+aug: 2

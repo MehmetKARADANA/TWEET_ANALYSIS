@@ -1,0 +1,11 @@
+Topic 344 - En Sık 10 Kelime:
+better: 2
+goat: 2
+game: 2
+flex: 1
+shawng: 1
+win: 1
+stop: 1
+chewing: 1
+gum: 1
+like: 1

@@ -1,0 +1,11 @@
+Topic 238 - En Sık 10 Kelime:
+trump: 15
+robert: 15
+brother: 12
+died: 10
+dies: 4
+president: 3
+donald: 3
+people: 3
+trumps: 2
+away: 2

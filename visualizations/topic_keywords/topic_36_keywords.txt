@@ -1,11 +1,11 @@
 Topic 36 - En Sık 10 Kelime:
-trump: 18
-president: 6
-america: 5
-people: 5
-world: 4
-think: 4
-white: 4
-worst: 3
-usa: 3
-ever: 3
+fear: 9
+stress: 7
+know: 3
+cope: 3
+help: 3
+threat: 2
+loved: 2
+ones: 2
+community: 2
+lead: 2

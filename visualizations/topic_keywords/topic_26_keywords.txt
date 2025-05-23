@@ -1,11 +1,11 @@
 Topic 26 - En Sık 10 Kelime:
-science: 15
-research: 9
-scientific: 7
-scientists: 7
-new: 5
-study: 5
-insights: 4
-see: 4
-global: 3
-way: 3
+home: 4
+working: 3
+future: 2
+new: 2
+remote: 2
+look: 1
+like: 1
+read: 1
+book: 1
+gren: 1

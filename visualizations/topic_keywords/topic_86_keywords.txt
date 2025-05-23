@@ -1,11 +1,11 @@
 Topic 86 - En Sık 10 Kelime:
-news: 13
-top: 4
-week: 3
-latest: 3
-updates: 2
-daily: 2
-good: 2
-headlines: 2
-positive: 1
-last: 1
+think: 13
+world: 8
+thinking: 6
+views: 4
+view: 4
+people: 3
+reality: 2
+question: 2
+important: 2
+us: 2

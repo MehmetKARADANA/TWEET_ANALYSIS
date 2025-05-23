@@ -1,0 +1,11 @@
+Topic 215 - En Sık 10 Kelime:
+deaths: 19
+cases: 17
+new: 16
+total: 15
+rajasthan: 13
+reported: 10
+positive: 8
+reports: 8
+number: 6
+state: 6

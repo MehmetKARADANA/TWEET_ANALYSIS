@@ -1,0 +1,11 @@
+Topic 313 - En Sık 10 Kelime:
+cases: 13
+africa: 12
+total: 11
+south: 10
+000: 9
+rise: 8
+600: 8
+confirmed: 5
+today: 2
+cumulative: 2

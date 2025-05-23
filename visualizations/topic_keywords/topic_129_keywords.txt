@@ -1,11 +1,11 @@
 Topic 129 - En Sık 10 Kelime:
-people: 6
-black: 5
-killing: 4
-lives: 2
-one: 2
-much: 2
-country: 1
-mean: 1
-personally: 1
-right: 1
+curve: 30
+flatten: 11
+flattening: 8
+people: 5
+new: 4
+flat: 4
+many: 4
+us: 3
+flattened: 3
+sick: 3

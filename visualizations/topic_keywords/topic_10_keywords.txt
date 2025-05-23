@@ -1,11 +1,11 @@
 Topic 10 - En Sık 10 Kelime:
-schools: 5
-two: 3
-people: 3
-amp: 3
-school: 3
-church: 2
-weeks: 2
-reopening: 2
-reopen: 2
-help: 2
+americans: 12
+000: 8
+deaths: 6
+died: 5
+dead: 4
+170: 3
+trump: 3
+like: 3
+counting: 2
+way: 2

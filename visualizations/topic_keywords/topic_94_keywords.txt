@@ -1,11 +1,11 @@
 Topic 94 - En Sık 10 Kelime:
-2020: 6
-31: 5
-csmt: 3
-train: 3
-extended: 3
-upto: 3
-12: 3
-extension: 2
-00115: 2
-00116: 2
+youth: 26
+young: 17
+people: 11
+fight: 4
+change: 4
+take: 3
+action: 3
+th: 3
+today: 3
+engagement: 3

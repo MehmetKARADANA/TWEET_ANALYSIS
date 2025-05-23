@@ -1,0 +1,11 @@
+Topic 190 - En Sık 10 Kelime:
+herd: 21
+immunity: 21
+chief: 3
+scientist: 3
+long: 3
+interesting: 3
+take: 2
+time: 2
+population: 2
+way: 2

@@ -1,11 +1,11 @@
 Topic 138 - En Sık 10 Kelime:
-sign: 8
-nurses: 7
-tell: 6
-pass: 6
-u: 5
-senate: 5
-critical: 5
-protections: 5
-letter: 2
-senator: 2
+cases: 28
+india: 25
+lakh: 25
+mark: 23
+tally: 21
+spike: 18
+new: 17
+24: 16
+crosses: 15
+amp: 14

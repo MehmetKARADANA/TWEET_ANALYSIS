@@ -1,0 +1,11 @@
+Topic 242 - En Sık 10 Kelime:
+arrested: 6
+enforcement: 3
+saying: 3
+said: 2
+police: 2
+officers: 2
+speeding: 2
+house: 2
+arrest: 2
+couple: 2

@@ -1,11 +1,11 @@
 Topic 151 - En Sık 10 Kelime:
-positive: 12
-singh: 10
-shivraj: 9
-chouhan: 9
-coronavirus: 9
-madhya: 6
-pradesh: 6
-cm: 5
-tested: 5
-tests: 4
+statistics: 14
+august: 6
+2020: 6
+update: 6
+sa: 6
+country: 4
+daily: 4
+today: 3
+worldwide: 3
+video: 3

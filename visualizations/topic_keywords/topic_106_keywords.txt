@@ -1,11 +1,11 @@
 Topic 106 - En Sık 10 Kelime:
-art: 7
-pandemic: 5
-archive: 4
-artist: 3
-amp: 2
-gallery: 2
-photographer: 2
-great: 2
-top: 1
-things: 1
+obesity: 15
+diabetes: 8
+people: 8
+health: 7
+risk: 6
+weight: 5
+death: 5
+obese: 4
+england: 3
+overweight: 3

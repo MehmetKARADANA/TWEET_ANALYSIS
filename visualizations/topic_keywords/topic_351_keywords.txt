@@ -1,0 +1,11 @@
+Topic 351 - En Sık 10 Kelime:
+drug: 5
+pharmaceutical: 4
+companies: 3
+trump: 3
+amp: 3
+prices: 3
+company: 2
+4: 2
+take: 2
+united: 2

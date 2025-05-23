@@ -1,11 +1,11 @@
 Topic 80 - En Sık 10 Kelime:
-reopen: 9
-help: 4
-reopening: 4
-support: 2
-open: 2
-weeks: 2
-back: 2
-reopens: 2
-due: 2
-officials: 2
+golf: 7
+golfing: 2
+must: 2
+game: 2
+nothing: 1
+stops: 1
+giving: 1
+especially: 1
+golfs: 1
+get: 1

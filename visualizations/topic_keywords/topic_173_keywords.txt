@@ -1,11 +1,11 @@
 Topic 173 - En Sık 10 Kelime:
-rent: 3
-experts: 2
-put: 2
-rental: 2
-million: 2
-pay: 2
-people: 2
-20: 2
-home: 1
-walls: 1
+covid: 18
+19: 17
+china: 13
+new: 11
+cases: 11
+chinese: 11
+reports: 7
+mainland: 7
+coronavirus: 6
+reported: 4

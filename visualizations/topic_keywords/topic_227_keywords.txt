@@ -1,0 +1,11 @@
+Topic 227 - En Sık 10 Kelime:
+heart: 13
+one: 3
+knows: 2
+time: 2
+like: 2
+lost: 2
+story: 2
+us: 2
+people: 2
+know: 2

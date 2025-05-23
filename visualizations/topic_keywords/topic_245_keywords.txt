@@ -1,0 +1,11 @@
+Topic 245 - En Sık 10 Kelime:
+spike: 19
+cases: 14
+day: 11
+single: 10
+highest: 8
+tally: 6
+reports: 4
+biggest: 4
+rises: 4
+records: 3

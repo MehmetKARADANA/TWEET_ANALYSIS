@@ -1,11 +1,11 @@
 Topic 143 - En Sık 10 Kelime:
-covid: 5
-19: 5
-coronavirus: 4
-college: 3
-students: 3
-pandemic: 3
-colleges: 2
-new: 2
-corona: 2
-virus: 2
+workers: 12
+migrant: 10
+pandemic: 8
+immigrant: 7
+immigrants: 7
+families: 5
+migration: 4
+forefront: 3
+fighting: 3
+yet: 3

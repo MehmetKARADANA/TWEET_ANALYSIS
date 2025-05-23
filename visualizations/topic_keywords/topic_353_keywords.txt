@@ -1,0 +1,11 @@
+Topic 353 - En Sık 10 Kelime:
+pandemic: 10
+mental: 6
+health: 6
+people: 3
+global: 2
+amp: 2
+stress: 2
+anxiety: 2
+worried: 1
+afraid: 1

@@ -1,11 +1,11 @@
 Topic 40 - En Sık 10 Kelime:
-live: 12
-watch: 7
-youtube: 7
-video: 7
-please: 5
-today: 4
-streaming: 3
-link: 3
-english: 3
-tv: 3
+plasma: 18
+need: 17
+blood: 14
+type: 11
+hospital: 11
+component: 11
+positive: 10
+recovered: 9
+b: 6
+call: 6

@@ -1,11 +1,11 @@
 Topic 160 - En Sık 10 Kelime:
-government: 9
-jaipur: 9
-today: 8
-started: 8
-sawai: 8
-man: 8
-singh: 8
-hospital: 8
-treatment: 8
-covid: 8
+indigenous: 15
+peoples: 12
+world: 12
+day: 9
+international: 7
+august: 6
+native: 5
+9: 5
+population: 5
+today: 4

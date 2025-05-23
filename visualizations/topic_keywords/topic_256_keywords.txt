@@ -1,0 +1,11 @@
+Topic 256 - En Sık 10 Kelime:
+covid: 17
+19: 15
+mental: 8
+health: 8
+young: 5
+people: 5
+new: 4
+pandemic: 3
+like: 3
+last: 2

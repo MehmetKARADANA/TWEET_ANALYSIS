@@ -1,0 +1,11 @@
+Topic 305 - En Sık 10 Kelime:
+leader: 9
+leadership: 4
+good: 2
+comrade: 2
+questions: 2
+find: 2
+asked: 2
+could: 1
+mostly: 1
+done: 1

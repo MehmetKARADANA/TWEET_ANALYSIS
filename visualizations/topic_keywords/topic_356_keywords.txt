@@ -1,0 +1,11 @@
+Topic 356 - En Sık 10 Kelime:
+deaths: 8
+new: 5
+el: 4
+gmt: 4
+salvador: 3
+6: 3
+36: 3
+peru: 3
+8: 2
+63: 1

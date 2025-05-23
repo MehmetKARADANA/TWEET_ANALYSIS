@@ -1,0 +1,11 @@
+Topic 355 - En Sık 10 Kelime:
+nigeria: 10
+cases: 8
+new: 6
+ncdc: 4
+reported: 3
+19: 2
+total: 2
+290: 2
+one: 2
+responsibilities: 2

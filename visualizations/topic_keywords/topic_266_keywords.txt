@@ -1,0 +1,11 @@
+Topic 266 - En Sık 10 Kelime:
+need: 14
+recovered: 14
+call: 14
+plasma: 13
+hospital: 12
+via: 11
+patient: 9
+donor: 4
+ab: 3
+b: 3

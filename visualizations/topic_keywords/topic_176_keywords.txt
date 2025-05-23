@@ -1,0 +1,11 @@
+Topic 176 - En Sık 10 Kelime:
+face: 20
+coverings: 14
+shops: 8
+wear: 7
+covering: 5
+new: 4
+one: 4
+safe: 4
+england: 4
+help: 3

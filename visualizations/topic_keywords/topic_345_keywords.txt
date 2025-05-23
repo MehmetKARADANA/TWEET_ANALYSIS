@@ -1,0 +1,11 @@
+Topic 345 - En Sık 10 Kelime:
+suicide: 9
+pandemic: 4
+one: 3
+young: 3
+quarter: 2
+adults: 2
+contemplated: 2
+suicides: 2
+school: 2
+see: 1

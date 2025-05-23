@@ -1,0 +1,11 @@
+Topic 336 - En Sık 10 Kelime:
+eat: 5
+healthy: 5
+eating: 4
+avoid: 3
+stay: 3
+breakfast: 3
+tips: 2
+unhealthy: 2
+drink: 2
+get: 2

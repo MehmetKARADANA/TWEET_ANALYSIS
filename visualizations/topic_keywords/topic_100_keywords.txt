@@ -1,11 +1,11 @@
 Topic 100 - En Sık 10 Kelime:
-end: 5
-shut: 2
-time: 2
-close: 2
-want: 2
-go: 2
-start: 2
-well: 2
-right: 2
-going: 2
+america: 15
+americans: 8
+country: 6
+usa: 5
+like: 5
+us: 4
+think: 3
+stop: 3
+fucked: 3
+many: 3

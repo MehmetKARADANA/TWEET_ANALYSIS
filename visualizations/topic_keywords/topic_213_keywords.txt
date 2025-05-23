@@ -1,0 +1,11 @@
+Topic 213 - En Sık 10 Kelime:
+phase: 12
+trials: 11
+trial: 6
+3: 6
+clinical: 6
+human: 4
+pfizer: 2
+development: 2
+read: 2
+pharmaceutical: 2

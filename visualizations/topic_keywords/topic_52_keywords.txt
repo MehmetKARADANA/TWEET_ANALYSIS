@@ -1,11 +1,11 @@
 Topic 52 - En Sık 10 Kelime:
-world: 9
-countries: 7
-brazil: 7
-data: 6
-usa: 6
-cases: 4
-number: 4
-4: 4
-1: 4
-3: 4
+cure: 7
+hcq: 4
+treatment: 4
+new: 3
+experiment: 3
+game: 2
+proper: 2
+think: 2
+first: 2
+people: 2

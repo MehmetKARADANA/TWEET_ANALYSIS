@@ -1,0 +1,11 @@
+Topic 228 - En Sık 10 Kelime:
+covid: 18
+19: 14
+children: 9
+kids: 4
+symptoms: 3
+according: 3
+via: 2
+mis: 2
+c: 2
+pediatricians: 2

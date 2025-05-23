@@ -1,0 +1,11 @@
+Topic 268 - En Sık 10 Kelime:
+smoking: 7
+smokers: 3
+likely: 3
+tobacco: 3
+w: 3
+government: 2
+risk: 2
+lung: 2
+diabetes: 2
+people: 2

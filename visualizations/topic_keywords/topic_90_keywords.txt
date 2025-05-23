@@ -1,11 +1,11 @@
 Topic 90 - En Sık 10 Kelime:
-movie: 4
-industry: 3
-would: 3
-go: 3
-drive: 3
-film: 3
-video: 2
-take: 2
-theater: 2
-going: 2
+sports: 15
+football: 13
+sport: 9
+players: 9
+athletes: 8
+play: 6
+get: 4
+kids: 4
+school: 4
+coaches: 4

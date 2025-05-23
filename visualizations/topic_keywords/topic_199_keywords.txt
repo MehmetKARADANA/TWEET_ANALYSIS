@@ -1,0 +1,11 @@
+Topic 199 - En Sık 10 Kelime:
+research: 6
+study: 5
+new: 4
+see: 3
+researchers: 3
+paper: 3
+insight: 3
+great: 2
+insights: 2
+studies: 2

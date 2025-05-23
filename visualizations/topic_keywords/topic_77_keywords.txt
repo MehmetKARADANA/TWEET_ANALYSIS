@@ -1,11 +1,11 @@
 Topic 77 - En Sık 10 Kelime:
-australia: 9
-australian: 3
-melbourne: 3
-world: 2
-right: 2
-revealed: 2
-morrison: 2
-keep: 2
-like: 2
-government: 2
+via: 4
+ok: 2
+done: 2
+got: 2
+ready: 2
+want: 1
+get: 1
+need: 1
+like: 1
+im: 1

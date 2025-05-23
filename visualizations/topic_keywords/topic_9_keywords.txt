@@ -1,11 +1,11 @@
 Topic 9 - En Sık 10 Kelime:
-vaccine: 19
-vaccines: 5
-covid: 5
-first: 4
-us: 3
-19: 3
-putin: 3
-chinese: 2
-time: 2
-american: 2
+need: 1
+funny: 1
+simple: 1
+sadly: 1
+friend: 1
+true: 1
+yeahhh: 1
+en: 1
+el: 1
+oops: 1

@@ -1,0 +1,11 @@
+Topic 181 - En Sık 10 Kelime:
+truth: 10
+us: 6
+lied: 5
+lie: 3
+hiding: 3
+lying: 3
+getting: 3
+yet: 3
+laughing: 3
+easy: 3

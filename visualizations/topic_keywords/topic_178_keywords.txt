@@ -1,0 +1,11 @@
+Topic 178 - En Sık 10 Kelime:
+buy: 5
+right: 3
+trade: 2
+sale: 2
+order: 2
+target: 2
+new: 2
+one: 2
+choice: 2
+made: 2

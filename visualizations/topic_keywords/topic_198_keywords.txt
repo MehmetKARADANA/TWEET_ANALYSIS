@@ -1,0 +1,11 @@
+Topic 198 - En Sık 10 Kelime:
+died: 9
+hospital: 7
+dr: 6
+away: 6
+saddened: 5
+old: 5
+passed: 5
+one: 3
+medical: 3
+deeply: 3

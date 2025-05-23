@@ -1,0 +1,11 @@
+Topic 180 - En Sık 10 Kelime:
+auckland: 14
+lockdown: 12
+new: 11
+zealand: 10
+level: 10
+cases: 10
+2: 9
+3: 8
+nz: 8
+rest: 7

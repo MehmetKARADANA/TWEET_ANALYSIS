@@ -1,0 +1,11 @@
+Topic 364 - En Sık 10 Kelime:
+personnel: 5
+presidential: 5
+communications: 5
+office: 5
+positive: 4
+andanar: 4
+president: 3
+10: 3
+pcoo: 2
+update: 2

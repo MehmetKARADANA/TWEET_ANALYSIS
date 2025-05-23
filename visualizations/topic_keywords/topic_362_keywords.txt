@@ -1,0 +1,11 @@
+Topic 362 - En Sık 10 Kelime:
+india: 9
+cases: 9
+tally: 5
+000: 4
+records: 3
+50: 3
+recorded: 3
+daily: 3
+5: 2
+new: 2

@@ -1,11 +1,11 @@
 Topic 68 - En Sık 10 Kelime:
-distancing: 16
-social: 14
-getting: 2
-friends: 2
-one: 2
-rules: 2
-right: 2
-masks: 2
-neighbors: 2
-app: 2
+china: 10
+chinese: 4
+party: 3
+sh: 2
+communist: 2
+like: 2
+virus: 2
+world: 2
+affected: 2
+terrorist: 1

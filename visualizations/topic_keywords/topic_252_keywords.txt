@@ -1,0 +1,11 @@
+Topic 252 - En Sık 10 Kelime:
+florida: 11
+floridians: 5
+state: 4
+pandemic: 3
+extra: 2
+mile: 2
+would: 2
+red: 2
+man: 2
+going: 2

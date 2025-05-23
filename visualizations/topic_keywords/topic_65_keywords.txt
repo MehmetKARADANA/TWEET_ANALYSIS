@@ -1,11 +1,11 @@
 Topic 65 - En Sık 10 Kelime:
-wave: 10
-second: 5
-sea: 4
-2nd: 4
-boat: 3
-us: 3
-today: 2
-cruise: 2
-made: 2
-impact: 2
+think: 4
+little: 2
+people: 2
+hard: 2
+times: 2
+many: 2
+8: 1
+year: 1
+old: 1
+girl: 1

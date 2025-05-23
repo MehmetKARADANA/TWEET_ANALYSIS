@@ -1,0 +1,11 @@
+Topic 350 - En Sık 10 Kelime:
+refugees: 7
+thousands: 4
+hi: 3
+students: 2
+number: 2
+asylum: 2
+seekers: 2
+stay: 2
+refugee: 2
+3: 1

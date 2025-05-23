@@ -1,0 +1,11 @@
+Topic 182 - En Sık 10 Kelime:
+active: 14
+result: 13
+latest: 13
+updates: 13
+positive: 13
+recovered: 11
+1: 6
+0: 6
+r: 5
+e: 5

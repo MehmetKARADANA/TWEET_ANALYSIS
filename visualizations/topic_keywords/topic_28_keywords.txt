@@ -1,11 +1,11 @@
 Topic 28 - En Sık 10 Kelime:
-election: 14
-vote: 12
-mail: 10
-trump: 9
-voting: 7
-biden: 5
-amp: 5
-voters: 4
-elections: 3
-person: 3
+tests: 15
+1: 10
+testing: 9
+india: 9
+samples: 8
+tested: 8
+million: 8
+day: 8
+number: 7
+5: 6

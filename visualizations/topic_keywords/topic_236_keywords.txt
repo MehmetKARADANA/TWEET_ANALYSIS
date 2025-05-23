@@ -1,0 +1,11 @@
+Topic 236 - En Sık 10 Kelime:
+flu: 19
+shot: 6
+vaccine: 5
+shots: 4
+getting: 3
+get: 3
+say: 2
+people: 2
+help: 2
+never: 2

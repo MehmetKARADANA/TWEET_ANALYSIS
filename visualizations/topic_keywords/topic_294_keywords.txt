@@ -1,0 +1,11 @@
+Topic 294 - En Sık 10 Kelime:
+testing: 6
+test: 6
+tested: 4
+people: 3
+get: 3
+results: 3
+delays: 3
+patient: 2
+result: 2
+mean: 2

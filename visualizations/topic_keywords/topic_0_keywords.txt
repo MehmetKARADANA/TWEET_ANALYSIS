@@ -1,11 +1,11 @@
 Topic 0 - En Sık 10 Kelime:
-amp: 7
-new: 4
-way: 3
-good: 3
-social: 3
-distancing: 3
-know: 3
-time: 2
-due: 2
-canada: 2
+schools: 12
+school: 11
+reopening: 7
+children: 7
+students: 7
+covid: 5
+19: 4
+open: 4
+cases: 3
+many: 3

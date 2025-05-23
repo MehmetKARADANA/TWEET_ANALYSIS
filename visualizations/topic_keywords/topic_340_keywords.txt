@@ -1,0 +1,11 @@
+Topic 340 - En Sık 10 Kelime:
+isolation: 4
+coping: 3
+friends: 3
+amp: 3
+loneliness: 3
+join: 2
+1: 2
+hour: 2
+meditation: 2
+theme: 2

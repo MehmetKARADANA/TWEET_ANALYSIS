@@ -1,11 +1,11 @@
 Topic 66 - En Sık 10 Kelime:
-church: 10
-churches: 6
-amp: 5
-patron: 3
-saint: 3
-people: 3
-worship: 3
-see: 3
-jesus: 2
-places: 2
+americans: 6
+relief: 5
+federal: 3
+workers: 3
+unemployment: 3
+senate: 3
+600: 3
+next: 3
+package: 3
+benefits: 2

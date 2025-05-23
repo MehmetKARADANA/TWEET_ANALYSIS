@@ -1,11 +1,11 @@
 Topic 102 - En Sık 10 Kelime:
-sars: 13
-cov: 10
-2: 10
-pcr: 3
-amp: 2
-testing: 2
-virus: 2
-study: 2
-functional: 1
-specific: 1
+donate: 10
+please: 9
+support: 8
+time: 7
+donation: 7
+thank: 5
+help: 5
+need: 4
+people: 4
+donating: 4

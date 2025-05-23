@@ -1,11 +1,11 @@
 Topic 113 - En Sık 10 Kelime:
-canada: 5
-due: 3
-canadian: 3
-canadians: 3
-response: 2
-change: 2
-check: 2
-look: 2
-week: 2
-social: 1
+deaths: 31
+cases: 28
+new: 23
+total: 20
+confirmed: 18
+reports: 17
+1: 17
+bringing: 17
+6: 7
+iowa: 6

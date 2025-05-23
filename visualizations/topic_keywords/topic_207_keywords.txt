@@ -1,0 +1,11 @@
+Topic 207 - En Sık 10 Kelime:
+heat: 5
+weather: 4
+due: 3
+get: 2
+outside: 2
+enjoy: 2
+weeks: 2
+extreme: 2
+warm: 2
+temp: 2

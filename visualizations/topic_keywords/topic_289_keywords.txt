@@ -1,0 +1,11 @@
+Topic 289 - En Sık 10 Kelime:
+covid: 15
+positive: 10
+test: 9
+19: 7
+tested: 4
+many: 3
+people: 3
+days: 3
+negative: 3
+tests: 3

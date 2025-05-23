@@ -1,11 +1,11 @@
 Topic 156 - En Sık 10 Kelime:
-distance: 6
-keep: 4
-spread: 2
-contact: 2
-1: 2
-least: 2
-metres: 1
-media: 1
-conversations: 1
-distances: 1
+farm: 6
+agriculture: 6
+farmers: 5
+agricultural: 3
+help: 3
+production: 3
+land: 2
+report: 2
+p: 2
+plan: 2

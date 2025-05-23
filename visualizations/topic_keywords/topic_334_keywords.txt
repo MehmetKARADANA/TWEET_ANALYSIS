@@ -1,0 +1,11 @@
+Topic 334 - En Sık 10 Kelime:
+deserted: 11
+streets: 10
+lockdown: 8
+look: 6
+wear: 5
+shops: 5
+remain: 4
+closed: 4
+state: 4
+observes: 4

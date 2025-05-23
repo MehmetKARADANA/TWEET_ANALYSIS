@@ -1,0 +1,11 @@
+Topic 263 - En Sık 10 Kelime:
+freedom: 9
+people: 6
+rights: 4
+human: 3
+everything: 2
+man: 2
+humanity: 2
+let: 2
+world: 2
+away: 2

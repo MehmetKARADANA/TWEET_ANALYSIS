@@ -1,0 +1,11 @@
+Topic 248 - En Sık 10 Kelime:
+corona: 18
+virus: 18
+recoveries: 18
+people: 17
+recovered: 17
+today: 17
+total: 17
+source: 17
+situation: 17
+repor: 14

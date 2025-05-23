@@ -1,11 +1,11 @@
 Topic 116 - En Sık 10 Kelime:
-migration: 5
-crisis: 3
-new: 2
-large: 2
-students: 2
-refugees: 2
-laying: 1
-bare: 1
-gaps: 1
-protection: 1
+australia: 20
+australian: 7
+melbourne: 7
+state: 4
+would: 3
+1: 3
+way: 2
+every: 2
+right: 2
+revealed: 2

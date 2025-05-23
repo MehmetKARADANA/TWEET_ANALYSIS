@@ -1,0 +1,11 @@
+Topic 308 - En Sık 10 Kelime:
+positivity: 12
+rate: 8
+per: 5
+cent: 5
+data: 4
+ratio: 4
+today: 4
+5: 4
+situation: 4
+satisfactory: 4

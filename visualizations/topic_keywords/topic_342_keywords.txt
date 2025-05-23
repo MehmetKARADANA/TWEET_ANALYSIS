@@ -1,0 +1,11 @@
+Topic 342 - En Sık 10 Kelime:
+covid: 11
+19: 11
+thailand: 10
+new: 9
+cases: 8
+situation: 6
+2020: 5
+july: 4
+3: 3
+coronavirus: 3

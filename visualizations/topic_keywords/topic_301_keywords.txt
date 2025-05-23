@@ -1,0 +1,11 @@
+Topic 301 - En Sık 10 Kelime:
+jobs: 7
+job: 4
+workers: 3
+informal: 3
+working: 3
+families: 3
+community: 2
+communities: 2
+people: 2
+amp: 2

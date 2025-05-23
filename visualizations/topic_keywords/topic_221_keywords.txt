@@ -1,0 +1,11 @@
+Topic 221 - En Sık 10 Kelime:
+economy: 13
+2020: 6
+gdp: 6
+global: 4
+8: 3
+uk: 3
+20: 3
+needed: 3
+rebalance: 3
+find: 3

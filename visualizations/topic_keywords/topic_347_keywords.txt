@@ -1,0 +1,11 @@
+Topic 347 - En Sık 10 Kelime:
+attacks: 6
+q2: 4
+home: 4
+workers: 4
+cyber: 4
+ddos: 3
+triple: 3
+target: 3
+exploit: 2
+hacker: 2

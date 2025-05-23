@@ -1,0 +1,11 @@
+Topic 361 - En Sık 10 Kelime:
+brazil: 8
+latest: 7
+data: 6
+world: 6
+us: 6
+confirmed: 5
+cases: 5
+06: 5
+00: 5
+gmt: 5

@@ -1,11 +1,11 @@
 Topic 46 - En Sık 10 Kelime:
-sign: 32
-deliver: 28
-copy: 28
-covid: 27
-officials: 26
-19: 24
-testing: 18
-authorize: 17
-rapid: 17
-protect: 3
+patients: 12
+recovery: 11
+rate: 10
+recovered: 6
+india: 5
+discharged: 3
+deaths: 3
+recoveries: 3
+3: 3
+says: 2

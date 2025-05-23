@@ -1,11 +1,11 @@
 Topic 47 - En Sık 10 Kelime:
-data: 16
-evidence: 9
-government: 4
-understand: 3
-interesting: 3
-tech: 2
-info: 2
-clear: 2
-media: 2
-spread: 2
+phase: 5
+fda: 4
+trials: 4
+drug: 3
+3: 3
+using: 3
+pharmaceutical: 3
+comments: 2
+dr: 2
+us: 2

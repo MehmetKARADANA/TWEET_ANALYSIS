@@ -1,0 +1,11 @@
+Topic 321 - En Sık 10 Kelime:
+follow: 11
+let: 4
+new: 2
+please: 2
+love: 2
+back: 2
+us: 2
+hey: 1
+guys: 1
+icon: 1

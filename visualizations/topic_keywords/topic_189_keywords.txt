@@ -1,0 +1,11 @@
+Topic 189 - En Sık 10 Kelime:
+coronavirus: 23
+covid: 23
+19: 23
+active: 22
+cases: 22
+novel: 22
+disease: 22
+islands: 4
+aruba: 3
+st: 2

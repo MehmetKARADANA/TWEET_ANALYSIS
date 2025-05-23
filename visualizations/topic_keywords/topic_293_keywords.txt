@@ -1,0 +1,11 @@
+Topic 293 - En Sık 10 Kelime:
+recovered: 12
+deaths: 12
+total: 11
+confirmed: 11
+2020: 10
+last: 9
+update: 9
+00: 9
+08: 7
+06: 4

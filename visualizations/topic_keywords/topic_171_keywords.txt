@@ -1,11 +1,11 @@
 Topic 171 - En Sık 10 Kelime:
-blame: 5
-blaming: 3
-someone: 2
-else: 2
-advised: 1
-spread: 1
-different: 1
-ethnicities: 1
-etc: 1
-rather: 1
+baseball: 10
+mlb: 9
+season: 6
+marlins: 5
+games: 5
+postponed: 4
+covid: 4
+19: 4
+cardinals: 4
+game: 4

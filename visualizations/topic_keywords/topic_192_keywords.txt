@@ -1,0 +1,11 @@
+Topic 192 - En Sık 10 Kelime:
+senate: 11
+relief: 10
+need: 8
+americans: 8
+pass: 7
+give: 5
+across: 5
+country: 5
+senators: 5
+mcconnell: 3

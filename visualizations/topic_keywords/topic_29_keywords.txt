@@ -1,11 +1,11 @@
 Topic 29 - En Sık 10 Kelime:
-infections: 22
-new: 14
-cases: 13
-deaths: 9
-infection: 9
-1: 8
-number: 7
-infected: 6
-reported: 6
-000: 6
+symptoms: 30
+help: 21
+even: 20
+self: 20
+slow: 19
+spread: 19
+identify: 19
+risk: 19
+cases: 19
+sooner: 19

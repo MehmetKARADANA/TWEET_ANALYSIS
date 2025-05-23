@@ -1,0 +1,11 @@
+Topic 277 - En Sık 10 Kelime:
+1: 13
+usa: 11
+brazil: 11
+world: 11
+chart: 8
+worldtotal: 8
+07: 6
+09: 4
+59: 4
+41: 4

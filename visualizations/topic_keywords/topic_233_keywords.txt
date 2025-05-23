@@ -1,0 +1,11 @@
+Topic 233 - En Sık 10 Kelime:
+covid: 16
+positive: 15
+19: 14
+tests: 9
+minister: 5
+tested: 4
+pradesh: 4
+chief: 4
+covid19: 4
+karnataka: 4

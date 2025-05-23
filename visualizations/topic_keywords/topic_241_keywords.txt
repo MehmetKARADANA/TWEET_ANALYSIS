@@ -1,0 +1,11 @@
+Topic 241 - En Sık 10 Kelime:
+number: 17
+samples: 17
+tested: 17
+total: 16
+including: 14
+july: 9
+1: 9
+yester: 8
+august: 8
+4: 7

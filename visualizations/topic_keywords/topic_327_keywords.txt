@@ -1,0 +1,11 @@
+Topic 327 - En Sık 10 Kelime:
+virus: 8
+children: 5
+kids: 4
+people: 4
+get: 3
+younger: 3
+young: 3
+adults: 2
+parents: 2
+age: 2

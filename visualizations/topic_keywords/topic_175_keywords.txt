@@ -1,0 +1,11 @@
+Topic 175 - En Sık 10 Kelime:
+ventilators: 11
+ventilator: 10
+patients: 6
+support: 5
+ventilation: 4
+former: 4
+president: 4
+icu: 3
+condition: 3
+health: 3

@@ -1,11 +1,11 @@
 Topic 140 - En Sık 10 Kelime:
-call: 4
-still: 2
-calling: 2
+eat: 5
+food: 5
+eating: 4
+love: 3
+first: 2
+long: 2
 time: 2
-see: 1
-people: 1
-gathered: 1
-large: 1
-numbers: 1
-rhode: 1
+help: 2
+scheme: 2
+chocolate: 2

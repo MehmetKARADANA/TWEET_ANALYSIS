@@ -1,11 +1,11 @@
 Topic 161 - En Sık 10 Kelime:
-diabetes: 10
-usa: 8
-covid: 8
-19: 8
-killing: 8
-patients: 8
-alarming: 8
-rates: 8
-help: 1
-diabetics: 1
+temperature: 8
+thermal: 6
+bus: 3
+production: 3
+tested: 3
+done: 3
+get: 3
+screening: 3
+scanning: 3
+anti: 2

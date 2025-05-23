@@ -1,11 +1,11 @@
 Topic 89 - En Sık 10 Kelime:
-trials: 10
-clinical: 6
-phase: 5
-pfizer: 2
-trial: 2
-development: 2
-3: 2
-pharmaceutical: 2
-company: 2
-announced: 2
+get: 11
+let: 6
+discount: 6
+free: 6
+place: 5
+got: 5
+available: 5
+delivery: 5
+shipping: 5
+contact: 4

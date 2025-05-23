@@ -1,11 +1,11 @@
 Topic 31 - En Sık 10 Kelime:
-lockdown: 38
-right: 4
-one: 4
-victoria: 3
-despite: 3
-weekend: 3
-lockdowns: 3
-cases: 3
-still: 3
-complete: 3
+covid: 26
+india: 20
+cases: 17
+19: 16
+deaths: 11
+tally: 10
+new: 8
+mark: 7
+single: 6
+day: 6

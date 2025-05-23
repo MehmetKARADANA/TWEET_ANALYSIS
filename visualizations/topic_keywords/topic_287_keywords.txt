@@ -1,0 +1,11 @@
+Topic 287 - En Sık 10 Kelime:
+rate: 14
+fatality: 12
+case: 11
+india: 8
+2: 7
+lowest: 6
+average: 5
+globally: 5
+one: 5
+sharply: 5

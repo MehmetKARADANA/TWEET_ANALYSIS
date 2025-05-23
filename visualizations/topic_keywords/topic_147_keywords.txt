@@ -1,11 +1,11 @@
 Topic 147 - En Sık 10 Kelime:
-million: 6
-unemployed: 4
-unemployment: 4
-2: 3
-4: 3
-cases: 3
-jobless: 3
-5: 2
-millions: 2
-1: 2
+care: 17
+caring: 11
+sharing: 7
+people: 4
+get: 3
+car: 2
+us: 2
+take: 2
+love: 2
+share: 2

@@ -1,0 +1,11 @@
+Topic 349 - En Sık 10 Kelime:
+mask: 6
+masks: 5
+protests: 2
+people: 2
+wearing: 2
+protesters: 2
+lockdown: 2
+look: 1
+chicago: 1
+protestors: 1

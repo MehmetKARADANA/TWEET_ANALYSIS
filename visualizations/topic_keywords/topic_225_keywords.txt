@@ -1,0 +1,11 @@
+Topic 225 - En Sık 10 Kelime:
+odisha: 20
+cases: 16
+new: 13
+positive: 12
+total: 11
+taking: 10
+number: 10
+1: 9
+reported: 9
+tally: 6

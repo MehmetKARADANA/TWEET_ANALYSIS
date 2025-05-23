@@ -1,0 +1,11 @@
+Topic 337 - En Sık 10 Kelime:
+rally: 9
+bike: 4
+sturgis: 3
+motorcycle: 3
+south: 3
+aug: 2
+cases: 2
+dakota: 2
+shocker: 1
+press: 1

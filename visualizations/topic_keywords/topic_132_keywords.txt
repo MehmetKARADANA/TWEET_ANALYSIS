@@ -1,11 +1,11 @@
 Topic 132 - En Sık 10 Kelime:
-cases: 12
-million: 5
-surpass: 3
-100: 2
-000: 2
-confirmed: 2
-4: 2
-news: 2
-22: 1
-globally: 1
+blog: 26
+new: 7
+latest: 6
+read: 4
+excellent: 3
+great: 3
+blogs: 3
+shares: 2
+last: 2
+week: 2

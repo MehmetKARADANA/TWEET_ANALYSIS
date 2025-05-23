@@ -1,0 +1,11 @@
+Topic 330 - En Sık 10 Kelime:
+hope: 6
+let: 3
+feel: 3
+like: 2
+enjoyed: 1
+covers: 1
+london: 1
+brighton: 1
+bike: 1
+charity: 1

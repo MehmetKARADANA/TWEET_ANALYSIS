@@ -1,0 +1,11 @@
+Topic 276 - En Sık 10 Kelime:
+samples: 11
+tested: 10
+august: 6
+yesterday: 6
+3: 5
+7: 5
+indian: 5
+1: 4
+16th: 4
+test: 3

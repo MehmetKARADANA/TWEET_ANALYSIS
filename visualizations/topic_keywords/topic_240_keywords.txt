@@ -1,0 +1,11 @@
+Topic 240 - En Sık 10 Kelime:
+recovery: 18
+rate: 18
+india: 16
+improves: 8
+2020: 7
+august: 5
+steady: 4
+deaths: 3
+crosses: 3
+improvement: 3

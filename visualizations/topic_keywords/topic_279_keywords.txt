@@ -1,0 +1,11 @@
+Topic 279 - En Sık 10 Kelime:
+covid: 16
+19: 16
+us: 9
+updates: 8
+update: 5
+langeberg: 2
+municipal: 2
+area: 2
+august: 2
+2020: 2

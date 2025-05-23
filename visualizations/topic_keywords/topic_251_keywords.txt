@@ -1,0 +1,11 @@
+Topic 251 - En Sık 10 Kelime:
+distancing: 16
+social: 14
+masks: 10
+mask: 8
+wearing: 6
+wear: 5
+face: 3
+physical: 3
+spread: 3
+public: 3

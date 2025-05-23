@@ -1,11 +1,11 @@
 Topic 72 - En Sık 10 Kelime:
-exam: 9
-exams: 9
-students: 7
-results: 5
-neet: 4
-get: 4
-jee: 3
-compartment: 3
-2020: 3
-really: 2
+black: 5
+amp: 3
+dying: 3
+people: 3
+racism: 2
+ethnic: 2
+risk: 2
+lives: 2
+racial: 2
+2: 1

@@ -1,0 +1,11 @@
+Topic 286 - En Sık 10 Kelime:
+legal: 5
+federal: 3
+appeals: 3
+new: 3
+filed: 3
+court: 2
+lawsuit: 2
+lawyer: 2
+lawyers: 2
+questions: 2

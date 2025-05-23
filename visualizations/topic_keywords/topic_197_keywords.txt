@@ -1,0 +1,11 @@
+Topic 197 - En Sık 10 Kelime:
+cleaning: 12
+clean: 5
+service: 3
+stop: 3
+computer: 2
+help: 2
+done: 2
+hygiene: 2
+hotel: 2
+room: 2

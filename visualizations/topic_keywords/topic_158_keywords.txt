@@ -1,11 +1,11 @@
 Topic 158 - En Sık 10 Kelime:
-record: 10
-4: 10
-20: 10
-898: 10
-tests: 10
-first: 9
-time: 9
-number: 9
-000: 9
-conducted: 9
+month: 28
+give: 27
+2000: 27
+every: 27
+american: 27
+via: 27
+sign: 23
+petition: 23
+new: 1
+think: 1

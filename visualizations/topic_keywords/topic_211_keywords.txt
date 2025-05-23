@@ -1,0 +1,11 @@
+Topic 211 - En Sık 10 Kelime:
+bars: 9
+bar: 7
+pubs: 6
+pub: 3
+close: 3
+nightclubs: 3
+open: 3
+worst: 2
+get: 2
+government: 2

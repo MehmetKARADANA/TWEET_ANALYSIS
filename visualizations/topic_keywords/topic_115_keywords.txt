@@ -1,11 +1,11 @@
 Topic 115 - En Sık 10 Kelime:
-app: 10
-covid: 7
-download: 5
-canadians: 3
-canada: 3
-19: 3
-every: 2
-available: 2
-use: 2
-alert: 2
+women: 20
+gender: 12
+leaders: 6
+amp: 5
+crisis: 5
+gendered: 4
+female: 4
+leadership: 3
+clear: 3
+need: 3

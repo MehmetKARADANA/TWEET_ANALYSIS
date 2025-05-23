@@ -1,11 +1,11 @@
 Topic 84 - En Sık 10 Kelime:
-petition: 14
-sign: 13
-2000: 11
-give: 10
-month: 10
-every: 10
-american: 10
-via: 10
-please: 2
-fox5: 1
+truth: 4
+people: 3
+yet: 2
+lie: 2
+take: 2
+believe: 1
+liar: 1
+easier: 1
+deceive: 1
+convince: 1

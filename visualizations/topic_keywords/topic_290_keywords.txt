@@ -1,0 +1,11 @@
+Topic 290 - En Sık 10 Kelime:
+single: 16
+day: 16
+spike: 16
+cases: 16
+deaths: 14
+last: 14
+24: 13
+hours: 13
+reported: 12
+india: 12

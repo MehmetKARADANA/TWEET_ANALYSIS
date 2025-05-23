@@ -1,0 +1,11 @@
+Topic 212 - En Sık 10 Kelime:
+deaths: 15
+uk: 7
+ireland: 5
+wales: 5
+death: 4
+england: 4
+today: 3
+bringing: 3
+total: 3
+registered: 3

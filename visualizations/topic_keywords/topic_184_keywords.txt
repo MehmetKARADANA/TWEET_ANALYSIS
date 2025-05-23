@@ -1,0 +1,11 @@
+Topic 184 - En Sık 10 Kelime:
+health: 13
+warning: 9
+hazard: 6
+exposure: 4
+risk: 3
+yes: 2
+updated: 2
+possible: 2
+public: 2
+beach: 2

@@ -1,11 +1,11 @@
 Topic 42 - En Sık 10 Kelime:
-symptoms: 9
-icu: 8
-2: 4
-ventilator: 4
-cough: 4
-patients: 4
-condition: 4
-ventilators: 4
-months: 3
-get: 3
+vote: 8
+mail: 8
+election: 6
+voting: 5
+amp: 5
+person: 3
+early: 2
+today: 2
+trump: 2
+elections: 2

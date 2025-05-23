@@ -1,0 +1,11 @@
+Topic 196 - En Sık 10 Kelime:
+border: 15
+borders: 5
+open: 3
+close: 2
+territory: 2
+affected: 2
+shut: 2
+closed: 2
+continues: 2
+within: 2

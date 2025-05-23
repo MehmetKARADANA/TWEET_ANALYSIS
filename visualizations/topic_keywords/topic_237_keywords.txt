@@ -1,0 +1,11 @@
+Topic 237 - En Sık 10 Kelime:
+brother: 17
+died: 12
+hospital: 3
+cause: 3
+death: 3
+die: 3
+go: 3
+source: 2
+brothers: 2
+kind: 2

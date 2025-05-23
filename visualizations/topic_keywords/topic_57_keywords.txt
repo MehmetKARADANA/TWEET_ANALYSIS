@@ -1,11 +1,11 @@
 Topic 57 - En Sık 10 Kelime:
-health: 22
-public: 9
-workers: 8
-healthcare: 4
-care: 4
-insurance: 3
-disparities: 3
+hoax: 11
+conspiracy: 5
+trump: 4
+believe: 3
+many: 2
+people: 2
+called: 2
 much: 2
-lives: 2
-become: 2
+everything: 2
+yep: 1

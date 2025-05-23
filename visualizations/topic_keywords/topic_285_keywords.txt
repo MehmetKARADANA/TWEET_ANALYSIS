@@ -1,0 +1,11 @@
+Topic 285 - En Sık 10 Kelime:
+restrictions: 8
+new: 6
+government: 3
+easing: 2
+since: 2
+august: 2
+real: 2
+control: 2
+coming: 1
+lt: 1

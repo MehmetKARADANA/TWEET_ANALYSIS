@@ -1,0 +1,11 @@
+Topic 352 - En Sık 10 Kelime:
+tests: 7
+countries: 6
+testing: 4
+cases: 3
+many: 3
+country: 2
+million: 2
+usa: 2
+per: 2
+tested: 2

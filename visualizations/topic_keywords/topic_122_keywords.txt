@@ -1,11 +1,11 @@
 Topic 122 - En Sık 10 Kelime:
-football: 6
-college: 4
-sports: 3
-high: 2
-school: 2
-one: 2
-tested: 2
-student: 2
-athletes: 2
-fall: 2
+hands: 24
+wash: 20
+mask: 20
+wear: 19
+social: 15
+distancing: 14
+wearing: 5
+masks: 5
+hand: 5
+keep: 5

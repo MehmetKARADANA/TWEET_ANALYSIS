@@ -1,11 +1,11 @@
 Topic 85 - En Sık 10 Kelime:
-johnson: 8
-boris: 6
-cummings: 3
-dominic: 2
-amp: 2
-paul: 2
-never: 2
-way: 1
-fail: 1
-us: 1
+prison: 5
+prisons: 3
+population: 2
+people: 2
+rates: 1
+far: 1
+higher: 1
+general: 1
+overcrowding: 1
+shortages: 1

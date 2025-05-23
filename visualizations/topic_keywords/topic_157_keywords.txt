@@ -1,11 +1,11 @@
 Topic 157 - En Sık 10 Kelime:
-comprehensive: 11
-town: 11
-wide: 11
-imposed: 11
-municipality: 11
-seven: 11
-days: 11
-starting: 10
-kalimpong: 9
-9: 9
+cases: 24
+new: 17
+health: 10
+24: 8
+reported: 7
+hours: 5
+past: 5
+total: 4
+last: 4
+one: 4

@@ -1,0 +1,11 @@
+Topic 326 - En Sık 10 Kelime:
+canada: 13
+7: 13
+cases: 13
+national: 12
+update: 12
+p: 12
+yesterday: 12
+confirmed: 12
+active: 12
+data: 5

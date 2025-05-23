@@ -1,0 +1,11 @@
+Topic 324 - En Sık 10 Kelime:
+insurance: 10
+health: 8
+us: 8
+reach: 7
+9845684754: 7
+coronavirus: 5
+comprehensive: 3
+policy: 3
+secures: 3
+u: 3

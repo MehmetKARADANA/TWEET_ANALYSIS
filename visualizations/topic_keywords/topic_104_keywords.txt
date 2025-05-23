@@ -1,11 +1,11 @@
 Topic 104 - En Sık 10 Kelime:
-humanitarian: 4
-place: 2
-vulnerable: 2
-grounded: 1
-gameplay: 1
-new: 1
-base: 1
-location: 1
-bombardier: 1
-beetle: 1
+poor: 12
+people: 12
+poverty: 10
+rich: 9
+class: 4
+income: 4
+world: 4
+help: 3
+middle: 3
+richer: 3

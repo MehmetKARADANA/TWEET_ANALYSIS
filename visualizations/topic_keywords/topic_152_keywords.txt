@@ -1,11 +1,11 @@
 Topic 152 - En Sık 10 Kelime:
-podcast: 8
-episode: 7
-new: 4
-week: 3
-latest: 3
-technology: 2
-listen: 2
-gsmc: 2
-released: 1
-two: 1
+amp: 21
+mask: 16
+face: 7
+wear: 6
+masks: 5
+nose: 4
+protect: 4
+shirt: 3
+mouth: 3
+new: 3

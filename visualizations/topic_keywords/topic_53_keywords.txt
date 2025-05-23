@@ -1,11 +1,11 @@
 Topic 53 - En Sık 10 Kelime:
-hydroxychloroquine: 17
-covid: 5
-dr: 5
-19: 4
-use: 3
-chloroquine: 3
-w: 3
-hydroxychloro: 2
-take: 2
-trump: 2
+contact: 12
+tracing: 11
+app: 4
+new: 3
+test: 3
+trace: 3
+england: 2
+part: 2
+experience: 1
+far: 1

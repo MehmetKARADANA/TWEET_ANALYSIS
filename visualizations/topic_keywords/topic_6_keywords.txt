@@ -1,11 +1,11 @@
 Topic 6 - En Sık 10 Kelime:
-pandemic: 31
-time: 3
-many: 3
-team: 2
-flu: 2
-may: 2
-crisis: 2
-read: 2
-successful: 2
-world: 2
+business: 4
+amp: 3
+8: 2
+global: 2
+market: 2
+industry: 2
+uk: 2
+economy: 2
+saw: 2
+4: 2

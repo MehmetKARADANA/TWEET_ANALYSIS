@@ -1,11 +1,11 @@
 Topic 81 - En Sık 10 Kelime:
-home: 11
-working: 5
-work: 5
-due: 5
-workers: 4
-employees: 4
-get: 3
-return: 3
-changed: 2
-way: 2
+sign: 9
+petition: 9
+give: 7
+2000: 7
+month: 7
+every: 7
+american: 7
+via: 7
+fox5: 1
+signed: 1

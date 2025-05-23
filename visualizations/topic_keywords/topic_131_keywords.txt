@@ -1,11 +1,11 @@
 Topic 131 - En Sık 10 Kelime:
-test: 8
-saliva: 8
-swab: 3
-rapid: 3
-covid: 3
-19: 3
-testing: 3
-get: 2
-tested: 2
-clears: 2
+coronavirus: 27
+india: 26
+cases: 17
+day: 8
+new: 7
+corona: 6
+24: 5
+death: 5
+infections: 5
+single: 5

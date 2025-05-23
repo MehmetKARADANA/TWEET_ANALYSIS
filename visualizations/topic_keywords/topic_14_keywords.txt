@@ -1,11 +1,11 @@
 Topic 14 - En Sık 10 Kelime:
-science: 4
-research: 3
-scientists: 3
-scientific: 2
-read: 2
-new: 2
-know: 1
-whether: 1
-feel: 1
-scared: 1
+virus: 12
+gone: 3
+china: 3
+racist: 2
+like: 2
+wondering: 2
+causes: 2
+survive: 2
+say: 2
+yes: 2

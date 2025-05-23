@@ -1,0 +1,11 @@
+Topic 232 - En Sık 10 Kelime:
+alcohol: 13
+really: 3
+bad: 3
+drinking: 3
+drink: 3
+problem: 2
+bars: 2
+anything: 2
+rising: 2
+numbers: 2

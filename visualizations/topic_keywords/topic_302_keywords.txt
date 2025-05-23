@@ -1,0 +1,11 @@
+Topic 302 - En Sık 10 Kelime:
+rise: 4
+one: 2
+away: 2
+way: 2
+mountain: 2
+good: 1
+friend: 1
+scaling: 1
+heights: 1
+sheer: 1

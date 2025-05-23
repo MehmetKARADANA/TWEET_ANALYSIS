@@ -1,0 +1,11 @@
+Topic 338 - En Sık 10 Kelime:
+vietnam: 10
+first: 7
+100: 6
+days: 6
+local: 5
+case: 5
+cases: 5
+people: 4
+14: 2
+evacuate: 2

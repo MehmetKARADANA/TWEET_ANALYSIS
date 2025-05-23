@@ -1,11 +1,11 @@
 Topic 98 - En Sık 10 Kelime:
-mental: 7
-health: 5
-isolation: 3
-many: 3
-people: 3
-post: 2
-amp: 2
-self: 2
-patients: 2
-psychiatric: 2
+gyms: 18
+back: 6
+yoga: 5
+gym: 5
+pubs: 5
+covid: 5
+19: 5
+reopening: 4
+chair: 4
+reopen: 4

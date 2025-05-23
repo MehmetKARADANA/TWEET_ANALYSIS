@@ -1,0 +1,11 @@
+Topic 239 - En Sık 10 Kelime:
+morning: 17
+good: 15
+charge: 3
+knowingly: 1
+missed: 1
+playing: 1
+guitar: 1
+hands: 1
+anyone: 1
+tell: 1

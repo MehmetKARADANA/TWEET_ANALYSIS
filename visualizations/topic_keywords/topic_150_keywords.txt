@@ -1,11 +1,11 @@
 Topic 150 - En Sık 10 Kelime:
-patients: 9
-discharged: 9
-3600: 7
-cases: 7
-1500: 7
-last: 7
-srinagar: 6
-covid: 3
-hospital: 3
-recovered: 2
+pandemic: 15
+artist: 15
+archive: 13
+art: 8
+new: 3
+sand: 2
+c: 2
+expressing: 2
+emotions: 2
+ideas: 2

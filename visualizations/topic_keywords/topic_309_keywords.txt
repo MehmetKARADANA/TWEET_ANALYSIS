@@ -1,0 +1,11 @@
+Topic 309 - En Sık 10 Kelime:
+country: 10
+citizens: 10
+protecting: 8
+hey: 7
+choose: 7
+americans: 3
+lets: 2
+protect: 2
+get: 2
+must: 2

@@ -1,11 +1,11 @@
 Topic 16 - En Sık 10 Kelime:
-science: 4
-knowledge: 3
-research: 3
-scientists: 3
-scientific: 2
-amp: 2
-family: 2
-new: 2
-might: 1
-right: 1
+science: 5
+know: 3
+fauci: 3
+read: 3
+article: 2
+want: 2
+dr: 2
+say: 2
+asked: 2
+people: 2

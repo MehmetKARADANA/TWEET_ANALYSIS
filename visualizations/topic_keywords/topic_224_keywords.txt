@@ -1,0 +1,11 @@
+Topic 224 - En Sık 10 Kelime:
+wedding: 12
+weddings: 5
+pandemic: 3
+today: 3
+people: 3
+hit: 2
+gatherings: 2
+going: 2
+two: 2
+one: 2

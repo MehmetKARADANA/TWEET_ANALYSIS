@@ -1,11 +1,11 @@
 Topic 76 - En Sık 10 Kelime:
-relief: 11
-package: 7
-next: 6
-americans: 5
-senate: 4
-stimulus: 4
-congress: 4
-get: 3
-help: 3
-include: 3
+prison: 5
+prisons: 3
+population: 2
+people: 2
+rates: 1
+far: 1
+higher: 1
+general: 1
+overcrowding: 1
+shortages: 1

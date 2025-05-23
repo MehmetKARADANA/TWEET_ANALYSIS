@@ -1,11 +1,11 @@
 Topic 128 - En Sık 10 Kelime:
-close: 3
-bailout: 3
-government: 2
-u: 2
-keep: 1
-2016: 1
-mind: 1
-could: 1
-bullshit: 1
-okay: 1
+end: 12
+away: 6
+going: 5
+right: 4
+leave: 4
+go: 3
+coming: 3
+stay: 2
+well: 2
+think: 2

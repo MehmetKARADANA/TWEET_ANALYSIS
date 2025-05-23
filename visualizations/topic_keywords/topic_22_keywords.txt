@@ -1,11 +1,11 @@
 Topic 22 - En Sık 10 Kelime:
-women: 30
-pandemic: 11
-health: 7
-gender: 7
-girls: 7
-female: 6
-impacts: 5
-pregnant: 5
-reproductive: 4
-sexual: 4
+fight: 7
+kenya: 3
+youth: 2
+amazing: 1
+leadership: 1
+100: 1
+days: 1
+zero: 1
+community: 1
+transmission: 1

@@ -1,11 +1,11 @@
 Topic 101 - En Sık 10 Kelime:
-new: 14
-cases: 13
-gmt: 12
-6: 4
-9: 3
-17: 2
-14: 2
-1: 2
-case: 2
-8: 2
+covid: 36
+19: 31
+business: 17
+impact: 7
+crisis: 5
+economic: 5
+small: 4
+via: 4
+businesses: 4
+covid19: 3

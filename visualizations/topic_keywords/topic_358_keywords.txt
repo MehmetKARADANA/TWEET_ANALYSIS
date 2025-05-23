@@ -1,0 +1,11 @@
+Topic 358 - En Sık 10 Kelime:
+covid: 10
+19: 10
+pima: 9
+county: 9
+cases: 7
+testing: 5
+daily: 4
+summary: 2
+age: 1
+group: 1

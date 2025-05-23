@@ -1,0 +1,11 @@
+Topic 299 - En Sık 10 Kelime:
+party: 8
+parties: 7
+people: 4
+house: 3
+like: 2
+really: 2
+holding: 2
+well: 1
+looks: 1
+tonight: 1

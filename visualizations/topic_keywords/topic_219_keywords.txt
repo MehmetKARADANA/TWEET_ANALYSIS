@@ -1,0 +1,11 @@
+Topic 219 - En Sık 10 Kelime:
+housing: 8
+market: 7
+new: 5
+day: 4
+home: 3
+prices: 3
+chart: 3
+looks: 3
+residential: 3
+house: 3

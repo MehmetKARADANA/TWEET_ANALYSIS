@@ -1,0 +1,11 @@
+Topic 292 - En Sık 10 Kelime:
+florida: 13
+deaths: 10
+cases: 9
+new: 8
+000: 4
+day: 4
+reports: 3
+7: 3
+2: 3
+total: 2

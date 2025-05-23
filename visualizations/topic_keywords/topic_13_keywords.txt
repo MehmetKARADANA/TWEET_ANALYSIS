@@ -1,11 +1,11 @@
 Topic 13 - En Sık 10 Kelime:
-hospital: 4
-patients: 4
-health: 3
-medical: 2
-workers: 2
-get: 2
+quarantine: 12
+spain: 4
+says: 2
+home: 2
+back: 2
+attacks: 2
+coming: 2
+uk: 2
 amp: 2
-doctors: 2
-support: 2
-social: 2
+cms: 1

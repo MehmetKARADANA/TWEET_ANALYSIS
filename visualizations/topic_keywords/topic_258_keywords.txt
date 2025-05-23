@@ -1,0 +1,11 @@
+Topic 258 - En Sık 10 Kelime:
+cases: 17
+deaths: 17
+recovered: 16
+active: 16
+7: 9
+11: 6
+39: 5
+1: 4
+9: 4
+2: 4

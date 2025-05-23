@@ -1,11 +1,11 @@
 Topic 56 - En Sık 10 Kelime:
-evictions: 8
-people: 5
-rent: 5
-home: 3
-amp: 3
-house: 3
-pandemic: 3
-renters: 3
-landlord: 2
-28: 2
+cases: 6
+infections: 6
+new: 5
+infected: 4
+infection: 3
+number: 3
+confirmed: 3
+total: 3
+2: 3
+today: 2

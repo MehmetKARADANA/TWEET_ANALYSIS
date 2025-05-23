@@ -1,0 +1,11 @@
+Topic 179 - En Sık 10 Kelime:
+science: 17
+scientific: 4
+trump: 3
+new: 2
+politics: 2
+want: 2
+know: 2
+political: 2
+one: 2
+research: 2

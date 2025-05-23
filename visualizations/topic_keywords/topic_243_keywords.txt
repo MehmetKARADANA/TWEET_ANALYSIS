@@ -1,0 +1,11 @@
+Topic 243 - En Sık 10 Kelime:
+gift: 13
+saw: 3
+greatest: 3
+good: 2
+morning: 2
+working: 2
+ever: 2
+becoming: 2
+clear: 2
+combo: 2

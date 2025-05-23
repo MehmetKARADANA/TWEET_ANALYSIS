@@ -1,0 +1,11 @@
+Topic 304 - En Sık 10 Kelime:
+lights: 5
+light: 4
+hope: 2
+look: 2
+radio: 2
+recent: 2
+distributed: 2
+future: 2
+sun: 2
+give: 2

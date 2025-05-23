@@ -1,0 +1,11 @@
+Topic 264 - En Sık 10 Kelime:
+bat: 12
+lab: 8
+virus: 8
+whistleblower: 7
+dr: 7
+limeng: 7
+yan: 7
+modified: 7
+bats: 6
+discovered: 2

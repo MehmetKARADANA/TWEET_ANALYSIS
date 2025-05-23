@@ -1,11 +1,11 @@
 Topic 154 - En Sık 10 Kelime:
-india: 9
-vaccine: 8
-trials: 6
-first: 6
-covid: 5
-19: 4
-begins: 4
-human: 4
-phase: 3
-race: 2
+antibody: 17
+antibodies: 10
+test: 7
+testing: 6
+blood: 3
+tested: 3
+negative: 3
+3: 3
+tests: 3
+questions: 3

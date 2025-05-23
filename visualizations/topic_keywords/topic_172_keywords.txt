@@ -1,11 +1,11 @@
 Topic 172 - En Sık 10 Kelime:
-countries: 4
-money: 4
-mayors: 2
-us: 2
-eu: 2
-one: 2
-people: 2
-suspicious: 1
-leftist: 1
-govs: 1
+online: 23
+due: 22
+classes: 22
+schools: 21
+closed: 21
+conducted: 21
+smartphones: 21
+colleges: 20
+wi: 13
+amp: 10

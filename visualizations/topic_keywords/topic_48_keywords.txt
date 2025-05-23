@@ -1,11 +1,11 @@
 Topic 48 - En Sık 10 Kelime:
-read: 5
-world: 4
-times: 3
-time: 3
-story: 3
-change: 2
-longer: 2
-reality: 2
-book: 2
-great: 2
+new: 16
+zealand: 15
+cases: 8
+days: 6
+100: 5
+without: 5
+lockdown: 5
+go: 5
+auckland: 4
+among: 4

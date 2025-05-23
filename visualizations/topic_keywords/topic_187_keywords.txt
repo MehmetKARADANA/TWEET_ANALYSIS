@@ -1,0 +1,11 @@
+Topic 187 - En Sık 10 Kelime:
+deaths: 17
+1: 6
+population: 6
+spain: 5
+per: 5
+uk: 4
+mortality: 4
+2: 4
+3: 4
+yesterday: 4

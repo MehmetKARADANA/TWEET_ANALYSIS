@@ -1,0 +1,11 @@
+Topic 283 - En Sık 10 Kelime:
+celebrations: 6
+festival: 4
+year: 4
+happy: 4
+celebrating: 3
+day: 3
+muted: 2
+crisis: 2
+put: 2
+tanabata: 2

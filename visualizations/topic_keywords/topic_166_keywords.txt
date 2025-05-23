@@ -1,11 +1,11 @@
 Topic 166 - En Sık 10 Kelime:
-work: 8
-everyone: 3
-job: 2
-get: 2
-hard: 2
-mean: 1
-actually: 1
-almost: 1
-4: 1
-years: 1
+gates: 24
+bill: 23
+covid: 5
+19: 5
+vaccine: 4
+obama: 3
+amp: 3
+us: 3
+care: 3
+work: 2

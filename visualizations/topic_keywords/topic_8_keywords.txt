@@ -1,11 +1,11 @@
 Topic 8 - En Sık 10 Kelime:
-positive: 10
-tests: 8
-tested: 6
-test: 6
-testing: 6
+masks: 15
+mask: 12
+wearing: 8
 people: 5
-health: 3
-get: 2
-family: 2
-minister: 2
+distancing: 5
+spread: 4
+physical: 3
+think: 3
+give: 2
+covid: 2

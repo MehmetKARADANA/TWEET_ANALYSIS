@@ -1,11 +1,11 @@
 Topic 159 - En Sık 10 Kelime:
-qatar: 11
-covid: 3
-19: 3
-announced: 3
-coronavirus: 2
-public: 2
-moph: 2
-398: 2
-cases: 2
-330: 2
+pcr: 18
+tests: 10
+test: 9
+hours: 6
+rt: 6
+testing: 5
+24: 5
+rapid: 4
+last: 4
+conducted: 3
