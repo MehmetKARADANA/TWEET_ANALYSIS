@@ -1,11 +1,11 @@
 Topic 8 - En Sık 10 Kelime:
-masks: 15
-mask: 12
-wearing: 8
-people: 5
-distancing: 5
-spread: 4
-physical: 3
-think: 3
-give: 2
-covid: 2
+cases: 32
+new: 16
+total: 11
+august: 7
+2020: 7
+1: 6
+active: 5
+17: 5
+since: 5
+reported: 5

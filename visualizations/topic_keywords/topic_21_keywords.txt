@@ -1,11 +1,11 @@
 Topic 21 - En Sık 10 Kelime:
-female: 2
-australia: 2
-women: 2
-intl: 1
-feminist: 1
-advocate: 1
-reflects: 1
-implications: 1
-gend: 1
-neck: 1
+read: 3
+article: 2
+science: 2
+featured: 2
+new: 2
+lessons: 2
+top: 2
+research: 2
+scientists: 2
+signals: 1

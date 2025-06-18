@@ -1,11 +1,11 @@
 Topic 19 - En Sık 10 Kelime:
-twitter: 4
-social: 4
-facebook: 3
-trump: 3
-media: 2
-distance: 2
-link: 2
-share: 2
-tweeted: 2
-summed: 1
+live: 5
+new: 4
+podcast: 3
+watch: 3
+chat: 2
+get: 2
+want: 2
+episode: 2
+platform: 2
+come: 1

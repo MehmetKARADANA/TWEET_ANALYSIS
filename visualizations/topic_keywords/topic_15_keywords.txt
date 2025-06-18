@@ -1,11 +1,11 @@
 Topic 15 - En Sık 10 Kelime:
-church: 4
-amp: 3
-god: 3
-people: 2
-jesus: 2
-since: 2
-year: 2
-patron: 2
-saint: 2
-prayers: 2
+sign: 11
+give: 5
+american: 5
+petition: 5
+2000: 4
+month: 4
+every: 4
+via: 4
+deliver: 3
+copy: 3

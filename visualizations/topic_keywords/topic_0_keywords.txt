@@ -1,11 +1,11 @@
 Topic 0 - En Sık 10 Kelime:
-schools: 12
-school: 11
-reopening: 7
-children: 7
-students: 7
-covid: 5
-19: 4
-open: 4
-cases: 3
-many: 3
+positive: 12
+tests: 9
+tested: 9
+test: 8
+plasma: 7
+hospital: 7
+symptoms: 7
+need: 7
+cases: 6
+recovered: 6

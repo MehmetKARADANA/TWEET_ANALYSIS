@@ -1,11 +1,11 @@
 Topic 2 - En Sık 10 Kelime:
-positive: 12
-tests: 9
-hospital: 8
-test: 8
-tested: 8
-plasma: 7
-need: 7
-recovered: 6
-covid: 5
-via: 5
+pandemic: 41
+crisis: 6
+world: 5
+people: 5
+continues: 4
+need: 4
+one: 4
+health: 3
+effects: 3
+read: 3

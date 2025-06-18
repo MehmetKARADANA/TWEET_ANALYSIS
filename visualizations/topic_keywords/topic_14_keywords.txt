@@ -1,11 +1,11 @@
 Topic 14 - En Sık 10 Kelime:
-virus: 12
-gone: 3
-china: 3
-racist: 2
-like: 2
-wondering: 2
-causes: 2
-survive: 2
-say: 2
-yes: 2
+quarantine: 12
+spain: 4
+says: 2
+home: 2
+back: 2
+attacks: 2
+uk: 2
+amp: 2
+cms: 1
+made: 1

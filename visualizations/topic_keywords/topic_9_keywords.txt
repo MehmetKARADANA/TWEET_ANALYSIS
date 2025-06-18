@@ -1,11 +1,11 @@
 Topic 9 - En Sık 10 Kelime:
-need: 1
-funny: 1
-simple: 1
-sadly: 1
-friend: 1
-true: 1
-yeahhh: 1
-en: 1
-el: 1
-oops: 1
+masks: 15
+mask: 12
+wearing: 8
+people: 5
+distancing: 5
+spread: 4
+physical: 3
+think: 3
+wear: 3
+give: 2

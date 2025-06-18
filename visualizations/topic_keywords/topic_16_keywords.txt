@@ -1,11 +1,11 @@
 Topic 16 - En Sık 10 Kelime:
-science: 5
-know: 3
-fauci: 3
-read: 3
-article: 2
-want: 2
-dr: 2
-say: 2
-asked: 2
+church: 4
+amp: 3
+god: 3
 people: 2
+jesus: 2
+since: 2
+year: 2
+patron: 2
+saint: 2
+prayers: 2

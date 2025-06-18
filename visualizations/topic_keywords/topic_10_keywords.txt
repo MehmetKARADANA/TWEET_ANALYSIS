@@ -1,11 +1,11 @@
 Topic 10 - En Sık 10 Kelime:
-americans: 12
-000: 8
-deaths: 6
-died: 5
-dead: 4
-170: 3
-trump: 3
-like: 3
-counting: 2
-way: 2
+need: 1
+funny: 1
+simple: 1
+sadly: 1
+friend: 1
+true: 1
+yeahhh: 1
+en: 1
+el: 1
+oops: 1

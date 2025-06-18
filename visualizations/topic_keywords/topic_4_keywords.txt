@@ -1,11 +1,11 @@
 Topic 4 - En Sık 10 Kelime:
-amp: 36
-gets: 4
-dear: 3
-person: 3
-able: 3
-willing: 3
-counted: 3
-nov: 3
-3: 3
-eod: 3
+vaccine: 30
+vaccines: 8
+covid: 8
+first: 6
+us: 5
+putin: 5
+19: 5
+russia: 4
+president: 4
+vladimir: 4

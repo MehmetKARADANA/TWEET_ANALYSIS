@@ -17,7 +17,7 @@ def plot_daily_tweet_count(df):
     plt.grid(True, linestyle="--", alpha=0.6)
 
     plt.figtext(0.5, -0.1,
-                "Note: Veri setindeki tweetler kısa bir tarih aralığında toplandığı için grafik tekil bir yoğunluk göstermektedir.",
+                "Not: Veri setindeki tweetler kısa bir tarih aralığında toplandığı için grafik tek bir noktada yoğunluk göstermektedir.",
                 wrap=True, horizontalalignment='center', fontsize=10)
 
     plt.savefig("visualizations/daily_tweet_count.png", bbox_inches="tight")

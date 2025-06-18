@@ -1,11 +1,11 @@
 Topic 1 - En Sık 10 Kelime:
-pandemic: 42
-world: 5
-crisis: 5
-continues: 4
-people: 4
-need: 4
-one: 4
-health: 3
-effects: 3
-read: 3
+schools: 12
+school: 11
+reopening: 7
+children: 7
+students: 7
+covid: 5
+open: 5
+19: 4
+cases: 3
+start: 3

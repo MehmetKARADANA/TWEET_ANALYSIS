@@ -1,11 +1,11 @@
 Topic 6 - En Sık 10 Kelime:
-business: 4
-amp: 3
-8: 2
-global: 2
-market: 2
-industry: 2
-uk: 2
-economy: 2
-saw: 2
-4: 2
+amp: 37
+gets: 4
+dear: 3
+person: 3
+able: 3
+willing: 3
+counted: 3
+nov: 3
+3: 3
+eod: 3

@@ -1,6 +1,5 @@
 Topic 18 - En Sık 10 Kelime:
 drug: 3
-spread: 3
 amp: 3
 hands: 3
 3: 3
@@ -9,3 +8,4 @@ sanitizers: 2
 recalled: 2
 use: 2
 hydroxychloroquine: 2
+spread: 2

@@ -1,11 +1,11 @@
 Topic 11 - En Sık 10 Kelime:
-covid: 20
-19: 16
-new: 4
-august: 3
-2020: 3
-get: 3
-cases: 3
-zealand: 2
-20: 2
-us: 2
+golf: 4
+twitter: 4
+social: 4
+facebook: 3
+trump: 3
+finally: 2
+media: 2
+lives: 2
+still: 2
+please: 2

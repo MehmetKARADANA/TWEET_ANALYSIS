@@ -1,11 +1,11 @@
 Topic 5 - En Sık 10 Kelime:
-cases: 33
-new: 18
-total: 10
-reported: 6
-since: 5
-today: 5
-gmt: 4
-august: 4
-2020: 4
-last: 4
+coronavirus: 33
+cases: 11
+new: 8
+news: 7
+update: 6
+corona: 4
+spread: 4
+total: 3
+measures: 3
+taken: 3

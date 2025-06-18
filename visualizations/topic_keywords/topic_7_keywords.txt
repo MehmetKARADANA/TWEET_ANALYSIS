@@ -1,11 +1,11 @@
 Topic 7 - En Sık 10 Kelime:
-coronavirus: 31
-cases: 11
-new: 8
-news: 7
-update: 6
-corona: 4
-spread: 4
-total: 3
-measures: 3
-taken: 3
+cases: 27
+deaths: 24
+new: 11
+total: 9
+1: 8
+india: 7
+last: 7
+24: 6
+hours: 6
+reported: 6

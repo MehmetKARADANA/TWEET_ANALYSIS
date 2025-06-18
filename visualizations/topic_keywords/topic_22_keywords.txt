@@ -1,11 +1,11 @@
 Topic 22 - En Sık 10 Kelime:
-fight: 7
-kenya: 3
-youth: 2
-amazing: 1
-leadership: 1
-100: 1
-days: 1
-zero: 1
-community: 1
-transmission: 1
+csmt: 3
+train: 3
+extended: 3
+upto: 3
+31: 3
+12: 3
+2020: 3
+102: 2
+extension: 2
+join: 2
